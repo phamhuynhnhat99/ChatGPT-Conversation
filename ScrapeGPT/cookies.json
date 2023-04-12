@@ -1,0 +1,69 @@
+[
+  {
+    "domain": "chat.openai.com",
+    "httpOnly": true,
+    "name": "__Secure-next-auth.callback-url",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "https%3A%2F%2Fchat.openai.com%2Fchat"
+  },
+  {
+    "domain": "chat.openai.com",
+    "expiry": 1683801292,
+    "httpOnly": true,
+    "name": "__Secure-next-auth.session-token",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..CDA_sjITzIJELf5k.yn3M2agMnacbi8wH16HFyc4lu7Y4Aq0d11KFFx27-1qwZKH4QbM1Kth01rJsAmFFtbO_ygHxbUdkMm4Vqx1v_XlU3UDJSILzUaPZVywlM2d2VpBY043yKIX9YVeC_6b9siJWCwIkhLfPPt7mD5Tqr8-qth5D7Iiptnbl04AAEyIYoblj292KpVCUXG6wGjTVo5TZOFuExhTdwbM_s2NwynKJaCnFiikhOrStp6g1jjgNGaILuR5yZ-Lr1IQeLPOTWiSjtQu1kCAqI3awTgU2iz0qe-CtN8-hCFlFb5wiVPbCrYts97mc4qyPydFDLfuTDvG0Ov-StjhU1_y-0oR-cHCRtANAAa5_vnGjFrjuSzVazg-1s7dMtRqZrl4n0zr3LjgxrC4zSyMijqXb6JKTgTRdq4jnNyreDlz3IrVNXPt6loGaLTEPFQxH7JdBPrmzV0ow0Yrql_IEGhn1Jy8zOZc3SYJ2I8lhQpUpjb_zTcZTvLggWpepBI77br-i0HyzF2WAOilXdF5B2E2GGXgxxDdlR_iOC0d--yT5_fsp72p84E6efVb4ROOtmy5mOCIkymQ7QXUhQnZfRrfLSROTZ5w6VFSPmlqic0_qKozxHp8xuOJKwVXkerJnYoAy4AQUYJC1LyAX9McBuu_nbTAEo6LfbhzFoKoGBgzgUsyesaZs_UMQegmyg988886CIz_2QeTHB6fvBsatfNylwWPIW_hHmKM89lwFSeKOdJffYHhfFcOj_fFlDVIQ579d1akWRu1s_2A926_LBVmw1PgJCErlHvxWuaVppEKbCMXkLLq5Topp2NWGjWrgDy31pIT6qkXfTMzcsYr2Yow7LA5FqFfQfdSaMOZv1pyJErotsIv3bMeVQWv56fdzrq_9SZy3KmCG-YeOEr6Y9HNBi-uk2fWXtET8iwuC8MxMuTMmLZbcLfhOMhtc7JFQP7RW47nL84OhRRVqFnYz-qfsUIB5QKK7wgIQ_xtah1OpxyE2MLx-zPl_ubTtkMzdge6DTQMGqaPxnUzrntw2dLb9GSC8pKqoLALgv0c8iPfqrv9IHj2GWZFybaGXRnW6lw3xsPJ_x5-uAAK5s08QMeS_CM_uDhK6ByTKM1r-_HIvR-oXa-HsGN_AAUKH-VK1YolDR2RLD4GWGtIR8YW538Ql3XBqYXcGDFIEskWHKYjmV6NnChs4dVfiXo5EMlZ-A9UuM6DjyK6EHLwQs0Dfz66ZB9hZ23oi4_zOIiKiDcDZ6pPac_fnlcGT_HZRJKBYV-OanCxROBC7X5TrO9klfAnZsqhP-zShqbv3GzMvVBKWIQgrZxRY7S9noILIJUyouXmGZl_aKwcYmax48sjzhVgJM2wINlXzco9Al24Ky_UVTeqC8f7r3RV630BZj7eIYYIcUnTqJX8C4ukOs8jizU-DxTo4WqWkxBez574XHQiGPklTbieKOmfV1ufSvlc30mZoHyGAczgoFToaf8QlUt92DE6A5qBJmU_MgcGwdhdFSc2tvdRcXPCeTwDVjenkfSkFIkOSkdYKkF6-dl9ypAdO5cJ5cbpksFnKRrsr8l3g1Imk-ykRfVKu2cuBr3M2plcazBLs6H6derMmkqrQb0TPFakiJ-chFXp8Q14-xtlRyswwXmeQwJSOmBsrAdCihojMZ06KZlGt3WH1G2vjyJ9lymFWFtvRViKVx5ppI7VNiweY-OMGs8gK_WWqVp1o4BgyxUZ-__cRE8OnyAlfKiZd6NsVML8gZoE1JiMqkq1UpHfNDB6Ldifto5Uxuh9OkgWvMiTN7WQpM4dQ852a2ANBrl9IfX4HHoNzXZ7w1a6wmUzNj0_dfBJ2zLGAcg8hgDbsveGwy34Oj11iEgzr5cYdZ19BPH_1zozEQ_7aRUAKnwv6OrOlRYoWiXtshOmK5cRv-ttor4BxgjnSuJ7hpf83vnEUWciYhYqLQPg_i8d6DtVA5VB2Ayc_TLbh5abmtW3SivdJm9kXKgOo7Rq2a4ZDUGgO3W-eICkrJcEJqCBSu3j_by7rBb0dCbGxPWSEtPmvd-VwFSpN54xPn-w9CQMkyYP2Zshb8XS5slhIKQBsnBSK_U5pY9B_9i0y8iJ1FPN0sfxEXcEzw2BqXqP0PIbI34k9Qs9_HnVJvZDkFy2u6depSOPVKUzj_D8eB3QSQ1ePUzwuVxpbW8vzZcAzT9y2ZFTd5oPJvsHOheBj-mcu2Y0qE711sL3RWo7FYogSB0lXP2DwJEGGYsHUdDRB8WhLX_wLJ-H_U6t__yZLqAPn0l6RBr9nele13-E-XQ1QsQceusg_NVyBD5mXfYpilF3TmdJ_Wb6nx7chruwMP0h88MnrDCwYhoX0cx93zcQ25yfRW-opFhM3ZQ2b595GcpfGEl_7r_ntrUkQLyhPzsut61GBO-IPheG6hhkqX6Lllt1HXt_A7bcVRguBYRzHmCcOe-Bt3ZOS-4Lc0ofOH9jK5IDUe-s2tHQoH3DRsNfzRleFROdk3i0Jz_LGS_veIgxtM_XAJxmJtxPTKewgmO9SN4sP1oDjUn_DJ694U-a23xQB_5y1etZLgPsUHjusz4RG_JMu1ENZdR1iHaWeLSd3ONZ8-_iX-IqGPBsoWortPGSF-WwNZV4vphLE4krqYnW6MFGrR9ulsQY023FMDZJUNZ8mGbAreHZ8DcWLbMTRXgd8cfrfYGcZ2R6q3rnzucqKQ6-PPO_ZAkogHwHCkFn7JmrIygytN7APACQzC-jeOMYom5ZHrlu5Zaa2rhlzoYJ_aC5Eq1qEl3po2w.KpGHArFZryuzCoULF358AQ"
+  },
+  {
+    "domain": "chat.openai.com",
+    "expiry": 1681209299,
+    "httpOnly": false,
+    "name": "cf_use_ob",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": false,
+    "value": "0"
+  },
+  {
+    "domain": ".chat.openai.com",
+    "expiry": 1681211060,
+    "httpOnly": true,
+    "name": "__cf_bm",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "537hb_k_7b12QOuAMCr7N0SjcR.791AM21fwz_psBxA-1681209260-0-AftzVBiqAkmrcWnVZz99Yjq+2c/69L3EZ9f7cZxmOUobCi0w5s+Fv74kd34ZWyxuI/OozlTQIbO7ckzK5DNwem4="
+  },
+  {
+    "domain": ".chat.openai.com",
+    "httpOnly": true,
+    "name": "_cfuvid",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "qPeqtrAIGx9KUcqMROPewuD7VePzI6naeLkha7sM61Y-1681209260269-0-604800000"
+  },
+  {
+    "domain": "chat.openai.com",
+    "httpOnly": true,
+    "name": "__Host-next-auth.csrf-token",
+    "path": "/",
+    "sameSite": "Lax",
+    "secure": true,
+    "value": "83e2ac6d97dda8b7d5315c7b28586dfbdf830e457792f6fcd82caf20c33e2b42%7C88938ee36086c16f27437b38e2081d9b28f700b97140a031eef1377980bde425"
+  },
+  {
+    "domain": ".chat.openai.com",
+    "expiry": 1712745259,
+    "httpOnly": true,
+    "name": "cf_clearance",
+    "path": "/",
+    "sameSite": "None",
+    "secure": true,
+    "value": "KIev9gaEFdRrr45vs04Gq3JECcDYJfIOuMxe68bDP04-1681209251-0-1-be35118.5368ba8f.5ce20ef8-160"
+  }
+]
