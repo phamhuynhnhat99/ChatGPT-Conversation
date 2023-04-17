@@ -29,10 +29,10 @@ driver = uc.Chrome(chrome_options=op)
 url = 'https://chat.openai.com'
 url_login = 'https://chat.openai.com/auth/login/'
 
-url_test = ""
+url_test = "https://chat.openai.com/c/4ebcdff8-5d39-47fd-b6c0-23b87561e6b6"
 
-uname = ""
-passw = ""
+uname = "bimnaxu753@gmail.com"
+passw = "Singapore#2708"
 
 
 def refresh(url_=url, wait_time_=4):
@@ -136,7 +136,6 @@ def get_response(prompt):
         many_requests_alert = driver.find_elements(By.XPATH, cls_n)
         if len(many_requests_alert):
             lastText = many_requests_alert[-1].text
-
             _1st_alert = "Too many requests in 1 hour."
             _2nd_alert = "Something went wrong."
             _3rd_alert = "An error occurred."
@@ -148,7 +147,6 @@ def get_response(prompt):
         inputElements = driver.find_elements(By.TAG_NAME, "textarea")
         inputElements[0].send_keys(prompt)
         driver.implicitly_wait(2)
-        
         btnElements = driver.find_elements(By.TAG_NAME, "button")
         btnElements[-1].click()
         time.sleep(3)
@@ -196,61 +194,71 @@ def get_response(prompt):
     return response
 
 
-def get_list_of_comments(csv_path="test.csv"):
-    df = pd.read_csv(csv_path)
-    short_cmt_df = df["content"]
-    return list(short_cmt_df)
-
-
 def run():
     openai_login(uname, passw)
     skip_popups()
 
     all_labels = ["Positive", "Negative", "Neutral", "Unknown"]
- 
-    result_list = []
+
     prefix = 'Hãy đánh nhãn câu '
     suffix = '. Trả lời trắc nghiệm, chỉ chọn 1 trong 4 nhãn: Positive, Negative, Neutral, Unknown và không cần nói thêm'
     
-    test_list = get_list_of_comments()
+    df = pd.read_excel("test.xls")
+    # df = df.iloc[:30]
+    test_list = list(df["sentence"])
+    y_true = list(df["label"])
+    y_pred = []
 
     for i, cmt in enumerate(test_list):
-        if i >= 500:
-            prompt = prefix + '"' + cmt + '"' + suffix
-            try:
-                response = get_response(prompt)
-            except Exception as e:
-                print("Error of this text", prompt)
-                print("Error occurred when trying to request:", e)
-                response = "Unknown_"
-                refresh(url_=url_test, wait_time_=4)
+        # prompt = prefix + '"' + cmt + '"' + suffix
+        prompt = prefix + cmt + suffix
+        try:
+            response = get_response(prompt)
+        except Exception as e:
+            print("Error of this text", prompt)
+            print("Error occurred when trying to request:", e)
+            response = "Unknown_"
+            refresh(url_=url_test, wait_time_=4)
 
-            label_x = "Unknown"
-            for label in all_labels:
-                if label in response:
-                    label_x = label
+        label_x = "Unknown"
+        for label in all_labels:
+            if label in response:
+                label_x = label
 
-            result_list.append(label_x)
+        y_pred.append(label_x)
 
-            time_out = random.randint(13, 19)
-            try:
-                if len(result_list)==50:
-                    time_out = random.randint(60, 120)
+        time_out = random.randint(13, 19)
+        time_out = random.randint(1, 3)
+        time.sleep(time_out)
 
-                    df = pd.DataFrame(result_list, columns=["Label"])
-                    name = "label_" + str(i//50) + ".csv"
-                    df.to_csv(name)
-                    result_list = []
-            except Exception as e:
-                print(e)
+    df["predict"] = y_pred
+    
+    check = []
+    for t, p in zip(y_true, y_pred):
+        if t == p:
+            check.append(1)
+        else:
+            check.append(0)
+    print(sum(check)/len(y_pred))
+    df["check"] = check
+    df.to_csv("result.csv", index=False)
 
-            time_out = random.randint(1, 3)
-            time.sleep(time_out)
+    # confusion matrix
+    cm = dict()
+    for i in all_labels:
+        cm[i] = dict()
+        for j in all_labels:
+            cm[i][j] = 0
 
-    if len(result_list) > 0:
-        df = pd.DataFrame(result_list, columns=["Label"])
-        name = "label_remainder" + ".csv"
-        df.to_csv(name)
+    for p, t in zip(y_pred, y_true):
+        cm[p][t] += 1
+
+    confusion = pd.DataFrame()
+    for p in all_labels:
+        confusion[p] = [cm[p][t] for t in all_labels]
+    confusion["all_labels"] = all_labels
+    confusion.set_index("all_labels", inplace=True)
+    confusion.to_csv("confusion.csv", index=True)
     
     driver.close()
 
