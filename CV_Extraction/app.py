@@ -1,26 +1,24 @@
-import sys
+import os
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import undetected_chromedriver as uc
 from fake_useragent import UserAgent
 
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 import pandas as pd
 import random
 import re
+
 op = webdriver.ChromeOptions()
+op.add_argument('--headless=new')
 op.add_argument(f"user-agent={UserAgent.random}")
 op.add_argument("user-data-dir=./")
 op.add_experimental_option("detach", True)
 op.add_experimental_option("excludeSwitches", ["enable-logging"])
 
-##############################
-##
-## op.add_argument('headless')
-##
-## don't show the browser (it doesn't seem to work with undetected_chromedriver) ###
-## 
-###############################
 
 import json
 from pathlib import Path
@@ -67,24 +65,23 @@ def load_cookie():
 
 
 def openai_login(MAIL, PASSWORD):
-    # Try to log in with cookies
+    # Try to login with cookies
     load = False
     try:
         refresh(url_=url, wait_time_=4)
         driver.delete_all_cookies()
         load = load_cookie()
         if load:
-            time.sleep(1)
             refresh(url_=url, wait_time_=4)
     except Exception as e:
         print("Error occurred when trying to login:", e)
     
     if not load:
         print("Need Log in")
-        refresh(url_=url_login, wait_time_=10)
+        refresh(url_=url_login, wait_time_=8)
         inputElements = driver.find_elements(By.TAG_NAME, "button")
         inputElements[0].click()
-        time.sleep(10)
+        time.sleep(8)
 
         mail = driver.find_elements(By.TAG_NAME, "input")[1]
         mail.send_keys(MAIL)
@@ -143,17 +140,20 @@ def get_response(prompt):
         return over
 
     def send_input():
-        inputElements = driver.find_elements(By.TAG_NAME, "textarea")
-        inputElements[0].send_keys(prompt)
-        driver.implicitly_wait(2)
+        wait = WebDriverWait(driver, 60)
+        query = wait.until(
+                EC.presence_of_element_located((By.TAG_NAME, "textarea"))
+            )
+        query.send_keys(prompt)
+        
         btnElements = driver.find_elements(By.TAG_NAME, "button")
         btnElements[-1].click()
         time.sleep(3)
 
-    def get_output():
+    def get_output(): 
         output = "Unknown"
         kill_time = 0
-        max_kill_time = 180
+        max_kill_time = 240
         while kill_time < max_kill_time:
             try:
                 outputElements = driver.find_elements(By.XPATH, cls_n)
@@ -175,10 +175,9 @@ def get_response(prompt):
         message = "Waiting for " + str(time_out) + " minutes!!!"
         print(message)
         time.sleep(time_out*60)
-
         refresh(url_=url_test, wait_time_=3)
         send_input()
-    print("Allowed to ask.")
+    print("Allowed to answer.")
 
     kill_time = 0
     max_kill_time = 200
@@ -194,10 +193,17 @@ def get_response(prompt):
     return response
 
 
-def get_list_of_comments(csv_path="test.csv"):
-    df = pd.read_csv(csv_path)
-    short_cmt_df = df["content"]
-    return list(short_cmt_df)
+def get_list_of_questions(input_path="./input/"):
+    questions = []
+    for i in range(len(os.listdir(input_path))):
+        txt_file = "input_" + str(i) + ".txt"
+        txt_file_path = os.path.join(input_path, txt_file)
+        with open(txt_file_path, "r") as fi:
+            cv = fi.read()
+            questions.append(cv)
+            fi.close()
+
+    return questions
 
 
 def run():
@@ -207,47 +213,27 @@ def run():
     all_labels = ["Positive", "Negative", "Neutral", "Unknown"]
  
     result_list = []
-    prefix = 'Hãy đánh nhãn câu '
-    suffix = '. Trả lời trắc nghiệm, chỉ chọn 1 trong 4 nhãn: Positive, Negative, Neutral, Unknown và không cần nói thêm'
+    prefix = ""
+    suffix = ". Show me that short extraction of this CV in json format and do not say anything else."
     
-    test_list = get_list_of_comments()
+    questions = get_list_of_questions()
 
-    for i, cmt in enumerate(test_list):
-        if i >= 0:
-            prompt = prefix + '"' + cmt + '"' + suffix
-            try:
-                response = get_response(prompt)
-            except Exception as e:
-                print("Error of this text", prompt)
-                print("Error occurred when trying to request:", e)
-                response = "Unknown_"
-                refresh(url_=url_test, wait_time_=4)
-
-            label_x = "Unknown"
-            for label in all_labels:
-                if label in response:
-                    label_x = label
-            result_list.append(label_x)
-
-            time_out = random.randint(5, 10)
-            try:
-                if len(result_list)==50:
-                    time_out = random.randint(60, 120)
-
-                    df = pd.DataFrame(result_list, columns=["Label"])
-                    name = "label_" + str(i//50) + ".csv"
-                    df.to_csv(name)
-                    result_list = []
-            except Exception as e:
-                print(e)
-
-            time_out = random.randint(1, 3)
-            time.sleep(time_out)
-
-    if len(result_list) > 0:
-        df = pd.DataFrame(result_list, columns=["Label"])
-        name = "label_remainder" + ".csv"
-        df.to_csv(name)
+    for i, question in enumerate(questions):
+        prompt = prefix + question + suffix
+        
+        try:
+            response = get_response(prompt)
+        except Exception as e:
+            print("Error of this text", prompt)
+            print("Error occurred when trying to request:", e)
+            response = "{}"
+            refresh(url_=url_test, wait_time_=4)
+        
+        json_object = json.dumps(response, sort_keys=True, indent=4, separators=(',', ': '))
+        json_file_path = "./output/output_" + str(i) + ".json"
+        with open(json_file_path, "w") as fo:
+            fo.write(json_object)
+            fo.close()
     
     driver.close()
 

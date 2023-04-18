@@ -1,17 +1,17 @@
 sentence,label,predict,check
-"""slide giáo trình đầy đủ .""",Positive,Neutral,0
+"""slide giáo trình đầy đủ .""",Positive,Positive,1
 """nhiệt tình giảng dạy , gần gũi với sinh viên .""",Positive,Positive,1
-"""đi học đầy đủ full điểm chuyên cần .""",Negative,Neutral,0
+"""đi học đầy đủ full điểm chuyên cần .""",Negative,Positive,0
 """chưa áp dụng công nghệ thông tin và các thiết bị hỗ trợ cho việc giảng dạy .""",Negative,Negative,1
 """thầy giảng bài hay , có nhiều bài tập ví dụ ngay trên lớp .""",Positive,Positive,1
 """giảng viên đảm bảo thời gian lên lớp , tích cực trả lời câu hỏi của sinh viên , thường xuyên đặt câu hỏi cho sinh viên .""",Positive,Positive,1
 """em sẽ nợ môn này , nhưng em sẽ học lại ở các học kỳ kế tiếp .""",Neutral,Neutral,1
 """thời lượng học quá dài , không đảm bảo tiếp thu hiệu quả .""",Negative,Negative,1
 """nội dung môn học có phần thiếu trọng tâm , hầu như là chung chung , khái quát khiến sinh viên rất khó nắm được nội dung môn học .""",Negative,Negative,1
-"""cần nói rõ hơn bằng cách trình bày lên bảng thay vì nhìn vào slide .""",Negative,Negative,1
+"""cần nói rõ hơn bằng cách trình bày lên bảng thay vì nhìn vào slide .""",Negative,Positive,0
 """thầy rất tận tình và đi dạy rất đúng giờ .""",Positive,Positive,1
-"""dễ bị áp lực .""",Negative,Neutral,0
-"""đang dạy thầy wzjwz208 đi qua nước ngoài giữa chừng , thầy wzjwz209 dạy thay .""",Neutral,Unknown,0
+"""dễ bị áp lực .""",Negative,Negative,1
+"""đang dạy thầy wzjwz208 đi qua nước ngoài giữa chừng , thầy wzjwz209 dạy thay .""",Neutral,Neutral,1
 """môn học còn dễ cần nâng độ khó lên nữa .""",Negative,Positive,0
 """có thể cho sinh viên đi thăm quan nhiều công ty xem quy mô và cách làm việc , để giúp hiểu rõ hơn vê ngành mình đang học .""",Negative,Positive,0
 """hài lòng về tất cả .""",Positive,Positive,1
@@ -20,7 +20,7 @@ sentence,label,predict,check
 """phong cách giảng bài của thầy rất gần gũi với sinh viên !""",Positive,Positive,1
 """giảng dạy kết hợp các hoạt động giải trí có hiệu quả .""",Positive,Positive,1
 """cần tạo các buổi seminar để sinh viên có thể hiểu sâu thêm về các vấn đề trong chuyên ngành nhưng không có trong môn học .""",Negative,Positive,0
-"""tiết học thoải mái .""",Positive,Neutral,0
+"""tiết học thoải mái .""",Positive,Positive,1
 """thầy nhiệt tình , quan tâm tới sinh viên .""",Positive,Positive,1
 """giảng dạy nhiệt tình , hướng dẫn chi tiết đến lúc sinh viên hiểu !""",Positive,Positive,1
 """chưa có nhiều tiết làm bài tập , chữa bài tập trên lớp .""",Negative,Negative,1
@@ -55,7 +55,7 @@ sentence,label,predict,check
 """thầy nhiệt tình , gần gũi .""",Positive,Positive,1
 """giảng viên tận tâm , giảng dễ hiểu , dễ tiếp thu .""",Positive,Positive,1
 """tạo ra sự cạnh tranh trong mỗi buổi thực hành .""",Neutral,Neutral,1
-"""bài tập và có code tham khảo .""",Positive,Neutral,0
+"""bài tập và có code tham khảo .""",Positive,Unknown,0
 """cần nâng cấp hệ thống wifi , vì khi vào phòng thực hành , sinh viên không thể truy cập internet , buộc phải xin phép ra ngoài để làm bài .""",Negative,Negative,1
 """tài liệu không chi tiết lắm .""",Negative,Negative,1
 """tận tâm , nhiệt tình , vui tính , dễ gần với sinh viên .""",Positive,Positive,1
@@ -63,7 +63,7 @@ sentence,label,predict,check
 """thầy dạy không đúng giờ , không hướng dẫn sinh viên thực hành .""",Negative,Negative,1
 """giúp đỡ học sinh quá ít .""",Negative,Negative,1
 """cô dạy buồn ngủ quá .""",Negative,Negative,1
-"""nên kinh mong nội dung môn học được giảm tải cho phù hợp hơn với đặc thù của một trường công nghệ thông tin .""",Negative,Negative,1
+"""nên kinh mong nội dung môn học được giảm tải cho phù hợp hơn với đặc thù của một trường công nghệ thông tin .""",Negative,Positive,0
 """thầy tận tình vui tính .""",Positive,Positive,1
 """cô lại kiểu khó tính nữa .""",Negative,Negative,1
 """tạo hứng thú cho sinh viên .""",Positive,Positive,1
@@ -84,12 +84,12 @@ sentence,label,predict,check
 """môn lập trình hướng đối tượng nên cập nhật thêm những nội dung mới , dễ hiểu và giảng giải cụ thể hơn .""",Negative,Positive,0
 """giáo viên nhiệt tình , tâm huyết , khả năng truyền đạt tốt .""",Positive,Positive,1
 """thầy dạy rất tốt và nhiệt tình .""",Positive,Positive,1
-"""cô nói hơi nhỏ , nếu lớp ồn sẽ khó nghe .""",Negative,Neutral,0
+"""cô nói hơi nhỏ , nếu lớp ồn sẽ khó nghe .""",Negative,Negative,1
 """bài tập cô đưa ra nhiều , và khó tìm hiểu , với kiến thực hiện tại của sinh viên thì khó có thể tìm hiểu và làm tốt bài tập cô ra .""",Negative,Negative,1
-"""bài tập và hoạt động nhóm còn ít .""",Negative,Negative,1
+"""bài tập và hoạt động nhóm còn ít .""",Negative,Neutral,0
 """giảng viên rất nhiệt tình , phương pháp giảng dạy hay , sinh viên nắm bắt kiến thức ngay trên lớp .""",Positive,Positive,1
 """cô hướng dẫn thực hành khá đầy đủ .""",Positive,Neutral,0
-"""được học nhiều kinh nghiệm từ thầy wzjwz163 .""",Positive,Neutral,0
+"""được học nhiều kinh nghiệm từ thầy wzjwz163 .""",Positive,Positive,1
 """kiến thức của thầy rất tốt , bảo đảm giờ lên lớp .""",Positive,Positive,1
 """hiện tại em chưa thấy tác dụng gì nhiều khi học môn này .""",Negative,Neutral,0
 """cải thiện lại cơ sở vật chất máy chiếu trong phòng học .""",Negative,Positive,0
@@ -98,4 +98,4 @@ sentence,label,predict,check
 """lớp học quá đông !""",Negative,Negative,1
 """môn căn bản mà thầy không dạy cho sinh viên kỹ , gây không hiểu , mất căn bản .""",Negative,Negative,1
 """giảng viên chưa cho bài tập về nhà để sinh viên làm nên cho 5 bài mỗi chương , không cần chữa chỉ cần đáp án .""",Negative,Negative,1
-"""mà hiện tại trường ta chưa có , đây là thiệt thòi lớn đối với tụi em .""",Negative,Neutral,0
+"""mà hiện tại trường ta chưa có , đây là thiệt thòi lớn đối với tụi em .""",Negative,Negative,1

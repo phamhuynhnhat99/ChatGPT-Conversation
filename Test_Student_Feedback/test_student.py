@@ -87,7 +87,7 @@ def openai_login(MAIL, PASSWORD):
 
         mail = driver.find_elements(By.TAG_NAME, "input")[1]
         mail.send_keys(MAIL)
-        btn=driver.find_elements(By.TAG_NAME, "button")[0]
+        btn = driver.find_elements(By.TAG_NAME, "button")[0]
         btn.click()
 
         password= driver.find_elements(By.TAG_NAME,"input")[2]
@@ -127,9 +127,7 @@ def get_response(prompt):
             u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
                             "]+", flags=re.UNICODE)
         return emoji_pattern.sub(r'', text)
-    prompt = filter_text(text=prompt)
-
-
+    
     def check_too_many_requests():
         over = False
         cls_n = "//div[@class='flex flex-grow flex-col gap-3']"
@@ -165,12 +163,12 @@ def get_response(prompt):
                 kill_time += 3
                 refresh(url_=url_test, wait_time_=3)
         return output
-
+    
+    prompt = filter_text(text=prompt)
     cls_n = "//div[@class='markdown prose w-full break-words dark:prose-invert light']"
     stop_generate_btn_class = "//button[@class='btn relative btn-neutral border-0 md:border']"
 
     send_input()
-
     while check_too_many_requests():
         time_out = random.randint(5, 15)
         message = "Waiting for " + str(time_out) + " minutes!!!"
@@ -249,10 +247,8 @@ def run():
         cm[i] = dict()
         for j in all_labels:
             cm[i][j] = 0
-
     for p, t in zip(y_pred, y_true):
         cm[p][t] += 1
-
     confusion = pd.DataFrame()
     for p in all_labels:
         confusion[p] = [cm[p][t] for t in all_labels]
