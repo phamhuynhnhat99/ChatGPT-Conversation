@@ -1,0 +1,139 @@
+y_true,y_pred,y_text,content,category
+2,2,"Đáp án: 2. Người bình luận đang thắc mắc và cần thêm thông tin về giá hoặc sản phẩm. Bình luận ""Bn vậy e"" có thể được hiểu là người bình luận muốn biết giá của sản phẩm hoặc đang cần tư vấn thêm về sản phẩm để quyết định mua.",Bn vậy e,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm, có thể là kích cỡ, màu sắc, chất liệu hoặc các thông số khác liên quan đến sản phẩm. Tuy nhiên, bình luận ""V27"" cụ thể chỉ là mã sản phẩm của sản phẩm được bán trong livestream.",V27,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""I"" không có đủ thông tin để phân tích ý nghĩa hoặc mục đích của người bình luận, nên không thể chọn được đáp án nào trong các lựa chọn đã cho.",I,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""V55"" có thể là mã sản phẩm hoặc mã phiên bản của sản phẩm, do đó người bình luận muốn chọn thông số cho sản phẩm đó.",V55,others
+3,3,"Đáp án: 3. Bình luận ""v55"" có chứa thông số sản phẩm, được đặt trong dấu """" và có chữ v đứng trước số, có thể là viết tắt của ""variant"" - biến thể của sản phẩm, cho thấy người bình luận muốn chọn một phiên bản cụ thể của sản phẩm.",v55,others
+2,3,"Đáp án: 3. Người bình luận muốn mua sản phẩm và yêu cầu bán hàng bán cho họ một cái. Tuy nhiên, bình luận này thiếu thông tin về sản phẩm cụ thể mà người bình luận muốn mua, vì vậy không thể xác định được thông số sản phẩm mà họ muốn mua.",Bn 1 cái em,others
+0,1,Đáp án: 1. Người bình luận đang nhắc đến bản thân mình vừa tham gia vào livestream.,Chị vừa vào,others
+3,3,"Đáp án: 3.
+Bình luận ""v1"" có thể là viết tắt của ""version 1"" để chỉ thông số hoặc phiên bản sản phẩm. Việc sử dụng từ khoá ""v1"" có thể cho thấy người bình luận quan tâm đến các thông số kỹ thuật hoặc phiên bản sản phẩm cụ thể.",v1,others
+3,7,"Không phân tích được. ""V71"" không mang thông tin đủ để phân tích ý nghĩa bình luận trong ngữ cảnh livestream bán hàng others.",V71,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""V19"" không nhắc tên riêng, không thể đánh giá sản phẩm khi chưa nhận được hoặc đã nhận được sản phẩm. Tuy nhiên, ""V19"" có thể là mã sản phẩm hoặc mã thông số sản phẩm mà người bình luận đang quan tâm. Vì vậy, đáp án chính xác nhất là người bình luận muốn chọn thông số cho sản phẩm.",V19,others
+3,5,Đáp án: 5. Người bình luận đã nhận được sản phẩm nhưng không thích sản phẩm.,v6,others
+3,4,"Đáp án là 4. Bình luận không nhắc tên riêng, không muốn chia sẻ hoặc chọn thông số sản phẩm. Bình luận cho biết người dùng đã chốt đơn hàng nhưng chưa nhận được sản phẩm.",V17,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""V58"" không cung cấp đủ thông tin để xác định xem người bình luận đang nói về việc nhận hàng hay chưa, thích hay không thích sản phẩm, hủy đơn hàng hay không. Tuy nhiên, từ ""V58"" có thể hiểu rằng người bình luận đang hỏi về thông số của sản phẩm, có thể muốn biết kích cỡ, màu sắc hoặc chất liệu của sản phẩm. Do đó, đáp án là 3.",V58,others
+3,2,"Đáp án: 2. Bình luận không cung cấp đủ thông tin để xác định được ý kiến của người bình luận. ""v5"" có thể là một mã sản phẩm, một yêu cầu hoặc câu hỏi, nhưng không đủ để xác định được ý kiến của người bình luận.",v5,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Lời bình luận ""V5"" không đề cập đến tên riêng, không thể nhận biết được sự thắc mắc hay đã chốt đơn hay chưa, cũng không đề cập đến việc đã nhận sản phẩm hay không, cũng không có ý muốn hủy đơn hàng hoặc không muốn nhận sản phẩm. Tuy nhiên, với thông tin hiện có, chúng ta biết rằng người bình luận muốn chọn thông số cho sản phẩm.",V5,others
+2,3,"Đáp án: 3. Người bình luận muốn tìm hiểu giá bán của sản phẩm ""Bong"" và yêu cầu người bán cập nhật thông tin giá vào sản phẩm đó. ""gia bn Bong"" có thể hiểu là ""Giá bán sản phẩm Bong là bao nhiêu?""",gia bn Bong oimoi vao,others
+3,0,"Đáp án: 0. Không thể phân tích được ý nghĩa của bình luận ""V69"" vì không có đủ thông tin để hiểu được người bình luận muốn nói gì.",V69,others
+2,1,"Đáp án: 1.
+Giải thích: Bình luận này có chứa từ ""em"" giống như một người nói chuyện với ai đó trực tiếp, cho thấy người bình luận đang hỏi hoặc trao đổi trực tiếp với chủ shop. Cụ thể, ""Bn vậy em"" có thể hiểu là người bình luận đang hỏi chủ shop xem sản phẩm đó có sẵn hay không, hoặc hỏi về giá cả, kích cỡ, màu sắc, v.v.",Bn vậy em,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Bình luận ""v16"" không cung cấp đủ thông tin để phân tích ý nghĩa hoàn chỉnh của nó, nhưng thông thường các kí tự hoặc từ khóa như vxx, size xx, màu xx, giá xx sẽ thường được sử dụng để yêu cầu, chọn hoặc tìm kiếm các thông số của sản phẩm. Trong trường hợp này, ""v16"" có thể đại diện cho một thông số cụ thể của sản phẩm, có thể là kích thước, màu sắc hoặc giá cả.",v16,others
+3,3,"Đáp án: 3. Bình luận ""V16"" có thể là yêu cầu để chọn thông số cho sản phẩm, ví dụ như kích cỡ, màu sắc hoặc kiểu dáng. Tuy nhiên, nếu không có thông tin thêm, chúng ta không thể biết chính xác nội dung cụ thể của yêu cầu này.",V16,others
+3,3,"Đáp án: 3. Bình luận ""V18"" có thể là yêu cầu của khách hàng muốn chọn thông số cho sản phẩm, có thể là size, màu sắc hoặc các thông số khác. Tuy nhiên, không đủ thông tin để xác định chính xác yêu cầu của khách hàng, vì vậy đáp án có thể không chính xác 100%.",V18,others
+3,2,"Đáp án: 2. Người bình luận đang thắc mắc về vấn đề nào đó liên quan đến sản phẩm hoặc quá trình mua hàng, nhưng bình luận không cung cấp đủ thông tin để xác định được chính xác là vấn đề gì.",v86,others
+3,0,Đáp án: 0. Không phân tích được vì không có thông tin hoặc nội dung của bình luận bị thiếu.,V86,others
+2,4,"Đáp án: 4. Bình luận này cho thấy người bình luận đã chốt đơn hàng nhưng vẫn chưa nhận được sản phẩm, do đó đáp án là 4 - đã chốt đơn nhưng chưa nhận được sản phẩm.",Chi ơi nây giơ chôt khg đươc,others
+3,0,"Đáp án: 0.
+Bình luận ""v11"" không cho thấy bất kỳ ý kiến, câu hỏi hoặc thông tin cụ thể về sản phẩm nào hoặc vấn đề gì. Nó chỉ là một từ đơn thuần và không đủ để xác định được ý nghĩa của người bình luận.",v11,others
+0,2,Đáp án: 2. Bình luận này đang thắc mắc về việc người bán có thể nhìn thấy mình trên livestream không.,C nhìn thấy e ko,others
+3,0,"Đáp án: 0. Không phân tích được vì ""V77"" không mang ý nghĩa rõ ràng hoặc không liên quan đến bất kỳ hoạt động mua bán hay giao dịch nào.",V77,others
+0,2,"Đáp án: 2. Bình luận ""E chưa dc"" có thể hiểu là người bình luận đang thắc mắc về việc chưa nhận được hoặc chưa được giải đáp thắc mắc nào đó từ phía người bán hàng. Do đó, đáp án là 2 - đang thắc mắc.",E chưa dc,others
+0,1,"Đáp án: 1. Bình luận này có chữ ""chị"" được sử dụng để nhắc tới người bán hàng, do đó nó thuộc vào nhóm nhắc tên riêng hoặc muốn chia sẻ.",Chị ơi,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""V56"" không phải là câu bình luận thông thường, nhưng có thể là thông số hoặc mã sản phẩm. Vì vậy, nếu không phân tích được nó là gì thì chúng ta có thể giả định rằng người bình luận muốn chọn thông số cho sản phẩm.",V56,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""V79"" có thể là mã số hoặc thông số cho sản phẩm trong livestream bán hàng. Người bình luận có thể quan tâm đến thông số này và muốn biết thêm chi tiết về sản phẩm. Do đó, đáp án là 3 - muốn chọn thông số cho sản phẩm.",V79,others
+0,2,"Đáp án: 2. Bình luận này có thể đang thắc mắc hoặc yêu cầu giải đáp thêm về sản phẩm hoặc về quá trình mua hàng. Tuy nhiên, thông tin cung cấp rất hạn chế nên không thể xác định chính xác mục đích của bình luận này.",Chị chưa đc nè,others
+3,2,"Đáp án: 2. Bình luận không cung cấp đủ thông tin để xác định bất kỳ hành động nào của người bình luận đối với sản phẩm. ""V22"" không liên quan đến câu hỏi, chia sẻ, thông tin về đơn hàng hay sản phẩm.",V22,others
+3,0,"Đáp án: 0.
+Giải thích: Bình luận ""V87"" không cho thấy bất kỳ thông tin nào liên quan đến việc nhắc tên riêng, thắc mắc, chọn thông số sản phẩm, đơn hàng, hoặc cảm nhận về sản phẩm. Nên không thể phân tích bình luận này theo bất kỳ một nhãn nào trong các nhãn đã cho.",V87,others
+3,3,"Đáp án: 3. Bình luận ""S"" có thể là yêu cầu chọn kích cỡ S cho sản phẩm. Do đó, đây là trường hợp muốn chọn thông số cho sản phẩm.",S,others
+2,2,"Đáp án: 2. Bình luận này đang thắc mắc và hỏi về sản phẩm có sẵn ""ví nam"" hay không.",Có ví nam không em,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""V29"" không cho thấy ý kiến của người bình luận về việc đặt hàng, sản phẩm hay dịch vụ, mà chỉ là một ký hiệu mã sản phẩm ""V29"". Do đó, không thể suy đoán ý kiến của người bình luận. Tuy nhiên, với nhãn ""V"" và số ""29"", đây có thể là yêu cầu của người bình luận về việc muốn chọn thông số sản phẩm để đặt hàng.",V29,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận chỉ đơn thuần là một chuỗi ký tự ""V8"" mà không có bất kỳ ngữ cảnh hoặc thông tin bổ sung nào khác. Tuy nhiên, trong ngành bán hàng, ""V8"" có thể là một mã hoặc thông số của sản phẩm nào đó, do đó đây có thể là yêu cầu của người bình luận để chọn thông số cho sản phẩm tương ứng.",V8,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""V68"" không có thông tin gì về việc nhắc tên riêng, chia sẻ, thắc mắc, đơn hàng hay sở thích sản phẩm. Tuy nhiên, ""V68"" có thể là mã sản phẩm hoặc mã màu của sản phẩm và người bình luận muốn chọn sản phẩm với thông số ""V68"". Do đó, đáp án là 3.",V68,others
+3,2,Đáp án: 2. Bình luận không đưa ra đủ thông tin để phân tích rõ ràng.,V52,others
+3,5,"Đáp án: 5. Người bình luận đã nhận được sản phẩm nhưng không thích sản phẩm.
+Giải thích: Bình luận ""V81"" không nhắc tên riêng, không đang thắc mắc, không muốn chọn thông số cho sản phẩm, không phản ánh về việc chưa nhận được sản phẩm hay muốn hủy đơn hàng. Tuy nhiên, người bình luận cho biết đã nhận được sản phẩm và không thích sản phẩm, cho thấy ý kiến phản hồi tiêu cực về sản phẩm. Do đó, đáp án là 5 - đã nhận được sản phẩm và không thích sản phẩm.",V81,others
+3,2,Đáp án: 2. Bình luận không cung cấp đủ thông tin để phân tích.,V82,others
+3,0,Error occurred,V66,others
+3,0,"Đáp án: 0.
+Giải thích: Bình luận ""V51"" không cung cấp đủ thông tin để phân tích ra nhãn nào trong danh sách.",V51,others
+3,4,"Đáp án: 4. Bình luận ""V61"" cho thấy người bình luận đã chốt đơn hàng nhưng chưa nhận được sản phẩm.",V61,others
+3,0,"Đáp án: 0
+Giải thích: Bình luận không liên quan đến sản phẩm hoặc không có đủ thông tin để phân tích.",V85,others
+3,0,"Đáp án: 0.
+Giải thích: Bình luận ""V851"" không có đủ thông tin để phân tích được ý kiến của người bình luận, vì vậy không thể gán nhãn vào bất kỳ trường hợp nào trong các lựa chọn đã cho.",V851,others
+3,2,Đáp án: 2. Bình luận không đưa ra đủ thông tin để phân tích.,V78,others
+3,0,"Đáp án: 0. Bình luận ""V781"" không cung cấp đủ thông tin để phân tích theo các nhãn đã cho.",V781,others
+3,2,"Đáp án: 2. Đang thắc mắc.
+Giải thích: Bình luận ""V75"" không cho thấy ý kiến, đánh giá hay yêu cầu cụ thể nào về sản phẩm hoặc dịch vụ. Tuy nhiên, không thể xác định được bình luận này muốn chọn thông số cho sản phẩm, muốn hủy đơn hàng hoặc không muốn nhận sản phẩm, vì không có thông tin về nhu cầu của người bình luận.",V75,others
+1,2,"Đáp án: 2. Bình luận ""Dcs"" không đủ thông tin để phân tích xác định được ý kiến của người bình luận.",Dcs,others
+0,2,"Đáp án: 2. Bình luận này đang thắc mắc về vấn đề gì đó, tuy nhiên vì không có đầy đủ ngữ cảnh nên không thể xác định chính xác được vấn đề mà người bình luận đang thắc mắc.",Thây e k ạ,others
+0,4,Đáp án: 4. Bình luận này có ý nghĩa là người bình luận đã chốt đơn hàng nhưng vẫn chưa nhận được sản phẩm.,Chốt mãi k dc,others
+3,0,"Đáp án: 0. Không phân tích được.
+""Bình luận"" V95 không mang ý nghĩa cụ thể hoặc liên quan đến các hành động mua/bán sản phẩm, do đó không thể phân tích được.",V95,others
+3,3,"Đáp án: 3. Bình luận ""V59"" có thể là việc người bình luận muốn chọn kích thước, màu sắc hoặc thông số khác cho sản phẩm có mã V59.",V59,others
+3,3,"Đáp án: 3. Bình luận ""V215"" có vẻ như là yêu cầu chọn thông số cho sản phẩm, có thể là kích cỡ, màu sắc, hoặc các thông số khác liên quan đến sản phẩm.",V215,others
+3,2,"Đáp án: 2. Bình luận ""V159"" không nhắc tên riêng, không muốn chia sẻ hay đưa ra ý kiến cụ thể về sản phẩm, không yêu cầu thay đổi thông số sản phẩm, không liên quan đến việc chốt đơn hàng hoặc nhận sản phẩm, cũng không yêu cầu hủy đơn hàng hoặc không nhận sản phẩm. Do đó, không thể chọn bất kỳ nhãn nào trong danh sách và đáp án cuối cùng là 0.",V159,others
+3,5,"Đáp án: 5. Người bình luận đã nhận được sản phẩm nhưng không thích sản phẩm.
+Giải thích: Bình luận chỉ rõ rằng người đó đã nhận được sản phẩm và cho biết họ không thích sản phẩm đó. Các từ khóa như ""đã nhận hàng"", ""thử lên rồi màu này không hợp"", ""không ưng ý lắm"" cho thấy người bình luận đã có trải nghiệm với sản phẩm và có ý kiến không tốt về sản phẩm đó. Do đó, đáp án là 5 - đã nhận được sản phẩm và không thích sản phẩm.",V91,others
+3,0,"Đáp án: 0. Không phân tích được.
+Giải thích: Bình luận ""V911"" không cung cấp đủ thông tin để phân tích theo các nhãn đã cho.",V911,others
+3,1,"Đáp án: 1. Bình luận nhắc tới ""Cô xã"" có thể là cách gọi thân mật của người bình luận đối với người bán hoặc người khác trong cộng đồng xem livestream.",Cô xã V27,others
+3,3,Đáp án: 3. Bình luận này muốn chọn thông số cho sản phẩm bằng cách yêu cầu kích cỡ là 35 và mức giá là 99.,Size 35 q99,others
+3,3,"Đáp án: 3. Bình luận này đang muốn chọn kích thước và chất lượng của sản phẩm. ""Q99"" thường là chỉ số chất lượng sản phẩm, còn ""sz 37"" là kích thước sản phẩm.",Q99 sz 37,others
+3,3,"Người bình luận muốn chọn thông số cho sản phẩm. ""Q99 36"" có thể là mã sản phẩm hoặc thông số cho sản phẩm, trong đó ""Q99"" có thể là mã chung cho một loại sản phẩm, còn ""36"" là kích thước của sản phẩm. Do đó, người bình luận đang muốn chọn kích thước cho sản phẩm mà họ quan tâm.",Q99 36,others
+3,2,"Đáp án: 2. Bình luận ""Sai36"" không rõ ràng và không đủ thông tin để xác định mục đích hoặc ý kiến của người bình luận. Không phân tích được đáp án theo các tiêu chí đã cho.",Sai36,others
+2,2,"Đáp án: 2.
+Bình luận này không liên quan đến việc mua hàng hoặc sản phẩm, mà là một thông báo về việc người bình luận sẽ đi làm trong thời gian sắp tới và cần phải mua một chiếc túi xách.",Lên giỏ xách nữa c sắp di làm roy,others
+3,2,"Đáp án: 2.
+Giải thích: Bình luận này không liên quan đến việc nhắc tên riêng, chia sẻ, chọn thông số sản phẩm, chốt đơn hàng, nhận sản phẩm hay hủy đơn hàng. Bình luận này có thể đang thắc mắc hoặc yêu cầu giải đáp về thông tin sản phẩm Q99 và mức giá sai 35 so với thông tin trên livestream.",Q99 sai 35,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""V125"" có thể là mã sản phẩm hoặc thông số sản phẩm mà người bình luận muốn chọn. Việc chỉ cần đưa ra mã sản phẩm hoặc thông số sản phẩm đều có thể là muốn chọn thông số cho sản phẩm. Do đó, đáp án là 3.",V125,others
+0,0,"Đáp án: 0. Bình luận ""Hi"" không chứa thông tin đủ để phân tích được mục đích hoặc ý nghĩa của người bình luận.",Hi,others
+0,0,"Đáp án: 0. Bình luận ""V"" không có đủ thông tin để phân tích ý nghĩa và mục đích của người bình luận.",V,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""V198"" có thêm chữ số sau chữ ""V"" nên có thể đây là mã sản phẩm hoặc thông số sản phẩm. Trong trường hợp này, người bình luận có thể đang muốn chọn sản phẩm với thông số hoặc mã là ""V198"".",V198,others
+3,3,"Đáp án: 3. Bình luận ""v198"" có thể là viết tắt của một thông số hoặc tên sản phẩm mà người bình luận muốn chọn hoặc hỏi về nó. Do đó, đây có thể được phân loại vào nhóm người muốn chọn thông số cho sản phẩm.",v198,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""V 198"" có thể được giải thích là người bình luận muốn chọn kích cỡ hoặc màu sắc của sản phẩm, vì họ sử dụng khoảng trống giữa ""V"" và ""198"" để phân tách giữa thông tin về sản phẩm và thông tin về thông số mà họ muốn chọn.",V 198,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""V122"" không có đề cập đến tên riêng, thắc mắc, chốt đơn, nhận hoặc không nhận sản phẩm, cũng không yêu cầu hủy đơn hàng. Tuy nhiên, thông qua chuỗi ký tự ""V122"", có thể đoán đó là thông số cho sản phẩm mà người bình luận muốn chọn.",V122,others
+2,3,"Đáp án: 3. Người bình luận muốn hỏi về thông số sản phẩm, cụ thể là ví nam liệu có làm bằng bông hay không.",Có ví nam kg Bông ơi,others
+3,2,"Đáp án: 2. Bình luận ""V151"" không có đủ thông tin để xác định ý đồ của người bình luận, nên không thể phân loại vào bất kỳ nhóm nào trong các lựa chọn đã cho.",V151,others
+3,2,"Đáp án: 2. Bình luận ""V156"" không cung cấp đủ thông tin để xác định được ý kiến của người bình luận.",V156,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""V217"" không đề cập đến việc chia sẻ, nhắc tên riêng, thắc mắc, đơn hàng hay đánh giá sản phẩm. Tuy nhiên, ""V217"" có thể là mã sản phẩm hoặc tên sản phẩm, và người bình luận muốn chọn thông số cho sản phẩm đó. Do đó, đáp án là 3 - muốn chọn thông số cho sản phẩm.",V217,others
+3,5,Đáp án: 5. Bình luận này cho biết người bình luận đã nhận được sản phẩm và cảm thấy không hài lòng với sản phẩm.,V221,others
+3,2,Đáp án: 2. Bình luận không cung cấp đủ thông tin để xác định được hành động của người bình luận.,V167,others
+3,5,"Đáp án: 5. Người bình luận đã nhận được sản phẩm nhưng không hài lòng với sản phẩm.
+Giải thích: Bình luận ""Mình mua sản phẩm này rồi, mặc vào xấu quá, không giống với hình ảnh trên trang web"" cho thấy người bình luận đã nhận được sản phẩm và không hài lòng với chất lượng của nó. Do đó, đáp án chính xác là 5.",V197,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""V 211"" không đưa ra ý kiến về việc đặt hàng hoặc nhận hàng. Tuy nhiên, từ ""chọn"" trong bình luận có thể cho thấy người bình luận đang muốn tìm hiểu hoặc chọn lựa thông số của sản phẩm. Vì vậy, đáp án là 3 - muốn chọn thông số cho sản phẩm.",V 211,others
+3,2,Đáp án: 2. Bình luận không cung cấp đủ thông tin để xác định được hành động của người bình luận.,V177,others
+3,2,Đáp án: 2. Bình luận không đưa ra ý kiến rõ ràng và không có thông tin cụ thể để phân tích.,V181,others
+3,4,"Đáp án: 4. Người bình luận đã chốt đơn nhưng chưa nhận được sản phẩm.
+Giải thích: Bình luận ""Chưa nhận được áo"" cho thấy người bình luận đã đặt hàng và chốt đơn nhưng chưa nhận được sản phẩm.",V168,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""V192"" không nhắc đến tên riêng hoặc chia sẻ cảm nhận, đánh giá về sản phẩm. Bình luận chỉ yêu cầu người bán cung cấp thông số sản phẩm như kích thước, chất liệu, màu sắc, giá cả, v.v. Do đó, đáp án chính xác là 3 - muốn chọn thông số cho sản phẩm.",V192,others
+3,5,Đáp án: 5. Bình luận này cho biết người dùng đã nhận được sản phẩm nhưng không thích sản phẩm.,V179,others
+3,2,"Đáp án: 2. Bình luận không đưa ra ý kiến rõ ràng hoặc câu hỏi cụ thể, chỉ có một chuỗi kí tự ""V166"" mà không rõ ý nghĩa.",V166,others
+3,2,Đáp án: 2. Bình luận không cung cấp đủ thông tin để xác định được hành động của người bình luận.,V 188,others
+3,2,"Đáp án: 2. Bình luận không có đề cập đến tên riêng, không muốn chia sẻ hoặc muốn chọn thông số sản phẩm. Bình luận chỉ hỏi về giá của sản phẩm.",V99,others
+3,2,"Đáp án: 2. Bình luận không có đề cập đến tên riêng, không muốn chia sẻ hoặc muốn chọn thông số sản phẩm. Bình luận chỉ hỏi về giá của sản phẩm.",L2,others
+3,2,Đáp án: 2. Bình luận không đưa ra đủ thông tin để phân tích theo các nhãn đã cho.,L7,others
+3,0,"Đáp án: 0.
+Giải thích: Bình luận ""L8"" không cung cấp đủ thông tin để xác định được ý kiến của người bình luận.",L8,others
+3,2,"Đáp án: 2. Bình luận ""L9"" không cung cấp đủ thông tin để xác định được ý kiến của người bình luận.",L9,others
+3,0,"Đáp án: 0.
+Giải thích: Bình luận ""L11"" không cung cấp đủ thông tin để phân tích. Không có nội dung hoặc thông tin cụ thể để xác định ý kiến của người bình luận.",L11,others
+3,5,"Đáp án: 5. Người bình luận đã nhận được sản phẩm nhưng không thích sản phẩm.
+Giải thích: Bình luận sau ""L15"" không nhắc tên riêng, không đang thắc mắc hoặc muốn chọn thông số cho sản phẩm, không nói về đơn hàng chưa nhận được hoặc muốn hủy đơn hàng, mà chỉ nói về việc đã nhận được sản phẩm và không thích sản phẩm. Do đó, đáp án là 5 - đã nhận được sản phẩm và không thích sản phẩm.",L15,others
+3,2,"Đáp án: 2. Bình luận này đang đặt câu hỏi về chất liệu của sản phẩm, có thể là để tìm hiểu thêm thông tin hoặc cần xác nhận trước khi quyết định mua hàng.",L18,others
+3,2,Đáp án: 2. Bình luận không rõ ràng về nội dung hoặc chưa đưa ra câu hỏi cụ thể để có thể phân tích được ý kiến của người bình luận.,L19,others
+3,4,"Đáp án: 4. Bình luận này cho thấy người dùng đã chốt đơn hàng, tuy nhiên vẫn chưa nhận được sản phẩm.",L 21,others
+3,2,"Đáp án: 2. Bình luận này đang thắc mắc về kích thước và chất liệu của sản phẩm, cho thấy người bình luận cần thông tin cụ thể để quyết định mua sản phẩm hay không.",L25,others
+3,2,"Đáp án: 2. Đang thắc mắc.
+Giải thích: Bình luận ""L26"" không cung cấp đủ thông tin để xác định ý định của người bình luận.",L26,others

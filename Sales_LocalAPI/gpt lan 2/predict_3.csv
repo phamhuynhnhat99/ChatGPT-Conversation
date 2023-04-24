@@ -1,0 +1,51 @@
+y_true,y_pred,y_text,content,category
+3,2,"Đáp án: 2. Bình luận này có vẻ không liên quan đến sản phẩm hoặc livestream bán hàng, và cũng không có thông tin đủ để phân tích theo các nhãn đã đề ra.",E có 18 k mới lag,clothing
+0,0,Đáp án 0. Bình luận không có nội dung cụ thể để phân tích hoặc hiểu ý đồ của người bình luận.,"..,,,",clothing
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""19.0"" có thể là người xem đang yêu cầu chủ shop cung cấp thông tin về kích thước hoặc giá cả của sản phẩm. Số ""19.0"" có thể là giá của sản phẩm hoặc kích thước của sản phẩm đó. Tùy vào ngữ cảnh livestream mà chúng ta có thể xác định được ý nghĩa chính xác của bình luận này. Tuy nhiên, với thông tin có sẵn, đáp án 3 là phù hợp nhất.",19.0,clothing
+3,3,Đáp án: 3. Bình luận này có thể là người muốn chọn kích cỡ hoặc thông số cho sản phẩm. Số 21.0 có thể là kích cỡ hoặc thông số khác của sản phẩm.,21.0,clothing
+0,0,"Đáp án: 0. Bình luận ""Ok"" không cung cấp đủ thông tin để phân tích một hành động cụ thể, do đó không có đáp án chính xác trong trường hợp này.",Ok,clothing
+3,2,"Không thể phân tích được ý nghĩa của bình luận ""22.0"" một cách chính xác.",22.0,clothing
+3,0,Người bình luận đã nhận được sản phẩm và không thích sản phẩm.,22.0,clothing
+3,1,"Đáp án: 1. Bình luận này có thể là một đơn đặt hàng của người dùng với mã sản phẩm ""Ma221"" và họ đang nhắc đến mã sản phẩm đó trong bình luận của họ.",Ma221,clothing
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""M22"" có thể là người dùng muốn chọn thông số kích cỡ sản phẩm để mua. M22 có thể là mã sản phẩm hoặc mã kích cỡ của sản phẩm. Tuy nhiên, vì thông tin còn rất hạn chế nên không thể kết luận chính xác được.",M22,clothing
+3,3,"Đáp án: 3. Bình luận này có thể là yêu cầu chọn size M và mã sản phẩm là 23. Tuy nhiên, việc phân tích dựa trên một vài từ đơn lẻ trong một câu có thể không chính xác 100%.",M23,clothing
+2,2,Đáp án: 2. Bình luận này đang thắc mắc về việc có chốt được đơn hàng mã 18 không và không thấy phản hồi từ người bán hàng.,Mã 18chị chốt đc ko vậy e ko thấy trả lời,clothing
+3,0,"Bình luận ""Xam"" không có đủ thông tin để phân tích ý nghĩa, không thuộc bất kỳ trường hợp nào trong các lựa chọn.",Xam,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Bình luận ""24.0"" có thể là yêu cầu của người xem đang quan tâm đến thông số kích cỡ của sản phẩm. Số 24.0 có thể là kích cỡ giày, áo, quần hoặc một thông số khác của sản phẩm. Trong trường hợp này, câu hỏi của người bình luận đang muốn xác định thông số kích cỡ của sản phẩm để chọn cho mình sản phẩm phù hợp. Do đó, đáp án là 3 - Người bình luận muốn chọn thông số cho sản phẩm.",24.0,clothing
+3,3,"Đáp án: 3. Bình luận ""m24"" có thể là muốn chọn kích thước (size) của sản phẩm là m24. Do đó, đây là một yêu cầu về thông số sản phẩm.",m24,clothing
+3,2,"Đáp án: 2. Bình luận này đang để lại một số điện thoại 0774.609.666, có thể là người bình luận đang thắc mắc về sản phẩm hoặc muốn liên hệ trực tiếp với người bán hàng để được hỗ trợ.",24 0774.609.666,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm. ""M24"" có thể là mã số hoặc tên sản phẩm clothing, và thông thường mã số hoặc tên sản phẩm có kèm theo kích thước, màu sắc, kiểu dáng để người mua lựa chọn. Do đó, người bình luận có thể đang muốn chọn một thông số nào đó cho sản phẩm được bán trên livestream.",M24,clothing
+3,3,"Đáp án: 3. Bình luận này có khả năng muốn chọn sản phẩm có mã là M27 hoặc hỏi về thông số của sản phẩm này. Tuy nhiên, không có đủ thông tin để xác định chính xác nếu đây là yêu cầu chọn sản phẩm hoặc yêu cầu thông tin về sản phẩm.",M27,clothing
+0,0,"Đáp án là 0. Không thể phân tích ý nghĩa của dấu chấm ba chấm trong bình luận, vì không có đủ thông tin để hiểu được ý của người bình luận.",...,clothing
+3,3,"Đáp án là 3. Người bình luận có thể đang muốn chọn thông số cho sản phẩm, có thể là kích cỡ hoặc màu sắc, khi ghi số 27.0. Tuy nhiên, nếu không có thông tin thêm về sản phẩm hoặc ngữ cảnh của bình luận thì không thể chắc chắn được.",27.0,clothing
+3,2,"Người bình luận muốn chọn thông số cho sản phẩm. Số ""27.0"" có thể liên quan đến kích cỡ hoặc chiều dài của sản phẩm.",27.0,clothing
+3,3,"Đáp án là 3. Người bình luận đang muốn chọn màu sắc cho sản phẩm, và ""Xám"" có thể là một lựa chọn màu sắc trong danh sách các tùy chọn.",Xám,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn màu sắc ""xám"" cho sản phẩm.",Xám,clothing
+3,3,Đáp án: 3. Bình luận này có thể là người xem muốn chọn màu sắc xám cho sản phẩm.,Xam,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""Mã xám 0774.609.666"" có thể là mã sản phẩm hoặc số điện thoại để đặt hàng, tuy nhiên không có bất kỳ thông tin nào liên quan đến việc chốt đơn hàng, nhận sản phẩm, hay hủy đơn hàng. Do đó, đáp án phù hợp nhất trong trường hợp này là muốn chọn thông số cho sản phẩm.",Mã xám 0774.609.666,clothing
+3,2,"Đáp án: 2. Bình luận ""Xam"" không cung cấp đủ thông tin để xác định ý kiến của người bình luận, và cũng không phải là câu hỏi hoặc yêu cầu chia sẻ thông tin cụ thể.",Xam,clothing
+2,4,"Đáp án: 4. Bình luận này đang hỏi xem đơn hàng mà người bình luận đã đặt mua giày đã được chốt chưa và cũng đồng thời cho biết người bình luận chưa nhận được sản phẩm. Do đó, đây là trường hợp đã chốt đơn nhưng chưa nhận được sản phẩm.",C ơi đơn giày gọi điện chốt chưa sao e chưa thấy,clothing
+2,2,Đáp án: 2. Bình luận này đang thắc mắc về giá sản phẩm.,Gia nhieu em?,clothing
+3,3,"Đáp án: 3. Bình luận ""Xám"" có thể là người muốn chọn màu sắc sản phẩm, trong trường hợp này là quần áo hay giày dép. Màu sắc là một thông số quan trọng khi lựa chọn sản phẩm thời trang, và việc bình luận chỉ màu sắc có thể thể hiện ý định của người dùng muốn mua sản phẩm đó trong màu sắc xám.",Xám,clothing
+3,1,"Đáp án: 1.
+Giải thích: Bình luận này chứa thông tin liên lạc như số điện thoại và màu sắc sản phẩm, đồng thời cũng có yêu cầu gọi tới số điện thoại đó. Do đó, đáp án là 1 - người bình luận muốn chia sẻ thông tin cá nhân hoặc yêu cầu hỗ trợ tư vấn về sản phẩm.",Xam 0902406621,clothing
+3,3,"Đáp án: 3. Bình luận này muốn chọn sản phẩm với thông số mã màu là ""xám"" và số điện thoại liên lạc là ""0774.609.666"".",Mã xám 0774.609.666,clothing
+2,2,"Đáp án: 2.
+Giải thích: Bình luận này không đưa ra câu hỏi cụ thể hoặc yêu cầu gì cả, chỉ là một thông tin ngắn gọn về nhu cầu mua hàng của người bình luận. Không thể phân loại vào các trường hợp đã nêu.",Nhiu ao vay c,clothing
+3,3,"Đáp án: 3. Bình luận ""Xam"" có thể là viết tắt của từ ""xám"" để chỉ màu sắc của sản phẩm hoặc là tên mã sản phẩm. Vì vậy, nó có thể liên quan đến việc muốn chọn thông số cho sản phẩm. Tuy nhiên, do thiếu thông tin, không thể chắc chắn điều đó.",Xam,clothing
+3,3,Đáp án: 3. Người bình luận có thể muốn chọn màu sắc của sản phẩm là xám.,Xám,clothing
+3,3,"Đáp án: 3.
+Giải thích: ""Kính 135"" có thể là thông số kích cỡ hoặc màu sắc của kính trong sản phẩm. Vì vậy, người bình luận muốn chọn thông số cho sản phẩm.",Kính 135,clothing
+3,3,Đáp án: 3. Người bình luận có ý muốn chọn thông số kính cho sản phẩm.,Kính,clothing
+3,3,"Đáp án: 3. Người bình luận có thể đang muốn chọn thông số cho sản phẩm ""kính"" mà livestream bán hàng đang giới thiệu, ví dụ như kích cỡ, màu sắc, kiểu dáng, chất liệu, giá cả, v.v.",Kính,clothing
+3,3,"Đáp án: 3. Bình luận ""Den"" có thể là người muốn chọn thông số cho sản phẩm, ví dụ như màu sắc của sản phẩm là màu đen (den). Tuy nhiên, vì thiếu thông tin cụ thể nên việc phân tích có thể không chính xác và có thể có những trường hợp khác.",Den,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Mã đỏ"" không đưa ra thông tin cụ thể về trạng thái đơn hàng hay cảm nhận về sản phẩm. Tuy nhiên, từ cụm từ ""Mã đỏ"" có thể đoán được người bình luận đang quan tâm đến thông số màu sắc của sản phẩm và muốn chọn màu đỏ (mã đỏ) cho sản phẩm. Do đó, đáp án là 3 - muốn chọn thông số cho sản phẩm.",Mã đỏ,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Phần bình luận ""Đen"" không đưa ra đủ thông tin để có thể phân loại chính xác vào các trường hợp khác nhau. Tuy nhiên, giả sử đây là một bình luận trong livestream bán quần áo, từ khóa ""Đen"" có thể là màu sắc của sản phẩm và người bình luận muốn chọn kích cỡ hoặc kiểu dáng của sản phẩm. Do đó, đáp án phù hợp nhất là 3 - Người bình luận muốn chọn thông số cho sản phẩm.",Đen,clothing
+0,0,"Đáp án: 0.
+Bình luận chỉ có một dấu chấm, không đủ thông tin để phân tích ý nghĩa của nó.",.,clothing

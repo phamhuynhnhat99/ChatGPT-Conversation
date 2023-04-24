@@ -1,0 +1,55 @@
+y_true,y_pred,y_text,content,category
+3,6,"Đáp án: 6. Bình luận ""Den"" có thể được hiểu là người dùng thích sản phẩm có màu đen trong livestream bán hàng clothing.",Den,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Đen"" không đủ thông tin để đưa ra kết luận về ý định của người bình luận, tuy nhiên nếu trong livestream bán hàng có đề cập đến sản phẩm có màu sắc khác nhau thì có thể đoán người bình luận muốn chọn màu sản phẩm là đen. Do đó, đáp án 3 là phù hợp với trường hợp này.",Đen,clothing
+3,3,"Đáp án: 3. Bình luận này có khả năng muốn chọn thông số cho sản phẩm, và ""Đen"" có thể là một trong các thông số mà người bình luận muốn chọn. Tuy nhiên, không có đủ thông tin để xác định rõ hơn về ý định của người bình luận.",Đen,clothing
+3,0,"Đáp án: 0.
+Bình luận ""Đen"" không có đủ thông tin để phân loại vào các trường hợp đã liệt kê. Nó có thể chỉ là một bình luận ngắn, không liên quan đến việc mua sản phẩm hoặc có thể là một bình luận về màu sắc của sản phẩm.",Đen,clothing
+3,5,"Đáp án: 5. Người bình luận đã nhận được sản phẩm và không thích sản phẩm.
+Giải thích: Bình luận ""Đen"" không liên quan đến việc nhắc tên riêng, muốn chia sẻ, muốn chọn thông số sản phẩm, đã chốt đơn nhưng chưa nhận được sản phẩm, muốn hủy đơn hàng hoặc không muốn nhận sản phẩm. Bình luận này chỉ đề cập đến một mặt hàng cụ thể, là màu ""đen"". Tuy nhiên, từ cách diễn đạt của người bình luận, có thể hiểu rằng họ đã nhận được sản phẩm và không hài lòng với sản phẩm màu đen mà họ đã mua.",Đen,clothing
+3,0,"Đáp án: 0.
+Không phân tích được ý nghĩa của bình luận ""Đen"" trong livestream bán mặc hàng clothing mà không có bất kỳ thông tin hoặc ngữ cảnh nào khác đi kèm.",Đen,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm. Từ ""Đen"" có thể là màu sắc của sản phẩm hoặc thông tin liên quan đến sản phẩm như kích cỡ, kiểu dáng, chất liệu... Chọn thông số cho sản phẩm là một nhu cầu thường xuyên của khách hàng khi mua sắm trực tuyến.",Đen,clothing
+3,1,"Đáp án: 1. Bình luận này có thể được phân tích như là một lời khen về chị bán hàng đang giữ sản phẩm (có thể là một món đồ, một bộ quần áo hoặc một phụ kiện nào đó) và giới thiệu sản phẩm đó đến khách hàng. Việc nhắc đến ""cái"" cũng cho thấy đây là một bình luận mang tính miêu tả hoặc định hướng sản phẩm cho khách hàng.",Cái chị cầm,clothing
+0,0,"Đáp án: 0.
+Bình luận chỉ gồm một dấu chấm (.), không đủ thông tin để phân tích nên đáp án là 0.",.,clothing
+3,5,"Đáp án: 5.
+Giải thích: Bình luận ""den"" có thể là một từ viết tắt của ""đen"" - một màu sắc. Tuy nhiên, với ngữ cảnh của livestream bán hàng clothing, nó cũng có thể là ý kiến của khách hàng về sản phẩm, chẳng hạn như màu sắc của sản phẩm là màu đen và khách hàng đã nhận được sản phẩm và không thích màu sắc của nó. Vì vậy, đáp án 5 là phù hợp, đại diện cho trường hợp khách hàng đã nhận được sản phẩm và không hài lòng với sản phẩm đã mua.",den,clothing
+3,3,"Đáp án: 3. Bình luận ""Đen"" có thể là người dùng muốn chọn màu sắc sản phẩm, đặc biệt trong trường hợp bán hàng là quần áo, màu sắc là một thông số quan trọng cần được chọn.",Đen,clothing
+3,1,Đáp án: 1. Người bình luận muốn chọn sản phẩm màu trắng và để lại số điện thoại để liên lạc với người bán hàng.,Trắng/0354505977,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Trắng"" không đủ thông tin để xác định rõ ý định của người bình luận. Tuy nhiên, khi kết hợp với hoạt động bán hàng clothing và cụm từ ""Trắng"", đó có thể là yêu cầu chọn màu sắc cho sản phẩm đang được bán. Do đó, đáp án 3 là phù hợp.",Trắng,clothing
+3,1,Đáp án: 1. Người bình luận đang nhắc tên riêng và để lại số điện thoại liên hệ.,Ma trang 0979217028,clothing
+3,3,"Đáp án: 3. Bình luận ""trắng"" không đủ thông tin để hiểu ý đồ của người bình luận. Tuy nhiên, nếu bình luận được đăng trong một livestream bán mặt hàng clothing, có thể hiểu rằng người bình luận muốn chọn sản phẩm màu trắng hoặc muốn biết thông tin chi tiết về sản phẩm có màu trắng. Vì vậy, đáp án phù hợp nhất là 3, muốn chọn thông số cho sản phẩm.",trắng,clothing
+3,3,"Đáp án là 3. Bình luận ""Trắng"" có thể là yêu cầu chọn màu sắc trắng cho sản phẩm. Trong livestream bán hàng, người bán thường cung cấp nhiều thông số sản phẩm như màu sắc, kích cỡ, chất liệu, giá cả, v.v. để người mua có thể chọn lựa sản phẩm phù hợp với nhu cầu của mình.",Trắng,clothing
+3,3,"Đáp án: 3. Bình luận ""Trắng"" có thể là muốn chọn màu trắng cho sản phẩm clothing. Vì vậy, đây là trường hợp người bình luận muốn chọn thông số cho sản phẩm.",Trắng,clothing
+3,0,"Đáp án: 0.
+Giải thích: Bình luận ""mtrang"" không cho thấy rõ ràng ý kiến hay yêu cầu gì liên quan đến sản phẩm bán hàng, không đủ thông tin để phân tích theo các nhãn đã đề ra.",mtrang,clothing
+3,0,"Đáp án: 0. Không thể phân tích được chỉ từ ""Trắng"" là không đủ để xác định ý định hoặc mục đích của người bình luận trong livestream bán mặt hàng clothing. Cần thông tin bổ sung hoặc bình luận cụ thể hơn để có thể phân tích được.",Trắng,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận chỉ ghi ""Trắng"" mà không có bất kỳ nội dung hoặc ngữ cảnh nào khác để cho ta có thể hiểu được ý kiến của người bình luận. Tuy nhiên, do đây là một bình luận trong một livestream bán mặc hàng clothing, nên có thể đây là ý kiến của người bình luận muốn chọn màu sắc ""trắng"" cho sản phẩm clothing được bán trong livestream. Vì vậy, đáp án là 3 - người bình luận muốn chọn thông số cho sản phẩm.",Trắng,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Trang"" không nhắc tên riêng, không thể đoán được đang thắc mắc hay đã chốt đơn hàng chưa nhận được sản phẩm. Bình luận cũng không phản ánh việc đã nhận hoặc không thích sản phẩm. Tuy nhiên, ""Trang"" chỉ đơn giản là một màu sắc, có thể người bình luận muốn chọn màu trắng cho sản phẩm. Vì vậy, đáp án là 3 - muốn chọn thông số cho sản phẩm.",Trang,clothing
+3,1,"Đáp án: 1. Bình luận có nhắc tên riêng ""Tú"", có thể là khách hàng đang tham gia livestream và muốn chia sẻ về sản phẩm ""Trắng"" được giới thiệu trong livestream.",Trắng Tú cầm,clothing
+3,2,"Đáp án: 2. Bình luận ""Do"" không cung cấp đủ thông tin để xác định ý kiến của người bình luận.",Do,clothing
+3,2,"Đáp án: 2. Bình luận ""Do"" không cho thấy rõ ràng ý kiến hoặc yêu cầu cụ thể của người bình luận, không thuộc vào bất kỳ trường hợp nào trong các nhãn đã cho.",Do,clothing
+3,5,"Đáp án: 5. Bình luận ""Ma đó"" không liên quan đến việc mua hàng hay đặt hàng, mà có thể là một phản hồi của người xem đến một câu chuyện hoặc tình huống được trình bày trong livestream. Chúng ta không thể phân tích bình luận này theo các nhãn đã cho.",Ma đó,clothing
+0,0,Đáp án: 0. Bình luận chỉ có dấu chấm cuối câu và không có nội dung gì đáng phân tích.,.,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn màu sắc ""Đỏ"" cho sản phẩm.",Đỏ,clothing
+2,3,"Đáp án là 3. Bình luận yêu cầu cung cấp thông tin về size của sản phẩm, do đó đây là trường hợp muốn chọn thông số cho sản phẩm.",Có size ko chj,clothing
+3,0,Không có thông tin đủ để phân tích. Bình luận chỉ đề cập một màu sắc mà không liên quan đến việc mua hàng hay thông tin về sản phẩm nên không thể xác định được nhãn phù hợp.,Xám,clothing
+3,3,Đáp án: 3. Người bình luận có thể muốn biết sản phẩm đó có màu xám không và có thể muốn chọn màu sắc cho sản phẩm.,Xám,clothing
+3,3,"Đáp án: 3. Người bình luận đang muốn chọn thông số cho sản phẩm bằng cách nêu màu sắc ""Xam"".",Xam,clothing
+3,0,"Đáp án là 0. Không có đủ thông tin để phân tích ý nghĩa của bình luận ""Xám"". Bình luận này có thể là một màu sắc, một cảm nhận hoặc một từ tạm bợ trong khi xem livestream.",Xám,clothing
+3,5,"Đáp án 5. Người bình luận đã nhận được sản phẩm nhưng không thích sản phẩm. Từ ""xám"" có thể đề cập đến màu sắc của sản phẩm, và người bình luận không hài lòng với màu sắc của sản phẩm đó.",xám,clothing
+3,0,"Đáp án: 0. Không thể phân tích được ý nghĩa của ""Xam"" mà không có ngữ cảnh hoặc thông tin bổ sung.",Xam,clothing
+3,5,"Đáp án: 5. Người bình luận đã nhận được sản phẩm và không thích sản phẩm.
+Giải thích: Từ ""xám"" có thể là đánh giá của người bình luận về sản phẩm, thường được sử dụng để chỉ một màu sắc nhạt. Tuy nhiên, trong ngữ cảnh livestream bán hàng, ""xám"" có thể có nghĩa là sản phẩm không đạt được sự mong đợi của người mua hàng. Trong trường hợp này, người bình luận đã nhận được sản phẩm và cho biết rằng sản phẩm không được tốt đẹp như mong đợi. Vì vậy, đáp án là 5.",Xám,clothing
+3,5,"Đáp án: 5. Người bình luận đã nhận được sản phẩm và không thích sản phẩm.
+Giải thích: Từ ""xám"" có thể là cách mô tả của người bình luận về sản phẩm, có thể ý chỉ rằng sản phẩm không được như mong đợi hoặc không đúng như mô tả trên livestream. Tuy nhiên, cần lưu ý rằng không phải lúc nào từ ngữ cũng có nghĩa chính xác như vậy, do đó đáp án có thể có sự khác nhau tùy vào ngữ cảnh và thông tin bổ sung của câu bình luận.",xam,clothing
+3,0,"Đáp án: 0.
+Giải thích: Bình luận ""Em cái den"" không cho thấy bất kỳ thông tin nào về việc nhắc tên riêng, thắc mắc sản phẩm, muốn chọn thông số hoặc trạng thái đơn hàng của người bình luận. Bình luận này cũng không đưa ra bất kỳ ý kiến hay đánh giá nào về sản phẩm, vì vậy không thể xác định đáp án tương ứng trong danh sách cho trước.",Em cái den,clothing
+3,2,"Đáp án: 2. Người bình luận đang thắc mắc về ý nghĩa của từ ""xám"" trong mặt hàng clothing. Không có đủ thông tin để xác định các trường hợp khác.",Xám,clothing
+3,3,"Đáp án là 3. Người bình luận muốn chọn thông số cho sản phẩm, có thể là muốn mua sản phẩm màu đen (mã sản phẩm hoặc thông số sản phẩm không được đưa ra trong bình luận nên không thể xác định rõ hơn).",Đen1,clothing
+0,0,"Đáp án: 0.
+Bình luận chỉ gồm một dấu chấm (.), không đủ thông tin để phân tích ý nghĩa của người bình luận.",.,clothing

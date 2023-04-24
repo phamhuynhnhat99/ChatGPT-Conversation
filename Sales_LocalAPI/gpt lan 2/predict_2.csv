@@ -1,0 +1,52 @@
+y_true,y_pred,y_text,content,category
+3,3,"Đáp án: 3. Bình luận muốn chọn thông số cho sản phẩm. ""M9 mau đen"" có thể hiểu là yêu cầu chọn sản phẩm có mã M9 và màu sắc đen.",M9 mau đen,clothing
+2,2,"Đáp án: 2. Bình luận này đang thắc mắc về việc có được mua sản phẩm nào không. Tuy nhiên, bình luận không đưa ra thông tin cụ thể về sản phẩm nào, thông số hay số lượng, vì vậy không thể xác định được đáp án là 3.",Nay joi minh dc cai nao chua,clothing
+3,3,"Đáp án: 3. Bình luận ""11.0"" có thể là thông số kích cỡ của sản phẩm hoặc thông số khác liên quan đến sản phẩm. Việc bình luận này cho thấy người dùng quan tâm đến thông số của sản phẩm và có thể muốn chọn kích cỡ hoặc thông số khác để đặt hàng.",11.0,clothing
+3,3,"Đáp án là 3. Bình luận ""11.0"" có thể là người muốn chọn thông số kích cỡ cho sản phẩm. Số 11.0 có thể là một mã số kích cỡ hoặc một thông số kích cỡ trong hệ thống đo lường khác.",11.0,clothing
+3,1,"Người bình luận muốn chọn thông số cho sản phẩm. ""Màu vang11"" có thể là một tùy chọn màu sắc cho sản phẩm và người bình luận đang muốn chọn sản phẩm với màu sắc này.",Màu vang11,clothing
+3,3,"Đáp án: 3. Bình luận này có số 12.0, có nghĩa là người bình luận muốn chọn thông số cho sản phẩm, có thể là kích cỡ, màu sắc, hoặc các thông số khác của sản phẩm.",12.0,clothing
+3,1,"Đáp án: 1. Người bình luận có vẻ muốn đặt mua sản phẩm và cung cấp thông tin liên lạc của họ bao gồm số điện thoại và tên sản phẩm (""M12 đ"").",0985605371 M12 đ,clothing
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""12.0"" có thể là người muốn chọn thông số kích cỡ hoặc giá của sản phẩm. Số 12.0 có thể là giá của sản phẩm hoặc kích cỡ của sản phẩm. Tuy nhiên, việc phân tích chính xác hơn phụ thuộc vào nội dung của livestream và ngữ cảnh bình luận.",12.0,clothing
+3,3,"Đáp án: 3. Bình luận này có thể là yêu cầu chọn thông số cho sản phẩm, có thể là kích thước hoặc màu sắc. Tuy nhiên, không có đầy đủ thông tin để xác định rõ hơn về yêu cầu của người bình luận.",12.0,clothing
+0,3,"Đáp án: 3. Người bình luận đang muốn chọn thông số cho sản phẩm bằng cách xác nhận rằng mã sản phẩm là ""ok"".",Mã ok,clothing
+3,0,Người bình luận muốn chọn thông số cho sản phẩm.,13.0,clothing
+3,3,"Đáp án: 3. Người bình luận có vẻ muốn chọn thông số cho sản phẩm khi sử dụng số 13.0, có thể là kích cỡ hoặc màu sắc của sản phẩm.",13.0,clothing
+2,0,"Đáp án: 0.
+Giải thích: Bình luận này không liên quan đến việc mua sản phẩm hay thắc mắc về sản phẩm. Người bình luận chỉ chia sẻ rằng con trai của họ thích màu đen, không có thông tin cụ thể về sản phẩm hoặc dịch vụ.",Con trai minh thich mau den,clothing
+0,0,Đáp án: 0. Bình luận không cung cấp bất kỳ thông tin hoặc yêu cầu nào để phân tích.,"..,,,",clothing
+3,3,"Đáp án: 3. Người bình luận đưa ra mã số sản phẩm (15 0774.609.666), đây có thể là mã số của sản phẩm mà người bình luận muốn mua hoặc hỏi về thông tin chi tiết của sản phẩm đó. Do đó, đáp án 3 - muốn chọn thông số cho sản phẩm là phù hợp nhất trong trường hợp này.",Mã 15 0774.609.666,clothing
+3,3,"Đáp án là 3. Bình luận này có thể là người đang muốn chọn thông số cho sản phẩm, có thể là giá trị của sản phẩm hoặc đơn giá cho một mặt hàng nào đó trong livestream bán hàng. Tuy nhiên, vì không có bối cảnh đầy đủ nên không thể chắc chắn được nội dung của bình luận này.",15.0,clothing
+3,1,"Người bình luận muốn chọn thông số cho sản phẩm. ""15.0"" có thể là một thông số kích cỡ, độ dài hoặc cân nặng của sản phẩm.",15.0,clothing
+3,0,"Đáp án: 0. Không thể phân tích được ý nghĩa của bình luận ""15.0"" vì nó không đủ thông tin hoặc có thể là một lỗi nhập liệu ngẫu nhiên của người bình luận.",15.0,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn màu đỏ cho sản phẩm.
+Giải thích: Bình luận ""Lay màu đỏ nha"" có nghĩa là người bình luận muốn chọn màu đỏ cho sản phẩm. Do đó, đây là trường hợp muốn chọn thông số cho sản phẩm.",Lay màu đỏ nha,clothing
+2,3,"Đáp án: 3. Người bình luận đang muốn chọn kích thước sản phẩm khi mua hàng, cụ thể là hỏi về kích thước 70, và hỏi liệu có vừa không.",70 kh vừa ko,clothing
+3,0,"Không phân tích được. Bình luận này không có ý nghĩa rõ ràng và không liên quan đến sản phẩm, do đó không thể phân loại vào bất kỳ nhãn nào trong các lựa chọn.",98506537116.0,clothing
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""16.0"" có thể là người xem muốn chọn kích cỡ sản phẩm của clothing là size 16.0. Việc chọn kích cỡ là một trong những thông số quan trọng trong việc mua sắm quần áo.",16.0,clothing
+3,3,"Đáp án là 3. Số ""16.0"" có thể là thông số kích cỡ hoặc số đo của sản phẩm mà người bình luận muốn chọn.",16.0,clothing
+3,3,"Đáp án: 3. Bình luận ""16.0"" có thể là người muốn chọn thông số cho sản phẩm như kích cỡ, màu sắc hoặc giá tiền của sản phẩm. Tuy nhiên, không phân tích được rõ ràng từ ngữ trong ngữ cảnh của bình luận nên đáp án này chỉ là dự đoán.",16.0,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""Mã 16"" có thể là mã sản phẩm hoặc mã giảm giá, tuy nhiên vì không có đủ thông tin để xác định chính xác nên ta chỉ có thể suy đoán. Tuy nhiên, với việc nhắc đến ""mã"", người bình luận có thể đang muốn chia sẻ hoặc hỏi về mã sản phẩm để xác định thông số cụ thể của sản phẩm mà họ quan tâm. Do đó, đáp án là 3.",Mã 16,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""16.0"" có thể là thông số kích cỡ hoặc màu sắc của sản phẩm, vì vậy người bình luận muốn chọn thông số cho sản phẩm.",16.0,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""16.0"" có thể là một thông số cho sản phẩm như kích cỡ, màu sắc, chiều dài hoặc chiều rộng. Người bình luận có thể muốn chọn thông số này để đặt mua sản phẩm.",16.0,clothing
+3,0,"Đáp án: 0. Không phân tích được vì bình luận ""17.0"" không cung cấp đủ thông tin để xác định ý kiến của người bình luận.",17.0,clothing
+3,0,"Đáp án: 0. Không phân tích được.
+Bình luận ""Mà 17"" không cung cấp đủ thông tin để xác định ý kiến của người bình luận về sản phẩm hoặc quá trình mua bán. Nếu có thêm thông tin hoặc bình luận bổ sung, có thể phân tích được ý kiến của người bình luận.",Mà 17,clothing
+0,0,"Đáp án: 0.
+Bình luận "".."" không cung cấp đủ thông tin để phân tích nội dung của nó.",..,clothing
+6,0,Không phân tích được. Bình luận không liên quan đến sản phẩm hoặc dịch vụ bán hàng mà chỉ nhận xét về đẹp của căn nhà hoặc không rõ ràng về ý nghĩa của câu.,Do nha tu dep wa ma mua k loi ng ta bam wa troi luon,clothing
+3,3,"Đáp án: 3.
+Giải thích: ""18.0"" có thể là thông số kích cỡ hoặc giá của sản phẩm. Vì vậy, người bình luận có thể đang muốn chọn thông số kích cỡ hoặc hỏi về giá sản phẩm.",18.0,clothing
+3,2,"Đáp án: 2. Bình luận này đang thắc mắc và cần liên hệ với người bán hàng để hỏi về sản phẩm hoặc dịch vụ bằng cách gọi số điện thoại được cung cấp. ""0985065371"" có thể là số điện thoại của người bán hoặc số điện thoại để đặt hàng. ""18"" có thể là số đơn hàng hoặc là giá trị của sản phẩm. Tuy nhiên, không có đủ thông tin để xác định rõ nghĩa của bình luận này.",0985065371 18,clothing
+3,3,"Đáp án: 3. Bình luận này có thể là người xem muốn chọn thông số của sản phẩm, ví dụ như size C18 cho sản phẩm. Tuy nhiên, vì thông tin không rõ ràng, nên có thể có những ý nghĩa khác của bình luận này.",C18,clothing
+3,3,"Đáp án: 3. Bình luận ""Ma 18"" có thể là yêu cầu của khách hàng để chọn kích thước hoặc màu sắc của sản phẩm. ""Ma"" có thể là viết tắt của từ ""Màu"" trong tiếng Việt. Còn ""18"" có thể là mã sản phẩm hoặc số thứ tự của sản phẩm trong danh sách mặt hàng. Tuy nhiên, nếu không có thông tin rõ ràng thì đáp án có thể là 0.",Ma 18,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm. Số ""18.0"" có thể là kích cỡ hoặc giá sản phẩm. Việc bình luận này cho thấy người dùng quan tâm đến thông số sản phẩm và có thể sẽ quyết định mua sản phẩm nếu thông số đó phù hợp với nhu cầu của họ.",18.0,clothing
+3,0,"Người bình luận có thể đang muốn chọn thông số cho sản phẩm, có thể là kích cỡ, màu sắc, hoặc các thông số khác của sản phẩm. Tuy nhiên, thông tin trong bình luận không đầy đủ nên không thể xác định chính xác được sản phẩm hoặc thông số nào đang được đề cập.",18.0,clothing
+2,3,"Đáp án: 3. Người bình luận đang muốn chọn thông số cho sản phẩm và đang đo lường kích thước của họ (trọng lượng là 70 kg) để xem liệu sản phẩm có vừa với họ hay không (""vừa ko""). ""Tú"" có thể là tên của người bình luận hoặc là từ viết tắt của ""túi"", tùy vào ngữ cảnh.",70 kg vừa ko Tú,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""19.0"" có thể là yêu cầu thông số cho sản phẩm như kích thước, chiều cao, hoặc cân nặng. Tuy nhiên, do thiếu thông tin cụ thể nên không thể đưa ra kết luận chính xác.",19.0,clothing
+3,3,"Đáp án: 3. Người bình luận đang muốn chọn màu sắc cho sản phẩm, tuy nhiên không có thông tin cụ thể về sản phẩm nên không thể đưa ra lựa chọn chính xác.",Lay 1 cái màu vàng hay đỏ cái nào cũng dc,clothing
