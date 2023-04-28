@@ -1,0 +1,59 @@
+y_true,y_pred,y_text,content,category
+2,3,Đáp án là 3. Bình luận này cho thấy người bình luận đang muốn biết về thông số của sản phẩm dép và cần được hướng dẫn.,Dép mẫu như nào chị ơi,clothing
+3,0,"Đáp án: 0.
+Giải thích: Bình luận ""Beo"" không cho thấy một mục đích cụ thể, không liên quan đến việc chọn sản phẩm hoặc tình trạng đơn hàng, cũng không có yêu cầu hay thắc mắc gì liên quan đến chương trình livestream bán hàng. Do đó, không thể xác định được đáp án cho bình luận này.",Beo,clothing
+3,5,"Đáp án 5. Người bình luận đã nhận được sản phẩm và không thích sản phẩm. Từ ""beo xam"" có thể hiểu là sản phẩm quá to và màu sắc không đẹp mắt, không hài lòng về sản phẩm đã nhận được.",Beo xam,clothing
+2,0,"Bình luận này đang hỏi về thông số của sản phẩm, cụ thể là mở xanh min để xem sản phẩm có đẹp không.",Mở xanh min ra c coi dc ko,clothing
+3,5,"Đáp án: 5. Bình luận ""Beo kem"" có nghĩa là sản phẩm không phù hợp với người mặc và làm người mặc trông thêm béo hơn. Đây là bình luận phản hồi về sản phẩm đã nhận được và không hài lòng về chất lượng sản phẩm.",Beo kem,clothing
+3,5,"Đáp án: 5. Bình luận này có nội dung đánh giá về sản phẩm mặc, cụ thể là cho rằng sản phẩm là ""Beo xam"". Đáp án 5 thể hiện trường hợp khách hàng đã nhận được sản phẩm nhưng không hài lòng với sản phẩm đó.",Beo xam,clothing
+3,6,"Đáp án: 6. Bình luận này không phản ánh bất kỳ thắc mắc hay yêu cầu nào về sản phẩm hoặc đơn hàng, cũng không chia sẻ tên riêng hay thông tin cá nhân nào. Bình luận ""Beo kem"" có thể hiểu là người bình luận đang thích sản phẩm và mô tả về màu sắc hoặc cảm nhận chung của sản phẩm.",Beo kem,clothing
+2,0,"Không phân tích được. Bình luận này không liên quan đến sản phẩm hoặc dịch vụ bán hàng, mà là một câu hỏi về người bán hàng. Cụ thể, người bình luận hỏi xem người bán hàng có cắt ngực hay không.",Co mut nguc ha chi Tu?,clothing
+2,3,Đáp án: 3. Bình luận này đang muốn chọn thông số cho sản phẩm khi yêu cầu bộ vừa rồi và hỏi xem có size e không.,Bộ vừa rối e có ko chị,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""Beo kem xam"" không liên quan đến việc nhắc tên, thắc mắc, chốt đơn, nhận hoặc không nhận sản phẩm. Tuy nhiên, từ ""beo kem xam"" có thể đoán được người bình luận muốn chọn thông số cho sản phẩm để phù hợp với vóc dáng của mình.",Beo kem xam,clothing
+3,3,Đáp án: 3. Bình luận này có thể muốn chọn kích cỡ hoặc số đo của bộ quần áo với giá 120.,Bô 120 á,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Beo đen"" không liên quan đến việc nhắc tên riêng, thắc mắc, chốt đơn, nhận hoặc không thích sản phẩm, hay muốn hủy đơn hàng. Tuy nhiên, nó chứa thông tin về màu sắc của sản phẩm được bán, cho thấy người bình luận muốn chọn một thông số cụ thể cho sản phẩm.",Beo đen,clothing
+3,3,"Đáp án: 3. Bình luận ""Beo hồng"" có thể là yêu cầu hoặc muốn chọn thông số sản phẩm về màu sắc, trong trường hợp này là muốn mua sản phẩm áo ""beo"" màu hồng.",Beo hồng,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Beo xam và kem"" có thể là người đang muốn lựa chọn thông số sản phẩm bao gồm màu sắc của sản phẩm. Bằng cách kết hợp hai màu sắc ""xám"" và ""kem"" để tạo nên một màu sắc khác cho sản phẩm.",Beo xam và kem,clothing
+3,0,Không phân tích được. Bình luận này không liên quan đến sản phẩm hoặc thông tin về đơn hàng.,927191828.0,clothing
+3,3,"Đáp án: 3.
+Bình luận này có chứa thông tin về sản phẩm và giá cả (""beo xám 85k""), cùng số điện thoại liên hệ để đặt mua (""0834577701""), cho thấy người bình luận đang quan tâm đến việc chọn thông số cho sản phẩm. Cụ thể, ""beo xám"" có thể là một loại mặt hàng hoặc màu sắc của sản phẩm clothing.",beo xám 85k /0834577701 ghé lấy,clothing
+0,0,"Đáp án: 0.
+Giải thích: Bình luận chỉ có một dấu chấm (""."") và không có bất kỳ nội dung gì, do đó không thể phân tích được.",.,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn màu sản phẩm là xám thay vì đen.
+Giải thích: Bình luận này đề cập đến một yêu cầu cụ thể của người bình luận là muốn chọn màu xám thay vì đen cho sản phẩm. Vì vậy, đây là một yêu cầu liên quan đến việc chọn thông số cho sản phẩm.",Không có đen lấy xám cho chị,clothing
+2,1,Đáp án: 1. Người bình luận đang nhắc đến chị để cho chị biết rằng họ sẽ ghé đến để mua sản phẩm.,chị ghé lấy nha,clothing
+2,3,"Đáp án: 3.
+Giải thích: Bình luận ""Dậy có hồng ko"" cho thấy người bình luận muốn biết thông tin về màu sắc sản phẩm, có hồng không. Do đó, đáp án là 3 - muốn chọn thông số cho sản phẩm.",Dậy có hồng ko,clothing
+3,3,"Đáp án: 3. Người bình luận có ý muốn yêu cầu bên bán hàng thêm màu sắc ""nâu"" cho sản phẩm.",Them nau,clothing
+0,0,Đáp án: 0. Vì bình luận không cung cấp bất kỳ thông tin cụ thể nào để phân tích hoặc hiểu được ý định của người bình luận.,...,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""Dậy lấy kem"" không rõ ràng là một yêu cầu cụ thể nhưng dựa trên ngữ cảnh của livestream bán hàng clothing, có thể đoán rằng người bình luận đang muốn yêu cầu thêm thông tin về sản phẩm như kích cỡ, màu sắc, kiểu dáng... vì ""kem"" có thể là một thuật ngữ thường được sử dụng để chỉ màu sắc hoặc kiểu dáng của sản phẩm. Do đó, đáp án là 3.",Dậy lấy kem,clothing
+3,3,"Đáp án: 3.
+Bình luận này cho thấy người bình luận đang quan tâm đến thông số sản phẩm, cụ thể là giá cả và kích thước sản phẩm (beo nâu có giá là 85k). Do đó, đây là một yêu cầu chọn thông số sản phẩm.",Beo nâu 85k,clothing
+0,0,"Đáp án: 0.
+Bình luận này chỉ có dấu chấm duy nhất mà không có nội dung gì để phân tích hoặc suy đoán ý định của người bình luận.",.,clothing
+3,1,"Đáp án: 1. Bình luận này nhắc tới tên riêng ""chị Tú"" và chia sẻ về sản phẩm ""bộ vàng"", do đó đây là trường hợp muốn chia sẻ hoặc nhắc tới tên riêng.",Bộ vàng chị tú mặc,clothing
+0,0,Đáp án: 0. Bình luận không cung cấp đủ thông tin để phân tích.,...,clothing
+0,0,"Xin lỗi, để phân tích được bình luận, cần có nội dung cụ thể của bình luận đó. Bạn có thể cung cấp thêm thông tin cho mình không?",.,clothing
+0,0,Đáp án: 0. Bình luận không cung cấp đủ thông tin để phân tích.,....,clothing
+3,0,"Không phân tích được. Bình luận ""Sét vàng tú mặc"" không có đủ thông tin để xác định ý nghĩa hoặc mục đích của người bình luận.",Sét vàng tú mặc,clothing
+0,0,Đáp án 0. Không có thông tin để phân tích.,.,clothing
+0,0,"Bình luận chỉ có một dấu chấm ""."" mà không có nội dung gì đáng kể để phân tích.",.,clothing
+3,3,"Đáp án 3. Bình luận này muốn chọn thông số cho sản phẩm là ""Bộ 120 cam"". Người bình luận có thể quan tâm đến kích thước, chất liệu hoặc màu sắc của sản phẩm này và muốn yêu cầu người bán cung cấp thêm thông tin.",Bộ 120 cam,clothing
+3,3,Đáp án: 3. Người bình luận đang muốn hỏi xem còn mẫu đồ ngủ không và có thể để đổi lấy thêm cho sản phẩm đó.,Còn mẫu đồ ngủ ko chị để doi lấy them,clothing
+3,3,Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm bộ quần áo màu vàng có giá là 120.000 đồng.,Bộ vàng 120k,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận chỉ đơn thuần là màu sắc ""Xanh"" nên không liên quan đến việc thắc mắc, chia sẻ hay đặt hàng. Tuy nhiên, việc chỉ ra màu sắc có thể cho thấy người bình luận quan tâm đến sản phẩm và muốn biết thêm thông tin về sản phẩm có màu sắc này hay không. Do đó, đáp án là 3 - muốn chọn thông số cho sản phẩm.",Xanh,clothing
+0,0,Đáp án 0. Bình luận không cung cấp đủ thông tin để phân tích.,...,clothing
+2,2,"Đáp án: 2. Bình luận không liên quan đến việc mua hàng, không nhắc tên riêng, không muốn chọn thông số sản phẩm, không đề cập đến việc chốt đơn hàng hay nhận sản phẩm, và cũng không muốn hủy đơn hàng hay không nhận sản phẩm. Bình luận chỉ thể hiện sự gặp phải trở ngại khi đi đường về nhà vì mưa.",Nay anh xã em hỏng dám xin thêm cái bịch về gặp mưa ướt gần hết luôn .ông hiền thấy sợ luôn,clothing
+0,0,Đáp án: 0. Không có nội dung bình luận để phân tích.,.,clothing
+2,3,"Đáp án: 3. Bình luận này đang hỏi về thông số sản phẩm, cụ thể là kích cỡ của sản phẩm để biết sản phẩm có vừa cơ thể người mua không. Vì vậy, đáp án là 3 - muốn chọn thông số cho sản phẩm.",Bao nhiu kg vừa c,clothing
+3,1,"Đáp án: 1. Bình luận ""Hồng"" có nhắc tới tên một màu sắc, có thể là màu của sản phẩm hoặc là sở thích cá nhân của người bình luận.",Hồng,clothing
+2,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm bằng cách hỏi ""Bao nhieu bo c"".",Bao nhieu bo c,clothing
+0,0,"Đáp án: 0.
+Giải thích: Bình luận không liên quan đến sản phẩm hay quá trình mua bán, không rõ ý định của người bình luận là gì, do đó không thể phân loại vào bất kỳ nhãn nào trong danh sách.",Ông sợ á chế kkk,clothing
+3,6,"Đáp án: 6. Người bình luận đồng ý và tán thành với sản phẩm và nội dung trong livestream bằng cách sử dụng biểu hiện ""Vang."" (tức là ""Vâng"").",Vang .,clothing
+3,3,"Đáp án: 3. Bình luận này có thể là yêu cầu chọn màu sắc sản phẩm, trong trường hợp này là màu đỏ đô. Người bình luận có thể đang quan tâm và muốn biết thêm thông tin về sản phẩm cụ thể.",Đỏ đô,clothing

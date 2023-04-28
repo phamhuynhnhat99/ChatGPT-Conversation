@@ -1,0 +1,40 @@
+{
+    "acronym": [
+        {
+            "a": ["anh"],
+            "c": ["chị"],
+            "e": ["em"],
+            "b": ["bạn"],
+            "bn": ["bạn", "bao nhiêu"],
+            "k": ["không"],
+            "mấy màu": ["bao nhiêu màu"],
+            "nhiu": ["bao nhiêu"],
+            "nhiêu": ["bao nhiêu"],
+            "sz": ["size", "kích cỡ"],
+            "kh": ["không"],
+            "hk": ["không", "hongkong"],
+            "j": ["gì"],
+            "kg": ["không", "kilograms"],
+            "bit": ["biết"],
+            "ko": ["không"],
+            "h": ["không", "giờ"],
+            "hong s": ["không sao"],
+            "oi": ["ơi"],
+            "dc": ["được"],
+            "dr": ["đúng rồi"],
+            "lun": ["luôn"],
+            "Dcs": ["Đã chia sẻ"],
+            "xah": ["xanh"],
+            "vag": ["vàng"],
+            "S": ["Size S", "vì sao", "sao"],
+            "M": ["Size M", "mày"],
+            "XL": ["Size XL", "Xạo"],
+            "L": ["Size L"],
+            "th": ["thôi"],
+            "X23": ["gấp 23 lần", "mã X23"],
+            "G73": ["mã G73"],
+            "L2": ["mã L2"],
+            "V81": ["mã V81"]
+        }
+    ]
+}

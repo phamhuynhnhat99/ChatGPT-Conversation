@@ -1,5 +1,0 @@
-all_labels,Positive,Negative,Neutral,Unknown
-Positive,44,0,1,1
-Negative,12,33,5,0
-Neutral,0,0,4,0
-Unknown,0,0,0,0

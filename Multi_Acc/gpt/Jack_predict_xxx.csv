@@ -1,0 +1,120 @@
+y_true,y_pred,y_text,content,category
+0,0,Error occurred,Thấy e k c,others
+0,5,"Đáp án: 5. Người bình luận không thích sản phẩm và cho rằng giá cả quá cao.
+Giải thích:
+""Đồ"" trong bình luận có thể đề cập đến sản phẩm được bán trong livestream.
+""Chi nhieu ky"" có thể ám chỉ rằng sản phẩm có giá cao.
+""Vua vay"" có thể nghĩa là chất lượng của sản phẩm không đáng giá với giá tiền đã trả.
+""Chi oi"" là cách gọi thân mật trong tiếng Việt.
+Vì vậy, người bình luận cho rằng sản phẩm đắt và không đáng để mua. Do đó, đáp án là 5.",Đồ chi nhieu ky vua vay chi oi,others
+0,5,"Đáp án: 5. Người bình luận không thích sản phẩm và cho rằng giá cả quá cao.
+Giải thích:
+""Đô chi mặc"" có thể đề cập đến sản phẩm được bán trong livestream.
+""Nhieu ky"" có thể ám chỉ rằng sản phẩm đã được sử dụng lâu.
+""Vua vay"" có thể nghĩa là chất lượng của sản phẩm không đáng giá với giá tiền đã trả.
+""Chi oi"" là cách gọi thân mật trong tiếng Việt.
+Vì vậy, người bình luận cho rằng sản phẩm không tốt, đã qua sử dụng lâu và giá cả quá cao. Do đó, đáp án là 5.",Đô chi mặc nhieu ky vua vay chi oi,others
+0,0,"Đáp án: 0. Không phân tích được.
+Giải thích:
+Bình luận chỉ có một từ duy nhất là ""Nuyen thamh"", không có đủ thông tin để phân tích ý nghĩa hay mục đích của bình luận này.
+""Nuyen thamh"" không phải là cụm từ hay từ vựng tiếng Việt thông dụng, không thể suy ra được ý nghĩa của từ này trong ngữ cảnh livestream bán hàng.
+Vì vậy, không thể phân tích được và đáp án là 0.",Nuyen thamh,others
+1,0,"Đáp án: 0.
+Giải thích: Bình luận ""Đcs"" không có đủ thông tin để phân tích ý nghĩa của nó.",Đcs,others
+1,1,"Đáp án: 1.
+Giải thích: Bình luận này có chứa lời mời gọi chia sẻ miễn phí sản phẩm, được viết bằng cách sử dụng từ ""chia sẻ"" và ""miễn phí"". Đồng thời, bình luận không hỏi hoặc đề cập đến thông tin cụ thể về sản phẩm, vì vậy nó không liên quan đến việc chọn thông số hoặc đặt câu hỏi về sản phẩm. Bình luận cũng không cho thấy người bình luận muốn mua hoặc hủy sản phẩm, nên đáp án 1 là phù hợp nhất.",Chia sẻ e hoa miễn phí,others
+1,3,"Đáp án: 3. Bình luận này có chứa từ ""Miễn phí"" liên quan đến thông số của sản phẩm, cho thấy sản phẩm đang được bán có ưu đãi miễn phí nào đó.",Miễn phí,others
+1,6,"Đáp án: 6.
+Bình luận ""Miễn phí"" có thể được hiểu là người bình luận thích sản phẩm được bán và đồng ý với chính sách miễn phí của người bán, có thể là miễn phí vận chuyển, miễn phí quà tặng kèm theo sản phẩm, hoặc có thể sản phẩm đang được bán với giá trị là 0 đồng.",Miên phi,others
+1,1,Đáp án: 1. Người bình luận đang muốn chia sẻ thông tin về sản phẩm miễn phí với người khác bằng cách nhắc tới tên riêng của sản phẩm.,Miễn phí e hoa,others
+6,6,"Đáp án: 6. Bình luận này thể hiện sự hài lòng của khách hàng về sản phẩm bằng cách nói rằng ""rất đẹp"".",Chị nhận hàng rồi rất đẹp,others
+2,5,"Đáp án: 5.
+Giải thích: Bình luận này có chứa từ khóa ""Bộ"", tuy nhiên không có thông tin về việc đặt hàng hoặc chốt đơn hàng. Thay vào đó, nó chỉ đề cập đến sản phẩm đã được một người khác mặc, tuy nhiên người bình luận không nhắc đến việc họ thích hay không thích sản phẩm. Vì vậy, đáp án phù hợp nhất là 5 - không thích sản phẩm.",Bộ chị mặc b Nhiêu,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Bn t c oi"" không đưa ra đủ thông tin để phân tích ý nghĩa, không thể xác định được ý kiến của người bình luận về sản phẩm hoặc dịch vụ, cũng như không thể xác định được họ muốn truyền đạt thông điệp gì. Do đó, không có đáp án phù hợp.",Bn t c oi,others
+2,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm và muốn biết giá của sản phẩm đó là bao nhiêu tiền. ""Baonhieutien1cai"" có thể được hiểu là ""bao nhiêu tiền 1 cái"" hoặc ""bao nhiêu tiền một chiếc"".",Baonhieutien1cai,others
+2,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, cụ thể là hỏi về kích thước sản phẩm nếu có thể mặc rộng không với số đo cân nặng của mình là 48 kg.",48 kg mặc rộng không bạn,others
+3,6,Đáp án: 6. Bình luận này cho thấy người đó thích sản phẩm và đánh giá rằng giá xả là rất tốt và sản phẩm rất đẹp.,Xả 7 quá đẹp,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Xã 9"" có thể là việc chọn thông số cho sản phẩm. Tuy nhiên, do thiếu thông tin nên không thể chắc chắn được.",Xã 9,others
+2,2,"Đáp án: 2. Bình luận này đặt câu hỏi về giá hoặc số lượng sản phẩm, yêu cầu người bán cung cấp thông tin chi tiết hơn.",Bao nhiêu vậy chị,others
+1,0,"Đáp án: 0.
+Giải thích: Bình luận ""Bibo Bibo"" không mang ý nghĩa thông tin nào về sản phẩm hoặc đặt câu hỏi, cũng không cho thấy ý kiến thích hay không thích sản phẩm, và không liên quan đến việc hủy đơn hàng hay chốt đơn. Do đó, không thể phân loại bình luận này vào bất kỳ nhóm nào trong các đáp án đã cho.",Bibo Bibo,others
+3,4,"Đáp án: 4. Bình luận này cho thấy người bình luận đã chốt đơn hàng và yêu cầu xác nhận thông tin về đơn hàng, bao gồm số xa và số đơn hàng.",Xa 12 đôn don,others
+3,0,"Đáp án: 0. Bình luận ""Xả 13 dồn don"" không rõ ý nghĩa và không liên quan đến sản phẩm hay dịch vụ nào trong livestream bán hàng others, do đó không thể phân tích được theo các nhãn đã cho.",Xả 13 dồn don,others
+6,5,"Đáp án: 5. Người bình luận cho biết không thích sản phẩm, thay vào đó muốn mua quần sọt giống em đang mặc. Bên cạnh đó, họ còn chú ý đến ngoại hình của người mẫu trong livestream bán hàng.",Hoa lấy quần sọt giống em đang mặc về bán đi thấy em mặt đẹp quá,others
+3,3,"Đáp án: 3. Người bình luận đang yêu cầu bán hàng với giá là 18 đồng, có thể là giá sản phẩm hoặc giá vận chuyển. Tuy nhiên, vì thiếu thông tin chi tiết, nên không thể chắc chắn được.",sả 18,others
+0,0,Error occurred,K trang sao,others
+0,6,"Đáp án: 6.
+Giải thích:
+""Bình luận sau ""Hii c iu"" không chứa tên riêng hoặc câu hỏi. Nó không yêu cầu chọn thông số cho sản phẩm, chốt đơn hoặc hủy đơn hàng. Tuy nhiên, từ ""iu"" trong bình luận có thể được hiểu là người bình luận thích sản phẩm và muốn tỏ ra thân thiết với người bán hàng. Do đó, đáp án 6 - ""Nếu thích sản phẩm"" là lựa chọn phù hợp nhất.",Hii c iu,others
+0,3,"Đáp án: 3.
+Giải thích:
+Bình luận này yêu cầu thông tin về sản phẩm như có bán ""si rum chị thâm và num"" hay không. Do đó, đây là trường hợp chọn thông số cho sản phẩm, nên đáp án 3 - ""Nếu chọn thông số cho sản phẩm"" là lựa chọn phù hợp nhất.",E ơi có si rum chị thâm và num không,others
+0,5,"Đáp án: 5.
+Giải thích:
+Bình luận ""Á nay c trộn kem rồi nè"" không nhắc tên riêng hoặc đặt câu hỏi, không yêu cầu chọn thông số cho sản phẩm, không chốt đơn hàng hay hủy đơn hàng. Tuy nhiên, không có đủ thông tin để xác định xem người bình luận có thích sản phẩm hay không. Từ ""trộn kem"" có thể được hiểu là sản phẩm bán là kem dưỡng da, nhưng không thể xác định được xem người bình luận thích hay không. Do đó, đáp án 5 - ""Nếu không thích sản phẩm"" là lựa chọn phù hợp nhất.",Á nay c trộn kem rồi nè,others
+0,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, nói rằng họ sẽ chọn sau khi E2 hư nhỏ.",E 2 hư nhỏ chọn sau e,others
+1,1,Đáp án: 1. Người bình luận muốn chia sẻ thông tin với mọi người trong livestream.,Chia sẻ đi mọi nguoi oi,others
+2,0,"Đáp án: 0.
+Giải thích: Bình luận này không liên quan đến sản phẩm hay thông tin về đơn hàng. Nó có nội dung không phù hợp và có thể bị xem là một bình luận mang tính chất phân biệt chủng tộc hoặc kích động tranh cãi, vì vậy không thể phân tích theo các nhãn đã đề ra.",Da chị đen đòi mồi Sài trắng không em,others
+0,2,Đáp án: 2. Người bình luận đang đặt câu hỏi về việc mình sẽ nhận được quà gì khi mua sản phẩm.,Chị dc nhận quà j vạy chi,others
+0,0,"Đáp án: 0. Bình luận này không có đủ thông tin để phân tích. ""Mới h"" không đủ để hiểu ý kiến của người bình luận.",Mới h,others
+0,5,"Đáp án: 5. Bình luận này cho thấy người viết không thích sản phẩm và đang đưa ra một yêu cầu không hợp lý. ""Da chị đen đòi mòi Sài trắng"" có nghĩa là da của chị đen và yêu cầu mặc hàng Sài trắng không phù hợp với màu da của chị, cho thấy người viết không thực sự quan tâm đến sản phẩm và có thể sẽ không mua.",Da chị đòi mòi Sài trắng không em,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Rửa xe hơi đi chị iu ơi"" không liên quan đến sản phẩm bán hàng hoặc các thông tin cần thiết để phân tích. Nó chỉ là một bình luận chơi chữ và không mang ý nghĩa gì trong ngữ cảnh livestream bán hàng.",Rửa xe hơi đi chị iu ơi,others
+0,2,Đáp án: 2. Người bình luận đang đặt câu hỏi với người bán hàng rằng liệu sản phẩm có phải là món quà tặng không.,A iu tặng hả c,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận này không có ý nghĩa rõ ràng hoặc liên quan đến sản phẩm bán hàng nên không thể phân loại vào bất kỳ nhãn nào trong danh sách đã cho.",Rửa xe ik chị,others
+0,3,"Đáp án: 3. Bình luận này đang chọn thông số sản phẩm, nói về độ đen lì của da và khả năng sử dụng kem lên tông được hay không.",Da e đen lì xài k lên ton được kem chị xài mấy ngày lên ton,others
+0,5,"Đáp án: 5. Bình luận này có ý nghĩa là người viết không thích sản phẩm vì giá của nó quá cao. ""cuc manh"" có thể hiểu là sản phẩm rất tốt, nhưng người viết cho rằng giá của nó không xứng đáng với chất lượng, vì vậy họ không thích sản phẩm đó.",cuc manh gia nhieu chi,others
+0,3,"Đáp án: 3.
+Giải thích: Người bình luận đang chia sẻ về sản phẩm kem rửa xe mà họ đã sử dụng và cho rằng nó rất mạnh mẽ để rửa sạch xe hơi của họ. Do đó, đây là một bình luận về thông số của sản phẩm và có thể giúp khách hàng khác quyết định liệu sản phẩm có phù hợp với nhu cầu của họ hay không.",Nay lam kem cuc mạnh rua xe ha c,others
+0,6,"Đáp án: 6.
+Giải thích: Bình luận này có ý nghĩa là người viết thấy vui khi nhìn thấy chủ livestream mặc sản phẩm đang bán và cho rằng sản phẩm đó rất đẹp. Do đó, đáp án thích sản phẩm (6) là phù hợp nhất.",Nhin ba vui chua kia,others
+2,2,"Đáp án: 2. Người bình luận đặt câu hỏi về thông số sản phẩm, đó là tính năng bết dính của kem mà họ muốn biết.",Kem có bết rít gì không ạ,others
+0,0,"Đáp án: 0. Bình luận ""Hi"" không có đủ thông tin để phân loại vào bất kỳ nhãn nào trong các lựa chọn đã cho.",Hi,others
+6,6,Đáp án: 6. Bình luận này thể hiện người viết rất thích sản phẩm (kem).,Nhìn kem mà mê luôn,others
+2,2,Đáp án: 2. Người bình luận đang đặt câu hỏi về việc có hỗ trợ ship đến Cần Thơ hay không.,Cần thơ có hỗ trợ ship không c,others
+6,6,"Đáp án: 6. Bình luận này thể hiện sự thích thú và quan tâm đến loại sản phẩm ""ủ xanh chin dag trộn trắng banh nóc"" mà người bán đang bán.",E thích loại ủ xanh chin dag trộn trắng banh nóc lun,others
+2,5,"Đáp án: 5.
+Giải thích: Bình luận này không liên quan đến sản phẩm hay chương trình bán hàng mà chỉ là một câu hỏi chung chung, do đó không phải là câu trả lời cho sản phẩm hay dịch vụ nào cả. Người bình luận có thể đang đề cập đến việc đã u mê sản phẩm của livestream trước đó, hoặc chỉ đơn giản là một câu hỏi đơn giản mà không liên quan đến sản phẩm hay dịch vụ nào cả.",Ngày u mấy lần chị,others
+0,6,"Đáp án: 6
+Giải thích: Bình luận ""Chỉ là thần tượng của em luôn"" có nghĩa là người bình luận rất thích sản phẩm và đánh giá rất cao người bán hàng. Vì vậy, đáp án là 6 - Nếu thích sản phẩm.",Chi la than tuong cua em luon,others
+0,5,"Đáp án: 5
+Giải thích: Bình luận ""Chỉ còn đĩa chỉ của e không"" có vẻ như là một phản hồi tiêu cực đối với sản phẩm hoặc dịch vụ được bán trong livestream. Vì vậy, đáp án là 5 - Nếu không thích sản phẩm.",Chi con luu dia Chi cua e kg,others
+2,2,"Đáp án: 2
+Giải thích: Bình luận ""Ơ cái tặc 1 ngày có không chị"" có thể được hiểu là người bình luận đang đặt một câu hỏi với người bán hàng, có thể liên quan đến thời gian giao hàng hoặc thời gian chờ đợi. Vì vậy, đáp án là 2 - Nếu đặt câu hỏi.",Ơ cái tăc 1 ngày có khg chị,others
+0,6,"Đáp án: 6. Bình luận này có ý nghĩa chúc mừng và ủng hộ người bán hàng. Nó không liên quan đến việc nhắc tên riêng, đặt câu hỏi, chọn thông số sản phẩm, đã chốt đơn, không thích sản phẩm hoặc muốn hủy đơn hàng.",Chúc mừngchị iu nha,others
+2,2,Đáp án 2. Người bình luận đặt câu hỏi về việc sản phẩm có thích hợp cho việc sử dụng ban đêm hay không và liệu sản phẩm có làm da bị lên tone nhiều không nếu sử dụng vào ban đêm.,E xài ban đêm k à c  lên tone nhìu k c  e xài kem cũ,others
+2,2,Đáp án 2. Người bình luận đặt câu hỏi về thời gian sử dụng của sản phẩm trong 1 hộp.,1 hộp sử dụng được bao lâu ạ,others
+2,5,Đáp án 5. Người bình luận không thích sản phẩm kem trang da mà người bán đang giới thiệu.,Chi ban kem trang da ma vua gioi nua,others
+2,2,"Đáp án 2. Người bình luận đang đặt câu hỏi với người bán hàng xem sản phẩm ""Hữu c"" có được trộn vào các sản phẩm khác không.",Hữu c dag tron có ban k c,others
+2,3,"Đáp án: 3. Bình luận này yêu cầu người bán chọn thông số cho sản phẩm, nói cụ thể là kem face. Người bình luận muốn biết liệu sản phẩm có đi kèm với kem face hay không.",Có kem face luôn không c ui,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, yêu cầu bán 1 hủ kem trắng bạch da cho người có màu da đen.",Bán chị 1 hủ kem trắng bạch da chị đen,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Mua xe rửa đi cj"" không liên quan đến sản phẩm mà livestream bán, cũng không có yêu cầu hoặc nhu cầu gì liên quan đến bán hàng. Do đó, không thể phân loại bình luận này vào bất kỳ một nhóm nào trong các lựa chọn được đưa ra.",Mua xe rửa đi cj,others
+2,5,"Đáp án: 5. Người bình luận phàn nàn về tình trạng da tay bị đổi màu và đen đen do tuổi già, không liên quan đến sản phẩm được bán trong livestream.",Tay bị doi moi  dom den vì tuổi già có trang không con,others
+0,6,"Đáp án: 6. Bình luận này thể hiện sự thích thú và ủng hộ sản phẩm của người bình luận. Từ ""Nhất chị rồi nha"" có thể hiểu là ""Chị là số 1 rồi, tôi sẽ mua sản phẩm của chị"".",Nhất chị rồi nha,others
+0,5,"Đáp án: 5. Người bình luận không thích sản phẩm.
+Giải thích: Bình luận ""Có ng y ngon nhj"" có thể hiểu là ""Có người ngon nhỉ"", với từ ""người"" có thể ám chỉ đến sản phẩm hoặc người bán. Tuy nhiên, khi kết hợp với từ ""không thích"", ta có thể suy ra người bình luận không thích sản phẩm được giới thiệu trong livestream.",Có ng y ngon nhj,others
+1,2,"Đáp án: 2.
+Giải thích: Bình luận này đang đặt câu hỏi về việc liệu sản phẩm có được tặng kèm hay không.",Còn tặng k chị,others
+3,3,"Đáp án: 3.
+Bình luận này đang chọn loại sản phẩm trên livestream để mua, cho thấy người bình luận đang quan tâm đến thông số sản phẩm để lựa chọn.",lay loai tren live hom nay nha c,others
+0,5,"Đáp án: 5.
+Giải thích: Bình luận này không liên quan đến việc đặt hàng hoặc sản phẩm, mà là chia sẻ về kinh nghiệm sử dụng kem chăm sóc da. Người bình luận thể hiện sự không hài lòng với kem mà họ đã mua từ cửa hàng Ci và đã tìm thấy một loại kem khác mà họ thích hơn. Do đó, đây là trường hợp không thích sản phẩm.",Em moi bôi kem xong kem bên Ci sai thích lm Ci,others
+2,2,"Đáp án: 2. Bình luận này đặt câu hỏi về việc bán hàng của người bán livestream, yêu cầu họ cập nhật số lượng hàng để bán.",Về nhiu hàng đi bán c,others
+0,0,"Đáp án: 0. Không phân tích được.
+Giải thích: Bình luận không liên quan đến sản phẩm hoặc livestream bán hàng, không có thông tin cụ thể để phân tích được.",E đặc hồi chiều trên trang ak chị giờ lên coi chị trộn nek,others
+0,4,Đáp án: 4. Bình luận cho biết người đó đã để lại số điện thoại để đặt hàng và sẽ gửi địa chỉ qua tin nhắn riêng (ib). Điều này cho thấy rằng người đó đã chốt đơn hàng và muốn mua sản phẩm.,Em để lại sdt đặt hàng rồi lát em gửi c địa chỉ qua ib nhé,others
+2,5,Đáp án: 5. Bình luận này cho thấy người bình luận không quan tâm đến việc miễn ship hay không mà chỉ muốn bày tỏ rằng họ không thích sản phẩm được bán.,Chị ơi miễn ship ha chị,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận này không liên quan đến sản phẩm hoặc việc mua bán hàng hóa. Nó chỉ là một câu hỏi về việc rửa xe tăng, và không có thông tin đủ để đưa ra bất kỳ phân tích nào liên quan đến mục đích của livestream bán hàng.",Chi nay rữa xe tăng kem trắng mạnh nữa hả chị,others
+0,5,"Đáp án: 5. Người bình luận đưa ra chia sẻ về kinh nghiệm sử dụng sản phẩm, nói rằng sau 23 ngày sử dụng kem của chị, da của em đã trắng lên rõ. Vì vậy, đây không phải là câu hỏi hoặc yêu cầu đặt hàng, cũng không phải là lời khen hoặc hỏi về thông tin sản phẩm.",Em xài kem của chị đc 23 ngày mà da trắng lên rõ luôn á chị,others
+0,6,Đáp án: 6. Người bình luận thể hiện thích sản phẩm và đã mua hàng từ nhà bán hàng.,nghe e nói mà mê quá trời mới mua cua em xong,others
+0,5,"Đáp án: 5. Bình luận này phản đối sản phẩm vì người bình luận cho rằng sản phẩm không đáng giá tiền bạc và không hiệu quả. ""Vai bua gan het kem"" và ""làm chị hủ rữa xe y vậy"" cho thấy sản phẩm không đáp ứng được nhu cầu hoặc mong đợi của người dùng, và do đó, người bình luận không thích sản phẩm này.",vai bua gan het kem làm chị hủ rữa xe y vậy nha e,others
+2,3,"Đáp án: 3.
+Giải thích: Bình luận này đang yêu cầu chủ stream xem xét chế độ khuyến mãi cho sản phẩm, hỏi xem liệu nếu mua sản phẩm với giá 250k có được tặng quà kèm không. Chọn đáp án 3 vì người bình luận đang đặt câu hỏi liên quan đến thông số hoặc chế độ khuyến mãi của sản phẩm.",250k có quà k chj,others
+0,2,"Đáp án: 2.
+Giải thích: Bình luận này là một câu hỏi, hỏi về độ mạnh của sản phẩm kem mới mà chị đang bán. Không có thông tin về việc nhắc tên riêng, chia sẻ, chọn thông số cho sản phẩm, đã chốt đơn, không thích sản phẩm, thích sản phẩm hoặc muốn hủy đơn hàng.",Nay kem mới mạnh hả chị,others

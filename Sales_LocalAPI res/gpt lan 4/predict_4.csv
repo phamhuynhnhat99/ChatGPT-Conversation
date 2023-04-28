@@ -1,0 +1,124 @@
+y_true,y_pred,y_text,content,category
+0,5,"Đáp án: 5.
+Giải thích: Bình luận ""Hổn cũng dễ thương luôn kkkkkkk"" không liên quan đến việc đặt câu hỏi, chọn thông số sản phẩm, chốt đơn hàng hay hủy đơn hàng. Nó chỉ là một lời bình luận về cảm nhận của người viết về sản phẩm hoặc về người bán hàng, và thể hiện sự thích thú với sản phẩm. Do đó, đáp án là 5 - Không thích sản phẩm.",Hổn cũng dễ thương luôn kkkkkkk,others
+0,4,"Đáp án: 4.
+Giải thích: Bình luận ""Em chỉ dc chốt trên livetream K"" thể hiện rằng người viết đã chốt đơn hàng trong buổi livestream. Do đó, đáp án là 4 - Đã chốt đơn.",Em chỉ dc chốt trên livetream K,others
+3,5,"Đáp án: 5.
+Giải thích: Bình luận ""Set"" không cung cấp thông tin đủ để xác định mục đích hoặc ý định của người viết. Nó có thể chỉ là một lời bình luận ngắn về sản phẩm, không liên quan đến việc đặt câu hỏi, chọn thông số sản phẩm, chốt đơn hàng, hay muốn hủy đơn hàng. Do đó, đáp án là 5 - Không thích sản phẩm.",Set,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm và yêu cầu mua một ""set"" sản phẩm đen dồn. ""Set"" có thể ám chỉ một bộ sản phẩm gồm nhiều món khác nhau, và ""đen dồn"" là màu sắc hoặc kiểu dáng của sản phẩm.",Set đen dồn,others
+3,3,"Đáp án: 3. Bình luận ""Sẻt đen"" có thể là người muốn chọn thông số cho sản phẩm, chẳng hạn như yêu cầu chọn màu đen cho sản phẩm.",Sẻt đen,others
+0,0,"Đáp án: 0. Không phân tích được vì bình luận ""Fgh"" không có thông tin để hiểu ý kiến của người bình luận.",Fgh,others
+0,0,"Đáp án: 0. Bình luận ""Kkkkkkkkkk"" không có nội dung cụ thể, không phân loại được vào bất kỳ nhãn nào trong số các lựa chọn đã cho.",Kkkkkkkkkk,others
+2,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách yêu cầu ""set bn"" (có thể là ""size bao nhiêu"") và thêm ""c"" là viết tắt của ""chắc"" hay ""có chắc không"".",set bn c,others
+0,0,"Đáp án: 0. Không phân tích được ý nghĩa của bình luận ""Xzzzxxx"".",Xzzzxxx,others
+0,4,Đáp án: 4. Bình luận này đã thông báo rằng người dùng đã hoàn tất quá trình đặt hàng và chốt đơn hàng.,Mừng wá mua mãi hàng nhà thương mới được chốt,others
+2,2,"Đáp án: 2. Người bình luận đang đặt câu hỏi về sản phẩm, họ muốn biết liệu sản phẩm ""chân váy Fendi"" còn có sẵn trong kho hàng của người bán hay không.",Chị ơi chân váy fendi còn k ạ,others
+2,2,Đáp án: 2. Người bình luận đặt câu hỏi về việc còn hàng không và muốn biết khi nào shop sẽ có thêm hàng để mua.,Mau jum den con hang nua kg shop Minh lên live kg kịp de mua,others
+0,0,"Không phân tích được. Bình luận này không có ý nghĩa hoặc không liên quan đến sản phẩm, do đó không thể phân tích được theo các nhãn đã cho.",2222222.0,others
+0,0,Không phân tích được vì bình luận không mang ý nghĩa rõ ràng hoặc không liên quan đến sản phẩm.,Njjjnj,others
+1,1,"Đáp án: 1. Bình luận ""Thu Hằng"" nhắc tên riêng của một người nào đó, cho thấy người bình luận đang chia sẻ thông tin hoặc nêu ý kiến về người này.",Thu Hằng,others
+0,0,"Đáp án: 0. Bình luận không có nội dung cụ thể hoặc không liên quan đến sản phẩm, không phân loại được vào các nhóm trên.",Adh,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm chân váy Fd.,Chân váy Fd,others
+0,6,"Đáp án: 6. Người bình luận đang thể hiện sự thích thú với sản phẩm bằng cách miêu tả nó như là ""bản mẹc bã dễ thương"".",Bản mẹc bã dễ thương quá ò,others
+3,4,"Đáp án: 4. Người bình luận đã thông báo rằng họ đã chốt đơn, có nghĩa là họ đã hoàn tất quá trình mua sản phẩm và không có câu hỏi, yêu cầu hoặc phản hồi về sản phẩm.",Set đen dồn đơn,others
+3,3,"Đáp án: 3. Người bình luận đang yêu cầu thông tin về kích thước của sản phẩm, cụ thể là chân váy Fd size S.",Chân váy fd size s,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Fendi M"" có thể hiểu là khách hàng muốn chọn kích cỡ ""M"" cho sản phẩm của thương hiệu Fendi. Do đó, đây là việc chọn thông số cho sản phẩm.",Fendi M,others
+3,3,Đáp án: 3. Bình luận này đang chọn thông số sản phẩm là size L.,Size l,others
+2,2,"Đáp án: 2.
+Giải thích: Bình luận này là một câu hỏi về sản phẩm, người bình luận muốn biết liệu chân váy size M đã được chủ livestream bán hay chưa để có thể mua.",Chân váy m hùi sáng chị có chưa e,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách yêu cầu màu sắc (kem) và kích cỡ (M) của sản phẩm Fendi.,Cv Fendi kem M,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Nmmmmmm"" không rõ ràng và không có thông tin đủ để phân tích ý nghĩa của nó.",Nmmmmmm,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm khi viết ""Cv fendi kem M"". ""Cv"" có thể là cách viết tắt của chân váy, ""fendi kem"" là màu sắc và thương hiệu của sản phẩm, còn ""M"" có thể là kích cỡ hoặc size của sản phẩm. Do đó, bình luận này đang chọn thông số cho sản phẩm mà họ muốn mua.",Cv fendi kem M,others
+2,3,"Đáp án: 3. Người bình luận đang hỏi về thông số sản phẩm, cụ thể là cân nặng, để biết sản phẩm có phù hợp với mình hay không.",42kg vừa không,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm khi yêu cầu ""Chân váy fd L"". Họ muốn chọn kích cỡ L cho chân váy của thương hiệu fd.",Chân váy fd L,others
+0,0,Đáp án: 0. Không phân tích được ý nghĩa của bình luận do nó không có nội dung rõ ràng.,Njkjjjjjkjjj,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, đó là chân váy có kích cỡ L.",Chân váy L,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm và yêu cầu bán chân váy kích cỡ L.,Cv L,others
+3,3,"Đáp án: 3. Bình luận này có thể là viết tắt của ""Chân váy L"" và người bình luận muốn chọn thông số size ""L"" cho sản phẩm. Do đó, đáp án là 3 - chọn thông số cho sản phẩm.",CV L,others
+3,0,"Đáp án: 0
+Giải thích: Bình luận ""C V L"" không có đủ thông tin để phân tích và hiểu ý nghĩa của người bình luận. Có thể đây là một lỗi đánh máy hoặc không liên quan đến sản phẩm trong livestream bán hàng.",C V L,others
+0,0,"Không phân tích được. Bình luận ""Sfh"" không mang ý nghĩa rõ ràng để có thể phân tích được.",Sfh,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm là váy.,Váy L,others
+0,0,"Đáp án: 0. Không phân tích được ý nghĩa của bình luận ""Jmnmnnnn"".",Jmnmnnnn,others
+0,0,Đáp án: 0. Không phân tích được vì bình luận chỉ có một chuỗi kí tự mà không có ý nghĩa rõ ràng.,Mmmmmmmmmmmm,others
+0,4,"Đáp án: 4.
+Giải thích: Bình luận này cho thấy người bình luận đã chốt đơn hàng và muốn biết liệu đơn hàng của họ có được gộp với đơn hàng tối nay hay không.",Đơn lúc chiều sẽ dồn với đơn tối nay luôn phải không bạn,others
+0,0,"Đáp án: 0. Không phân tích được. Bình luận ""Nmnnm"" không rõ ràng và không cung cấp đủ thông tin để phân tích ý nghĩa của nó.",Nmnnm,others
+0,0,"Đáp án: 0. Không phân tích được.
+Lời bình luận ""Nmmmm"" không mang tính chất hỏi, chọn sản phẩm hay cảm nhận về sản phẩm. Nó không cung cấp đủ thông tin để phân tích ý nghĩa.",Nmmmm,others
+3,3,"Đáp án: 3.
+Người bình luận đang chỉ ra một thông số của sản phẩm bán trong livestream, đó là ""Áo khoác xanh"". Do đó, đây là một trường hợp chọn thông số cho sản phẩm và đáp án là 3.",Áo khoác xanh,others
+3,3,"Đáp án: 3. Người bình luận đang muốn chọn thông số cho sản phẩm. Tuy nhiên, bình luận này không cung cấp đủ thông tin để xác định loại sản phẩm hoặc thông số cụ thể nào đang được đề cập.",Khoac,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách chỉ ra màu sắc của áo khoác là xanh.,Khoác xanh,others
+0,0,"Đáp án: 0. Không phân tích được. Bình luận ""Mnmmmmmm"" không có nội dung cụ thể để phân tích ý kiến của người bình luận về sản phẩm hoặc giao dịch.",Mnmmmmmm,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách yêu cầu ""Sét xanh"".",Sét xanh,others
+3,3,"Đáp án: 3. Người bình luận đang chọn mặt hàng có màu xanh và việc nói ""Khoac xanh"" có thể hiểu là họ đang chọn thông số màu sắc cho sản phẩm.",Khoac xanh,others
+3,3,"Đáp án: 3. Người bình luận đang muốn chọn thông số cho sản phẩm khi viết ""Sét xanh"". Cụ thể là họ muốn mua bộ sét màu xanh trong livestream bán hàng.",Sét xanh,others
+3,6,"Đáp án: 6. Người bình luận thích sản phẩm.
+Giải thích: Bình luận ""Set xanh"" không có yêu cầu, câu hỏi hay thông tin về sản phẩm nhưng thể hiện cảm nhận tích cực về sản phẩm. Chữ ""xanh"" có thể ám chỉ màu sắc của sản phẩm.",Set xanh,others
+3,3,"Đáp án: 3. Bình luận ""Áo khoác"" không nhắc tên riêng, không đặt câu hỏi, không chốt đơn, không thể xác định người bình luận có thích hay không thích sản phẩm. Tuy nhiên, ""Áo khoác"" là một thông số cho sản phẩm, do đó đáp án là 3.",Áo khoác,others
+3,6,"Đáp án: 6.
+Giải thích: Bình luận ""Set Xanh"" chỉ đơn thuần là một phản hồi tích cực về sản phẩm, không đặt câu hỏi hay chọn thông số cụ thể cho sản phẩm, không cũng không có yêu cầu hủy đơn hoặc không nhận sản phẩm. Vì vậy, đáp án là 6 - thể hiện sự thích thú và hài lòng với sản phẩm.",Set Xanh,others
+3,3,"Đáp án: 3. Bình luận này có chứa thông tin về sản phẩm, cụ thể là màu sắc (den) và kiểu dáng (dồn). Người bình luận có thể đang muốn hỏi về thông số sản phẩm này hoặc muốn chia sẻ ý kiến về sản phẩm đã được giới thiệu trong livestream.",Khoác dạ xanh,others
+0,3,"Đáp án: 3. Bình luận này có chứa thông tin về sản phẩm, cụ thể là màu sắc (den) và kiểu dáng (dồn). Người bình luận có thể đang muốn hỏi về thông số sản phẩm này hoặc muốn chia sẻ ý kiến về sản phẩm đã được giới thiệu trong livestream.",E ơi thấy c ko,others
+3,0,Error occurred,C iu oi,others
+2,2,"Đáp án: 2. Bình luận này đặt câu hỏi về khả năng đặt hàng được hay không, không nhắc tên riêng, không chọn thông số sản phẩm, không chốt đơn hàng, không cho biết thích hay không thích sản phẩm, không muốn hủy đơn hoặc không muốn nhận sản phẩm.",E order dc ko,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận này đang chọn thông số cho sản phẩm bán trên livestream, bao gồm mặt hàng là ""Khoác dạ"", màu sắc là ""xanh"" và giá bán là ""265k"".",Khoác dạ xanh 265k,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số sản phẩm khi họ muốn mua một bộ đồ màu xanh. ""Sét xanh dồn"" có thể được hiểu là họ muốn mua nhiều sản phẩm cùng màu sắc hoặc một bộ đồ gồm nhiều sản phẩm khác nhau nhưng cùng màu xanh.",Sét xanh dồn,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách yêu cầu 2 sét màu xanh với kích cỡ S và M.,2 sét xanh Sz S và M,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận không liên quan đến sản phẩm bán hàng, không có thông tin để phân loại vào bất kỳ nhãn nào trong các lựa chọn đã cho.",E chứng minh đầu mà k có chi ơi huuuu,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách chỉ ra số lượng sản phẩm cần mua, trong trường hợp này là ""Sét xanh 3"".",Sét xanh 3,others
+3,7,"Đáp án: 7. Người bình luận muốn hủy đơn hàng hoặc không muốn nhận sản phẩm.
+Giải thích: Bình luận ""Hủy set xanh nha e"" cho thấy người bình luận muốn hủy đơn hàng hoặc không muốn nhận sản phẩm đó.",Hủy set xanh nha e,others
+3,3,Đáp án: 3. Người bình luận đang chỉ ra rằng họ quan tâm đến sản phẩm sét màu xanh và có thể đang muốn biết thêm thông tin về thông số sản phẩm đó.,sét xanh,others
+1,1,"Đáp án: 1. Bình luận ""Nhi Nhi"" nhắc tới tên riêng của người nào đó.",Nhi Nhi,others
+6,3,"Đáp án: 3.
+Giải thích: Bình luận này đang hỏi về thông số sản phẩm là loại son màu gì được sử dụng bởi người bán và đánh giá sản phẩm rất đẹp.",Son c Thương xài son gì màu gì v c Đẹp xỉu,others
+2,2,"Đáp án: 2. Người bình luận đặt câu hỏi về sản phẩm, yêu cầu kiểm tra kích cỡ chân váy da mà họ quan tâm.",Chị ơi chân váy da live trước còn size L k ạ còn chốt em nha,others
+2,2,Đáp án: 2. Người bình luận đang đặt câu hỏi về số lượng set dạ mà người bán đang có.,Bao nhiêu set dạ chị,others
+2,2,Đáp án: 2. Người bình luận đặt câu hỏi và yêu cầu gửi màn hình qua tin nhắn để được tư vấn cụ thể về sản phẩm.,Em chụp màn hình gửi ib nha chị,others
+0,5,"Đáp án: 5. Người bình luận cho biết cảm nhận không tốt về sản phẩm khi dùng từ ""Khổ ghê"".",Khổ ghê,others
+0,6,"Đáp án: 6. Người bình luận có ý kiến tích cực về sản phẩm và muốn gửi lời chào ""hello"" đến người bán hàng.",He lô thương,others
+2,2,Đáp án: 2. Người bình luận đang đặt câu hỏi về trạng thái đơn hàng của mình sau khi đã chốt đơn trên livestream hôm trước nhưng không thấy cửa hàng gọi chốt đơn.,Đặt hàng nge chốt trên live hôm kia rồi nhưng k thấy shop gọi chốt đơn ạ Ktra giúp e nhe,others
+3,6,Đáp án: 6. Người bình luận thích sản phẩm và muốn mua 3 sét màu xanh đó.,Sét xanh này để em 3 sét c nhoa,others
+0,5,"Đáp án: 5. Người bình luận cho biết họ không thích sản phẩm. Câu ""Be Thương nhieu tuoi roima nhìn de thuog qua"" là cảm nhận của họ về ngoại hình của người mẫu trên livestream, không liên quan đến sản phẩm bán hàng.",Be Thương nhieu tuoi roima nhìn de thuog qua,others
+2,5,"Đáp án: 5. Bình luận này cho thấy người dùng không muốn mua sản phẩm ""Dép"" được bán trên livestream. ""Mang bán k e"" có thể hiểu là không muốn mua và không quan tâm đến sản phẩm này.",Dép mang bán k e,others
+0,6,Đáp án: 6. Bình luận này biểu thị sự thích thú của người bình luận đối với sản phẩm hoặc nội dung trong livestream bán hàng.,Yessssss,others
+0,5,"Đáp án: 5. Bình luận này thể hiện người viết không thích sản phẩm, có thể là do kích thước hoặc kiểu dáng sản phẩm không phù hợp với người viết.",Khổ,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận này không có ý nghĩa rõ ràng hoặc có nghĩa khó hiểu, không thể phân loại vào bất kỳ nhãn nào trong các lựa chọn đã cho.",Nnnmmmnn,others
+0,0,Đáp án: 0. Bình luận này không cung cấp đủ thông tin để phân tích ý nghĩa hoặc ý kiến của người bình luận.,Mmmmmmmm,others
+0,0,"Đáp án: 0. Bình luận này không mang ý nghĩa rõ ràng hoặc khó hiểu, không phân loại được vào các trường hợp đã đề cập.",Nmmnnmmm,others
+0,0,"Đáp án: 0. Bình luận ""Hi"" không đưa ra đủ thông tin để phân tích ý nghĩa của nó. Nó có thể chỉ là lời chào hỏi đơn giản hoặc một lời nhắc nhở về sản phẩm, nhưng không có đủ thông tin để xác định chính xác ý nghĩa của nó.",Hi,others
+0,0,"Đáp án: 0. Không phân tích được.
+Giải thích: Bình luận ""Hhhhhhhhhhhhhhhhh"" không chứa bất kỳ thông tin cụ thể nào liên quan đến sản phẩm hay chương trình livestream, và không phải là câu hỏi hay phản hồi cụ thể nào, vì vậy không thể phân loại vào bất kỳ nhóm nào trong các lựa chọn được cung cấp.",Hhhhhhhhhhhhhhhhh,others
+0,0,Không phân tích được. Bình luận không có ý nghĩa rõ ràng hoặc không hợp lý.,Tuujnmmmmmmn,others
+0,0,"Đáp án: 0. Bình luận ""Okok"" không cung cấp đủ thông tin để phân tích mục đích hoặc ý định của người bình luận.",Okok,others
+0,0,"Không phân tích được. Bình luận này không có nội dung hoặc có nội dung không rõ ràng, không đủ để phân tích ý nghĩa của nó.",Ghbnnnn nnnn,others
+2,5,"Đáp án: 5.
+Giải thích: Bình luận này cho thấy người viết không hài lòng vì đã mua hàng nhưng không nhận được sản phẩm tặng kèm từ cửa hàng. ""Sóc hàng tặng của em"" có thể là một sản phẩm khác mà người mua đã mong đợi nhận được. Từ ""k có hàng tặng"" cho thấy cửa hàng đã không thực hiện đúng cam kết của mình về việc tặng sản phẩm và người viết đang phàn nàn về điều này.",Shop gửi sót hàng tặng của emgui hàng mua k có hàng tặng ạ,others
+0,0,Đáp án: 0. Không phân tích được ý nghĩa của bình luận vì không có nội dung cụ thể.,Hhhbhhbbbhjj,others
+0,0,Đáp án: 0. Bình luận này không có nội dung hoặc thông tin để phân tích.,Vvbbnnnnnnn,others
+0,0,"Đáp án: 0. Bình luận ""Nmmmnmmm"" không mang ý nghĩa cụ thể hoặc không liên quan đến sản phẩm, do đó không thể phân tích được theo các nhãn đã đề ra.",Nmmmnmmm,others
+3,3,"Đáp án: 3.
+Giải thích: ""Sét len"" là một cách miêu tả cho loại áo len được bán trong livestream. Người bình luận không nhắc tên riêng, không đặt câu hỏi, không chốt đơn, không thể biết được họ thích hay không thích sản phẩm, cũng không có ý muốn hủy đơn hàng hay không muốn nhận sản phẩm. Tuy nhiên, bằng cách mô tả sản phẩm bằng cụm từ ""sét len"", người bình luận có thể giúp khách hàng khác dễ dàng tìm kiếm và xác định sản phẩm mà họ muốn mua. Do đó, đáp án là 3 - chọn thông số cho sản phẩm.",Sét len,others
+3,3,"Đáp án: 3. Bình luận ""Set len"" có thể hiểu là người bình luận đang muốn chọn sản phẩm là bộ đồ len (set len), và việc chọn loại len nào cụ thể có thể được trao đổi thêm về thông số của sản phẩm trong cuộc trò chuyện.",Set len,others
+0,3,"Đáp án: 3. Bình luận ""Set len"" có thể hiểu là người bình luận đang muốn chọn sản phẩm là bộ đồ len (set len), và việc chọn loại len nào cụ thể có thể được trao đổi thêm về thông số của sản phẩm trong cuộc trò chuyện.",Shop gui sót hàng tặng của em chỉ gửi hàng mua k có hàng tặng ạ,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Mnnnn"" không rõ ràng và không có đủ thông tin để phân tích ý nghĩa của nó trong ngữ cảnh livestream bán hàng others.",Mnnnn,others
+2,4,"Đáp án: 4. Người bình luận yêu cầu chốt đơn hàng nếu bán hàng đang bận, và muốn được gọi lại nếu có thể. Việc yêu cầu chốt đơn hàng và liên lạc lại để xác nhận là đã hoàn tất đơn hàng được xem như đã chốt đơn.",Gọi chốt đơn nếu may c bận nhắn chị cái tin c gọi lại nha,others
+2,2,"Đáp án: 2.
+Giải thích: Người bình luận đang đặt câu hỏi cho chủ livestream xem lại và kiểm tra thông tin qua tin nhắn riêng (inbox).",C xem check ib lại giúp e,others
+3,0,"Đáp án: 0. Bình luận ""Len"" không cung cấp đủ thông tin để phân tích được ý định của người bình luận.",Len,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, cụ thể là loại vải ""len"" và yêu cầu người bán cung cấp thêm thông tin về đặc tính của loại vải này, ví dụ như độ dày, độ mềm mại, màu sắc, vv. ""Dồn"" có thể là cách nói gọi tắt cho ""đồng ý"" hoặc là yêu cầu bán hàng nhanh chóng. Tuy nhiên, vì bình luận này khá ngắn và không rõ ràng nên vẫn có thể có sự hiểu sai.",Sét len dồn,others
+3,4,"Đáp án: 4. Bình luận này đề cập đến việc dồn đơn, cho thấy người bình luận đã chốt đơn hàng.",Set len  dồn đơn,others
+2,5,"Đáp án: 5. Người bình luận cho biết sản phẩm không phù hợp với mình với cụm từ ""k chi"".",Sét len con k chi,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Set len₫"" không đặt câu hỏi, không nhắc tên riêng, không đề cập đến việc chốt đơn hoặc muốn hủy đơn hàng. Thay vào đó, bình luận chỉ đưa ra một thông số sản phẩm - giá bán. Do đó, đáp án là 3 - Chọn thông số cho sản phẩm.",Set len₫,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách yêu cầu set len zích zắc (set len zigzag).,Set len zích zắc,others
+0,0,"Đáp án: 0. Bình luận ""Mmnnmm"" không có ý nghĩa rõ ràng, không thể phân loại vào bất kỳ nhóm nào trong các lựa chọn đã cho.",Mmnnmm,others
+3,3,"Đáp án: 3. Bình luận này đang chọn thông số cho sản phẩm, cụ thể là set len với kích thước 260.",Set len 260,others

@@ -1,0 +1,132 @@
+y_true,y_pred,y_text,content,category
+3,3,"Đáp án: 3. Bình luận ""Sét vet1"" có thể là yêu cầu chọn thông số (size, màu sắc, kiểu dáng...) cho sản phẩm ""set"" trong livestream bán hàng.",Sét vet1,others
+2,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""Sét len"" và ""còn không em"" đều là mô tả về sản phẩm. Tuy nhiên, bình luận này không đặt câu hỏi hay có ý kiến riêng về sản phẩm, mà đang yêu cầu người bán cung cấp thông tin về thông số của sản phẩm. Do đó, đáp án là 3 - người bình luận muốn chọn thông số cho sản phẩm.",Sét len còn không em,others
+2,3,"Đáp án: 3. Người bình luận muốn biết giá của túi sản phẩm.
+Giải thích: ""Túi trên nhiêu ah"" có thể hiểu là người bình luận đang hỏi về giá của túi sản phẩm được đề cập trong livestream. Do đó, đáp án là 3 - muốn chọn thông số cho sản phẩm.",Túi trên nhiêu ah,others
+2,3,"Đáp án: 3. Người bình luận đang muốn lựa chọn thông số cho sản phẩm, cụ thể là yêu cầu chân váy có lưng thun và không quá ôm.",Chân váy lưng thun phải k thương,others
+2,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận này cho thấy người bình luận muốn biết thêm về độ dày của set len để có thể quyết định liệu sản phẩm có phù hợp với nhu cầu của mình hay không. Do đó, đáp án 3 là phù hợp với trường hợp này.",Set len nhiu day e,others
+3,3,"Đáp án: 3. Người bình luận muốn mua sản phẩm ""túi xách"" và muốn tìm thông tin về sản phẩm để chọn lựa.",Tui xach,others
+1,1,"Đáp án: 1. Bình luận này nhắc tới tên riêng ""Hue Ngan Pham"" nên thuộc vào trường hợp nhắc tên riêng hoặc muốn chia sẻ.",Hue Ngan Pham,others
+0,3,Đáp án: 3. Người bình luận đang muốn hỏi xem liệu có áo khoác nữa không và có thể sẽ quan tâm đến thông số của sản phẩm nếu còn có sẵn.,Có lên áo khoác nữa k thương xinh gái,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""ok em"" không cung cấp đủ thông tin để phân tích xem người bình luận đang nhắm đến một trong các trường hợp được liệt kê. Bình luận này có thể chỉ là một lời phản hồi thông thường để xác nhận hoặc đồng ý với nội dung được trình bày trong livestream.",ok em,others
+0,0,"Không phân tích được. Bình luận không liên quan đến việc mua bán sản phẩm, không yêu cầu thông tin hoặc phản hồi về sản phẩm.",Sét lên trắng sau lưng chi xem đi thương,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Túi xách nâu"" là một yêu cầu hoặc thông báo về sản phẩm, không nhắc tên riêng, không thể phân loại vào các trường hợp còn lại. Tuy nhiên, bình luận có thể cho thấy người đó quan tâm đến sản phẩm và có thể đang muốn tìm hiểu thêm về nó hoặc có ý định mua sản phẩm đó với thông số là ""nâu"". Do đó, đáp án là 3 - Người bình luận muốn chọn thông số cho sản phẩm.",Túi xách nâu,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Chúc c ngủ ngon"" không liên quan đến sản phẩm hoặc việc mua bán nên không phân loại vào các trường hợp đã cho.",Chúc c ngủ ngon,others
+3,4,Đáp án: 4. Đây có thể là một lời nhắc nhở cho người bán hàng rằng họ đã chốt đơn hàng và cần phải giao hàng cho khách hàng sớm nhất có thể.,Don don nha chi,others
+2,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Sét lên trắng gia bao nhiêu em"" có thể là yêu cầu thông tin về giá và thông số sản phẩm ""sét lên trắng"" mà người bình luận quan tâm để có thể đặt mua sản phẩm đó. Do đó, đáp án là 3 - muốn chọn thông số cho sản phẩm.",Sét lên trắng gia bao nhiêu em,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""Sét lên trắng dồn đõn"" có thể hiểu là sản phẩm được bán trong bài livestream là bộ đồ màu trắng, và người bình luận muốn biết thông số của sản phẩm đó, chẳng hạn như giá cả hoặc kích cỡ. Do đó, đáp án chính xác nhất là 3.",Sét lên trắng dồn đõn,others
+2,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Sét vest 56kg vừa k"" cho thấy người bình luận đang quan tâm đến thông số sản phẩm, đặc biệt là kích cỡ (56kg) và vừa vặn (vừa k). Do đó, đáp án là 3 - muốn chọn thông số cho sản phẩm.",Sét vest 56kg vừa k,others
+3,4,Đáp án: 4. Bình luận cho thấy người đó đã chốt đơn hàng và muốn xác nhận lại với người bán hàng rằng họ đã đặt hàng thành công và sẽ chờ đợi nhận được sản phẩm của mình.,Don đơn nha chi,others
+2,3,"Đáp án: 3. Bình luận này muốn chọn thông số cho sản phẩm, có thể là kích cỡ hoặc màu sắc của sản phẩm.",Còn nhận sĩ kg Thuong,others
+0,0,"Đáp án: 0.
+Bình luận ""Mua về ăn ha"" không liên quan đến sản phẩm hoặc giao dịch mua bán, mà có thể chỉ là một bình luận ngẫu nhiên hoặc muốn hỏi về cách sử dụng sản phẩm. Vì vậy, không thể phân loại bình luận này vào bất kỳ danh mục nào trong các lựa chọn được đề cập.",Mua về ăn ha,others
+2,2,"Đáp án là 2. Bình luận ""Ib c nha e"" có thể là người bình luận đang thắc mắc hoặc yêu cầu tương tác với người bán hàng để được giải đáp thắc mắc hoặc hỏi thêm thông tin về sản phẩm. ""Ib"" có nghĩa là ""inbox"" hay ""nhắn tin riêng"" và ""c"" có thể là cách viết tắt của ""cho"" hoặc ""xin"", ""nha"" là từ viết tắt của ""nhà"" và ""e"" là từ viết tắt của ""em"".",Ib c nha e,others
+1,1,"Đáp án: 1. Bình luận này nhắc tên riêng ""Nguyễn Chinh"" nên có thể là muốn liên hệ với Nguyễn Chinh hoặc chia sẻ thông tin về Nguyễn Chinh.",Nguyễn Chinh,others
+1,1,"Đáp án: 1. Nhắc tên riêng hoặc muốn chia sẻ thông tin.
+Giải thích: Bình luận ""Thuy Doan"" chỉ đơn thuần là việc nhắc tên một người, có thể là bạn bè hoặc người quen của người bình luận để chia sẻ thông tin với họ. Không có thông tin nào liên quan đến việc mua bán hay sản phẩm được đề cập, do đó không thể phân loại vào các đáp án còn lại.",Thuy Doan,others
+0,2,"Đáp án: 2.
+Giải thích: ""Alo"" là một cuộc gọi điện thoại hay tin nhắn ngắn gọn, không có thông tin cụ thể về sản phẩm hoặc dịch vụ. Chính vì vậy, không thể phân tích được thông tin để đưa ra các lựa chọn trả lời.",Alo,others
+2,3,"Đáp án: 3. Người bình luận đang muốn biết liệu sản phẩm ""váy da đỏ"" còn được bán tại shop hay không, và có thể muốn chọn kích thước hoặc màu sắc khác nếu sản phẩm đang hết hàng. Do đó, bình luận này nằm trong nhóm muốn chọn thông số cho sản phẩm.",Váy da đỏ còn k shop ơi,others
+0,2,"Đáp án: 2. Bình luận này đang thắc mắc và có thể yêu cầu người bán giải đáp về một vấn đề nào đó. Tuy nhiên, nếu không có thêm thông tin, ta không thể biết chính xác là người bình luận đang thắc mắc về vấn đề gì.",E thấy c ko,others
+6,6,"Đáp án: 6. Bình luận này cho thấy người bình luận đã nhận được sản phẩm và cảm thấy rất hài lòng với sản phẩm đó. Từ ""rẻ quá"" và ""đẹp quá"" cũng cho thấy sản phẩm này có giá thành rẻ và mẫu mã đẹp.",Rẻ quá đẹp quá,others
+2,2,Đáp án: 2. Bình luận này có vẻ như đang thắc mắc và hỏi xem sản phẩm đầm sơmi đen có còn không.,Đầm sơmi đen còn kg e,others
+0,2,"Đáp án: 2. Bình luận này đang thắc mắc về tình trạng sản phẩm còn lại hay không. ""Còn k"" có thể được hiểu là ""Còn không?"" hoặc ""Còn không cập nhật size/chất liệu/màu sắc khác?"".",Còn k chị ơi,others
+1,1,"Đáp án: 1. Bình luận nhắc tên riêng.
+Giải thích: Bình luận ""Điệp Trần Ngọc"" là việc nhắc tên riêng của một người nào đó, không liên quan đến sản phẩm hoặc vấn đề gì khác trong livestream bán hàng. Do đó, đáp án sẽ là 1.",Điệp Trần Ngọc,others
+2,2,"Đáp án: 2. Bình luận này đang thắc mắc về tình trạng hàng hóa, có thể là hỏi xem sản phẩm này còn hàng không, nên được phân loại vào đáp án 2.",Đầm này còn không shop,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""jum đen dd"" có thể là yêu cầu chọn thông số sản phẩm, trong trường hợp này là đầm màu đen. ""dd"" có thể là từ viết tắt của ""độ dài"" hoặc ""đường viền"", tùy vào ngữ cảnh livestream để hiểu rõ hơn.",jum đen dd,others
+2,2,"Đáp án: 2. Bình luận này có vẻ như là một câu hỏi hoặc đang thắc mắc về sản phẩm. Tuy nhiên, do câu trả lời của người bình luận không rõ ràng nên không thể xác định chính xác được ý đồ của họ.",Bnh kg vừa e,others
+2,3,"Đáp án: 3. Người bình luận đang hỏi về thông số của sản phẩm, đặc biệt là số lượng túi có trong sản phẩm.",Túi nhiu v th,others
+3,0,Bình luận này có thể được hiểu là người bình luận muốn chọn sản phẩm Jumpsuit màu đen.,Jum đen,others
+3,3,"Đáp án: 3. Bình luận ""Jump đen 2"" có ý muốn chọn thông số cho sản phẩm là ""Jump đen"" và có thêm yêu cầu ""2"" là số lượng sản phẩm mà người bình luận muốn mua.",Jump đen 2,others
+0,0,"Đáp án: 0. Bình luận này không có nội dung cụ thể hoặc ý nghĩa rõ ràng, không thể phân tích được theo các nhãn đã đề ra.",Zjkzkz,others
+0,0,Error occurred,Jdkdk,others
+0,0,"Đáp án: 0. Bình luận ""Bdjdkdk"" không có nội dung rõ ràng hoặc không thể phân tích được ý nghĩa của nó.",Bdjdkdk,others
+2,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm. Bình luận này có nội dung là ""M58 bị dài k c"", có thể hiểu là sản phẩm có mã M58 bị dài hơn so với kích thước mặc định và người bình luận muốn tìm hiểu thêm về thông số sản phẩm để đánh giá có phù hợp với mình hay không.",M58 bị dài k c,others
+0,0,"Đáp án: 0. Không thể phân tích được ý nghĩa của bình luận ""Jjdjdk"" do không có thông tin cụ thể.",Jjdjdk,others
+0,0,Không phân tích được. Bình luận không có nội dung cụ thể hoặc mục đích rõ ràng.,Bdjkd,others
+0,0,"Đáp án: 0. Không phân tích được. Bình luận ""Jjdkd"" không có đủ thông tin để phân tích nên không thể đưa ra đáp án cụ thể.",Jjdkd,others
+3,7,"Không phân tích được. ""J7m den"" không phải là một bình luận có ý nghĩa rõ ràng hoặc đủ thông tin để phân tích được.",J7m den,others
+0,0,"Đáp án: 0. Không phân tích được ý nghĩa của bình luận ""Jdjdk"" vì không có đủ thông tin để hiểu được nội dung và mục đích của người bình luận.",Jdjdk,others
+3,0,"Đáp án: 0. Không phân tích được.
+Bình luận ""Jum den"" không có đủ thông tin để phân tích ý nghĩa của nó trong ngữ cảnh livestream bán hàng others.",Jum den,others
+3,0,"Không phân tích được vì ""Jun den"" không phải là một câu hoàn chỉnh hoặc có ý nghĩa rõ ràng trong ngữ cảnh bình luận về sản phẩm.",Jun den,others
+3,3,"Đáp án: 3. Bình luận này có thể là người muốn chọn màu sắc cho sản phẩm, bởi ""Đen"" có thể là màu sắc của sản phẩm. Tuy nhiên, không thể chắc chắn được và cần phân tích thêm để có kết quả chính xác hơn.",Đen,others
+2,6,"Đáp án: 6. Bình luận này cho thấy người viết đã nhận được sản phẩm và đang muốn sử dụng luôn, đồng thời cảm thấy rất hài lòng với sản phẩm.",Để xài luôn Gửi tới lui mắc công quá,others
+0,0,"Đáp án: 0. Bình luận ""Z"" không cung cấp đủ thông tin để phân tích ý nghĩa của nó.",Z,others
+3,3,"Đáp án là 3. Người bình luận có ý muốn chọn màu trắng cho sản phẩm ""Jum"". ""Jum"" có thể là tên một loại áo hoặc váy, tuy nhiên không đủ thông tin để xác định rõ hơn.",Jum trắng dồn,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Jum trắng"" có thể là việc người bình luận đang quan tâm và muốn chọn kích cỡ hoặc màu sắc của sản phẩm Jumpsuit màu trắng đang được giới thiệu trong livestream. Do đó, đáp án là 3 - Muốn chọn thông số cho sản phẩm.",Jum trắng,others
+3,4,"Đáp án: 4. Người bình luận đã chốt đơn nhưng chưa nhận được sản phẩm.
+Lời bình luận ""Jum đen dồn đơn"" có thể ám chỉ rằng có nhiều khách hàng đã đặt mua sản phẩm ""jum đen"" và đơn hàng của người bình luận vẫn chưa được xử lý hoặc giao hàng. Do đó, đáp án phù hợp nhất trong trường hợp này là 4 - đã chốt đơn nhưng chưa nhận được sản phẩm.",Jum đen dồn đơn,others
+0,2,"Đáp án: 2.
+Giải thích: Bình luận ""Thấy c k th"" là một câu hỏi hoặc thắc mắc về sản phẩm hoặc dịch vụ. Không có thông tin cụ thể về sản phẩm hoặc dịch vụ nên không thể xác định được ý kiến của người bình luận.",Thấy c k th,others
+2,4,"Đáp án: 4. Bình luận cho thấy người đó đã chốt đơn hàng trước đó nhưng do lý do bận công việc nên không thể nghe máy được, và muốn yêu cầu shop gọi lại để xác nhận lại đơn hàng.",Mai gọi lại em với nha shop nảy em bận cv k nghe máy được ạ,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận chỉ có một từ ""Ao"" và không có bất kỳ thông tin gì về việc nhắc tên riêng, đặt câu hỏi, lựa chọn sản phẩm hay trạng thái đơn hàng. Vì vậy, không thể phân tích được ý nghĩa của bình luận này.",Ao,others
+2,3,"Đáp án: 3. Bình luận yêu cầu chọn kích cỡ chân váy là ""sz s"", do đó đây là yêu cầu chọn thông số sản phẩm.",Chân váy sz s,others
+2,2,"Đáp án: 2. Bình luận này đang thắc mắc giá của sản phẩm (""Váy bnhiu ạ""), không nhắc tên riêng, không muốn chọn thông số sản phẩm, chưa chốt đơn hàng, không nhận được sản phẩm để đánh giá và không muốn hủy đơn hàng hoặc trả lại sản phẩm.",Váy bnhiu ạ,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm, cụ thể là kích cỡ ""sz s"" của chân váy.",Chân váy sz s dồn,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm, cụ thể là kích cỡ của chân váy là size S.",Chân vay s,others
+3,3,Đáp án: 3. Bình luận này muốn chọn kích cỡ (size) S cho sản phẩm chân váy.,Chân váy size S,others
+3,0,"Người bình luận muốn chọn thông số cho sản phẩm. Bình luận có chữ ""Cv"" có thể được hiểu là ""Chân váy"" và ""size M"" có nghĩa là kích cỡ M. ""Dồn đơn"" có thể được hiểu là người bình luận đang đặt hàng nhiều sản phẩm trong cùng đơn hàng.",Cv size M dồn đơn,others
+2,3,"Đáp án: 3. Người bình luận muốn xem phía sau chân váy (cv) để kiểm tra hoặc chọn kích thước sản phẩm. Do đó, đây là trường hợp muốn chọn thông số cho sản phẩm.",Quay phía sau cv thử chị,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm, trong trường hợp này là kích thước quần váy và size S.",Quần váy sz s dồn,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận này yêu cầu bán hàng cung cấp sản phẩm với kích thước M. Từ ""cv"" có thể hiểu là viết tắt của ""chân váy"" hoặc ""cổ vũ"", nhưng trong trường hợp này, nó có thể là viết tắt của ""size"" - kích thước. Từ ""dồn đơn"" có thể chỉ rằng người bình luận đang muốn chốt đơn hàng để mua sản phẩm. Do đó, đáp án 3 là phù hợp nhất với bình luận này.",Cv szie M dồn đơn,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm, cụ thể là size M cho sản phẩm ""Cv"" (có thể là chữ viết tắt của ""chân váy"").",Cv size M dồn,others
+2,3,"Đáp án: 3. Người bình luận đang muốn chọn thông số cho sản phẩm, cụ thể là kích cỡ của chân váy. ""Nhiu kg"" có thể là cách viết tắt của ""nhiều kilogram"", tức là cân nặng, và từ ""v"" có thể là viết tắt của ""vừa"". Vì vậy, người bình luận muốn biết kích cỡ của chân váy vừa với cân nặng của họ.",Chân váy nhiu kg vua v chị,others
+0,0,"Bình luận này đang thắc mắc về tình trạng của chiếc điện thoại (dt), có thể là nó bị hư hoặc không hoạt động đúng cách.",Dt chi bi hu,others
+3,3,"Đáp án: 3.
+Bình luận này muốn chọn thông số cho sản phẩm bán trên livestream, có nghĩa là người viết muốn biết kích cỡ của sản phẩm là bao nhiêu để có thể quyết định mua hoặc không mua. ""Cv sz m"" có thể được hiểu là ""chân váy size M"".",Cv sz m,others
+2,6,"Đáp án: 6. Người bình luận cảm thấy vui và đang cười sau khi xem livestream bán hàng, cho thấy họ hài lòng với sản phẩm hoặc với chương trình livestream của người bán hàng.",E cuoi chi hoai,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn size M cho sản phẩm.
+Bình luận ""Cv size m dồn"" có chứa thông tin về kích cỡ của sản phẩm mà người bình luận muốn chọn là size M. Từ ""Cv"" có thể hiểu là viết tắt của ""choosing"" (chọn) và ""dồn"" có thể là viết tắt của ""được nhanh chóng hoàn tất"" (done). Do đó, người bình luận đang muốn chọn kích cỡ M cho sản phẩm nhanh chóng hoàn tất.",Cv size m dồn,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn màu nâu đậm (Cv nâu dồn) cho sản phẩm.
+Giải thích: ""Cv nâu dồn"" có thể được hiểu là ""chọn màu nâu đậm"" cho sản phẩm. Do đó, đây là yêu cầu về thông số cho sản phẩm và đáp án là 3.",Cv nâu dồn,others
+3,3,Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm bằng cách yêu cầu size S cho sản phẩm nâu.,Cv nâu size s dồn,others
+2,2,"Đáp án: 2. Bình luận này đang thắc mắc về sản phẩm ""CV da đen"" đã được bán trước đó và không thể mua ở cửa hàng nữa.",CV da đen hôm wa con k shop,others
+2,3,Đáp án: 3. Bình luận này cho thấy người dùng quan tâm đến thông số kích cỡ của chân váy và muốn chọn sản phẩm có kích cỡ phù hợp với mình.,Chân váy bn c Mình mới vô,others
+3,3,"Đáp án: 3. Người bình luận đang muốn chọn màu sắc sản phẩm, trong trường hợp này là chọn màu nâu đậm (CV nâu s dồn).",Cv nâu s dồn,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm, cụ thể là kích cỡ chân váy. ""Cv szie M dồn"" có nghĩa là ""Chân váy size M đang có sẵn"".",Cv szie M dồn,others
+3,3,Đáp án: 3. Người bình luận đang muốn mua sản phẩm CV da đen và muốn biết rằng sản phẩm đã được livestream trước đó với giá 155 và hiện tại còn hàng không.,CV da đen live trước 155 còn k shop,others
+6,6,"Đáp án: 6.
+Giải thích: Bình luận này phản ánh ý kiến của người bình luận về sản phẩm ""jum đen"" và cảm nhận rằng sản phẩm đó đẹp tới mức ""tui chờ giờ mới có nhớ mình"". Bình luận không liên quan đến việc đặt hàng, nhận hàng hay muốn hủy hàng nên không thuộc các trường hợp được liệt kê trong danh sách phân tích.",Trời cái jum đen đẹp xỉu tui chờ giờ mới có nhớ mình cái jum đen nhé,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận này muốn chọn thông số size (sz) m (medium) cho sản phẩm.",Cv sz m dồn đơn,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: ""Cv sz M"" có thể hiểu là ""size M"" - người bình luận muốn chọn size M cho sản phẩm. ""Dồn đơn"" có thể chỉ việc gom nhiều đơn hàng lại để tiết kiệm chi phí vận chuyển hoặc giảm thời gian xử lý đơn hàng. Tuy nhiên, vì không có đầy đủ thông tin nên không thể chắc chắn rằng đây là ý nghĩa chính xác của bình luận này.",Cv sz M dồn đơn,others
+3,3,Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm (size m) khi mua.,Váy size m,others
+2,4,"Đáp án: 4. Người bình luận đang hỏi xem đơn hàng của mình có được xử lý và giao hàng chưa, và cụ thể là sản phẩm váy body size C.",Cái váy body c có đơn chưa thương nhỉ,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Hjh"" không chứa đủ thông tin để phân tích ý nghĩa hoặc mục đích của người bình luận.",Hjh,others
+3,0,Error occurred,Chân váy S,others
+2,2,"Đáp án: 2. Bình luận này có thể đang thắc mắc về việc cần xem lại video trước đó để xác nhận chi tiết về sản phẩm ""body cam"" mà người bán đang giới thiệu. Việc xem lại video trước đó có thể giúp người bình luận hiểu rõ hơn về sản phẩm và quyết định mua hàng.",Body cam ở like trc ý,others
+3,2,"Đáp án: 2. Bình luận không rõ ràng và khó hiểu, không thể phân loại vào bất kỳ nhãn nào trong các lựa chọn đã đưa ra.",Quay cái mong chi coi,others
+3,2,"Không phân tích được. Bình luận không có đủ thông tin để phân tích. ""Cv L 992"" là một chuỗi kí tự ngắn không có nghĩa rõ ràng và không liên quan đến bất kỳ thông tin sản phẩm hoặc dịch vụ nào.",Cv L 992,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận này có chứa thông tin về thông số kích thước sản phẩm, cụ thể là ""sz"" là viết tắt của ""size"" - kích thước, và ""l"" là kích thước của sản phẩm. Vì vậy, người bình luận đang muốn chọn kích thước cho sản phẩm.",Cv sz l,others
+2,3,Đáp án: 3. Người bình luận muốn biết chân váy có size mấy để chọn thông số cho sản phẩm.,Chân váy 48kg size mấy ạ,others
+3,3,"Đáp án: 3. Bình luận này muốn chọn thông số cho sản phẩm, cụ thể là kích thước ""sz l"" cho chiếc váy.",Váy sz l,others
+1,1,"Đáp án: 1. Bình luận này nhắc đến tên riêng ""Thuỳ Trang"" và đánh giá rằng chị ấy mặc chiếc áo choàng đẹp trong buổi livestream.",Thuỳ Trang cv đẹp,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn kích thước sản phẩm với thông tin ""Cv szie m dồn đơn"". ""Cv"" có thể là viết tắt của ""chất vải"" trong khi ""szie m"" có nghĩa là kích thước sản phẩm là size M. ""Dồn đơn"" có thể chỉ việc mua nhiều sản phẩm trong một đơn hàng để được giảm giá hoặc miễn phí vận chuyển.",Cv szie m dồn đơn,others
+2,3,Đáp án: 3. Người bình luận đang quan tâm đến thông số của sản phẩm chân váy và muốn biết giá bán của sản phẩm đó.,chân váy bn ạ,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm. Bình luận ""Sz l"" có nghĩa là ""size L"", vì vậy người bình luận đang muốn lựa chọn size L cho sản phẩm.",Sz l,others
+2,5,"Đáp án: 5. Người bình luận đã nhận được sản phẩm nhưng không thích sản phẩm.
+Giải thích: Bình luận này đề cập đến sản phẩm (quần) đã nhận được và cho biết rằng không thích sản phẩm. Do đó, đây là trường hợp ""đã nhận được sản phẩm và không thích sản phẩm"" và đáp án là 5.",Vấy có quần kh thương,others
+3,0,Error occurred,Cv da nâu s dồn,others
+2,3,Đáp án: 3. Người bình luận đang muốn mua chân váy size L và hỏi xác nhận lại với người bán rằng sản phẩm đó có sẵn hay không.,E có chân váy size L e có rồi phai k chị,others
+3,5,"Đáp án: 5. Người bình luận đã nhận được sản phẩm và không thích sản phẩm.
+Giải thích: Bình luận cho thấy người bình luận đã nhận được sản phẩm, nhưng cảm thấy không hài lòng với sản phẩm và muốn đổi lại chân váy size S. Do đó, đáp án là 5 - đã nhận được sản phẩm nhưng không thích sản phẩm.",Minh đoi lại chán váy S,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận chỉ có một từ ""Váy S"", không có bất kỳ thông tin nào liên quan đến việc nhắc tên riêng, chia sẻ, đặt câu hỏi, xác nhận đơn hàng, đánh giá sản phẩm, hoặc muốn hủy đơn hàng. Từ ""Váy S"" có thể được hiểu là người bình luận muốn chọn kích cỡ sản phẩm là size S.",Váy S,others
+3,0,"Không phân tích được. Bình luận ""Cv s dồn"" không liên quan đến sản phẩm hay dịch vụ nào cả, do đó không thể phân tích được theo các nhãn đã cho.",Cv s dồn,others

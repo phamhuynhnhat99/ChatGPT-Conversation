@@ -1,0 +1,53 @@
+y_true,y_pred,y_text,content,category
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Hi"" không chứa đủ thông tin để phân loại vào bất kỳ nhãn nào trong danh sách. Nó có thể chỉ là lời chào hoặc biểu thị sự quan tâm của người dùng đến livestream nhưng không liên quan đến sản phẩm hoặc các vấn đề liên quan đến đơn hàng.",Hi,clothing
+2,0,"Đáp án: 0.
+Giải thích: Bình luận ""Chị coi đỏ tuổi"" không liên quan đến việc nhắc tên, chia sẻ, chọn thông số sản phẩm, hoặc các trường hợp đặc biệt khác. Bình luận này có thể được hiểu là một lời khen về ngoại hình của người bán hàng, nhưng không thể xác định được ý định chính xác của người bình luận.",Chị coi đỏ tuoi,clothing
+0,0,"Đáp án: 0. Vì bình luận chỉ có dấu ba chấm, không cung cấp đủ thông tin để phân tích.",...,clothing
+0,0,"Xin lỗi, để phân tích được bình luận, cần có nội dung cụ thể của bình luận đó. Vui lòng cung cấp thêm thông tin để tôi có thể giúp bạn.",...,clothing
+2,2,"Đáp án: 2. Bình luận ""Set ngủ còn k shop"" cho thấy người bình luận đang thắc mắc về việc sản phẩm ""set ngủ"" đã hết hàng trong shop hay chưa. Tuy nhiên, bình luận không có đủ thông tin để xác định người bình luận muốn mua hay chỉ quan tâm đến sản phẩm.",Set ngủ còn k shop,clothing
+3,2,"Đáp án: 2. Bình luận này không liên quan đến sản phẩm hoặc chủ đề livestream bán hàng, mà có vẻ như là một số điện thoại của một người nào đó. Do đó, không có thông tin để phân tích theo các nhãn đã cho.",1 nấu 0987115508,clothing
+2,3,"Đáp án: 3. Người bình luận muốn chọn lại thông số cho sản phẩm, có thể là màu sắc hoặc kích cỡ khi xem lại cảm nhận trên livestream.",Chị xem lại cảm và nâu,clothing
+0,0,Đáp án là 0 vì không có thông tin để phân tích hoặc bình luận bị thiếu.,...,clothing
+2,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm. Bình luận ""Chị xem lại số 1 cảm và nâu"" có nghĩa là người bình luận đang yêu cầu xem lại sản phẩm số 1 với màu sắc cảm và nâu, có thể là để chọn mua sản phẩm đó.",Chị xem lại số 1 cảm và nâu,clothing
+2,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận yêu cầu cho thông tin về một chi tiết của sản phẩm, cụ thể là kiểu dây kéo của áo khoác.",Co ao khoác day kéo loai day ma non bự ko c oi,clothing
+0,0,"Đáp án: 0.
+Giải thích: Không có thông tin để phân tích ý nghĩa của bình luận.","..,,,",clothing
+2,2,"Đáp án: 2. Bình luận này đang thắc mắc về giá của sản phẩm, không nhắc tên riêng, không muốn chia sẻ thông tin hay lựa chọn sản phẩm.",Giá bn vậy shop,clothing
+3,3,"Đáp án: 3. Bình luận muốn chọn màu sắc cho sản phẩm.
+Giải thích: Bình luận ""Áo Tú mặc đen, vàng"" có nghĩa là muốn chọn màu sắc của sản phẩm, trong trường hợp này là áo. Người bình luận đưa ra hai màu sắc là đen và vàng để hỏi xem sản phẩm có sẵn trong các màu này hay không, hoặc để yêu cầu shop cung cấp thêm sản phẩm có màu sắc này. Vì vậy, đáp án chính xác là 3 - muốn chọn thông số cho sản phẩm.","Áo Tú mặc đen, vàng",clothing
+2,2,"Đáp án: 2. Bình luận này cho thấy người bình luận đang gặp vấn đề khi xem sản phẩm và muốn được xem lại. Chưa có yêu cầu nào liên quan đến việc chọn thông số, chốt đơn, nhận sản phẩm hay hủy đơn hàng.",Cho m xem lại nha.. vô sau k xem đc,clothing
+2,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận yêu cầu biết mấy màu của áo chị mặc, đây là thông tin liên quan đến sản phẩm. Do đó, người bình luận muốn chọn màu sắc cho sản phẩm.",Áo chị mặc có mấy màu,clothing
+0,0,"Xin lỗi, không có bình luận để phân tích. Bạn có thể cung cấp thêm thông tin để tôi có thể hỗ trợ được bạn không?",....,clothing
+2,3,"Đáp án: 3. Người bình luận đang hỏi về việc có màu khác của sản phẩm hay không, vì vậy đây là một yêu cầu để chọn thông số cho sản phẩm.",Co mau khác ko shop,clothing
+3,3,"Đáp án: 3.
+Giải thích: Người bình luận đang muốn chọn thông số cho sản phẩm, cụ thể là muốn mua áo Tú mặc 2 cái với màu sắc khác nhau là 1 cái vàng và 1 cái đen.","Áo Tú mặc 2 cái: 1 vàng , 1 đen",clothing
+0,0,"Xin lỗi, nhưng câu hỏi của bạn thiếu thông tin để có thể phân tích bình luận. Vui lòng cung cấp thêm nội dung của bình luận để tôi có thể giúp bạn phân tích.",.....,clothing
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Áo 99 màu đen"" không nhắc tên riêng hay chia sẻ gì cả, cũng không đang thắc mắc hoặc đưa ra phản hồi về sản phẩm. Tuy nhiên, bình luận này chứa thông tin về sản phẩm bao gồm tên, giá và màu sắc, và đó có thể là yêu cầu của người bình luận muốn mua sản phẩm với thông số cụ thể là ""Áo 99 màu đen"". Vì vậy, đáp án 3 là phù hợp.",Áo 99 màu đen,clothing
+3,1,"Đáp án: 1. Người bình luận nhắc tới tên riêng ""Tú chị"" để gửi lời chào và yêu cầu chủ livestream chị xem tin nhắn của mình.",Tú chị chị xem mả 1 cảm và vang,clothing
+0,0,Đáp án 0. Không có thông tin để phân tích.,...,clothing
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Ok"" không cho thấy ý kiến hoặc yêu cầu gì cụ thể, nên không phân loại được vào bất kỳ nhóm nào trong các đáp án đưa ra.",Ok,clothing
+3,2,"Không thể phân tích được vì bình luận ""2.0"" không đủ thông tin để hiểu ý nghĩa của nó trong ngữ cảnh livestream bán mặc hàng clothing.",2.0,clothing
+0,0,"Không phân tích được. Bình luận này không có ý nghĩa hoặc nội dung cụ thể, chỉ là một dãy kí tự không liên quan.",".,,,",clothing
+3,0,"Đáp án: 0. Bình luận ""Số 2"" không đưa ra đủ thông tin để phân tích ý nghĩa của nó.",Số 2,clothing
+0,0,Không phân tích được. Bình luận không có nội dung hoặc không có ý nghĩa cụ thể để phân tích.,".,,",clothing
+3,3,"Đáp án: 3.
+Bình luận ""Mã 2.0774.609.666"" có thể là người dùng đang muốn xem thông số kỹ thuật của sản phẩm bán trên livestream, và đây có thể là mã sản phẩm để tìm kiếm trên trang web của cửa hàng. Do đó, đây có thể được xem là yêu cầu chọn thông số sản phẩm.",Mã 2.0774.609.666,clothing
+3,2,"Đáp án: 2.
+Giải thích: Bình luận ""Mã 2"" không cung cấp đủ thông tin để xác định ý định của người bình luận, không có đủ thông tin để xác định nhãn phù hợp.",Mã 2,clothing
+3,2,"Đáp án: 2. Người bình luận có thể đang thắc mắc hoặc muốn biết thêm thông tin về sản phẩm, nhưng không cung cấp đủ thông tin để phân tích được trường hợp chi tiết hơn. Từ ""Ma so 2"" có thể chỉ đến mã số của sản phẩm hoặc một thông tin khác liên quan đến sản phẩm, nhưng không đủ để xác định được trạng thái hay nhu cầu của người bình luận.",Ma so 2,clothing
+0,0,"Xin lỗi, như vậy là không đủ thông tin để phân tích. Bạn vui lòng cung cấp bình luận cụ thể để tôi có thể giúp bạn phân tích được.",...,clothing
+0,0,"Xin lỗi, như vậy là không đủ thông tin để phân tích. Bạn vui lòng cung cấp thêm nội dung của bình luận để tôi có thể giúp bạn phân tích được.",....,clothing
+0,2,"Đáp án: 2. Bình luận chỉ có một dấu chấm, không có nội dung cụ thể để phân tích. Bình luận này có thể chỉ là một biểu hiện của sự quan tâm hoặc sự tán thành của người xem đối với sản phẩm hoặc thương hiệu, hoặc chỉ đơn giản là một bình luận ngắn gọn không có ý nghĩa đặc biệt.",.,clothing
+3,3,"Đáp án: 3.
+Người bình luận muốn chọn thông số cho sản phẩm khi mua hàng clothing trong livestream bằng cách ghi ""Số3"".",Số3,clothing
+0,0,Đáp án: 0. Bình luận không đưa ra đủ thông tin để phân tích ra nhãn nào trong các lựa chọn đã đề ra.,.,clothing
+3,3,"Không phân tích được vì bình luận ""3.0"" không có đủ thông tin để xác định được ý nghĩa của nó trong ngữ cảnh livestream bán mặc hàng clothing.",3.0,clothing
+2,2,Đáp án: 2. Bình luận này đang thắc mắc và yêu cầu về sản phẩm số 2 trong livestream bán hàng.,E có đc số 2 k chị?,clothing
+3,4,Đáp án: 4. Người bình luận có vẻ như đã chốt đơn hàng và để lại số điện thoại để liên lạc với người bán hàng về việc chưa nhận được sản phẩm.,Số 4 0774.609.666,clothing
+3,2,"Đáp án là 2. Bình luận ""So 3"" không cung cấp đủ thông tin để phân loại vào bất kỳ nhãn nào trên. Chúng ta không biết ý nghĩa hoặc mục đích của bình luận này là gì.",So 3,clothing
+3,2,"Đáp án là 2. Bình luận chỉ ghi ""So 4"" mà không có thông tin cụ thể hoặc mục đích cụ thể, do đó không thể xác định được ý đồ của người bình luận.",So 4,clothing
