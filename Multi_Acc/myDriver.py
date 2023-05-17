@@ -41,16 +41,16 @@ class MyDriver:
         self.name = name
         self.driver = uc.Chrome(chrome_options=op)
 
-        self.prefix_0 = 'Trong một livestream bán mặc hàng '
+        self.prefix_0 = 'Trong một livestream bán hàng '
         self.prefix_1 = '. Hãy phân tích bình luận sau "'
         
-        self.suffix_1 = '". Nếu nhắc tên riêng hoặc muốn chia sẻ thì đáp án là 1.'
-        self.suffix_2 = ' Nếu đặt câu hỏi thì đáp án là 2.'
+        self.suffix_1 = '". Nếu tag tên riêng hoặc chia sẻ bài thì đáp án là 1.'
+        self.suffix_2 = ' Nếu đặt câu hỏi hoặc đang thắc mắc thì đáp án là 2.'
         self.suffix_3 = ' Nếu chọn thông số cho sản phẩm thì đáp án là 3.'
         self.suffix_4 = ' Nếu đã chốt đơn thì đáp án là 4.'
         self.suffix_5 = ' Nếu không thích sản phẩm thì đáp án là 5.'
         self.suffix_6 = ' Nếu thích sản phẩm thì đáp án là 6.'
-        self.suffix_7 = ' Nếu người bình luận muốn hủy đơn hàng hoặc không muốn nhận sản phẩm thì đáp án là 7.'
+        self.suffix_7 = ' Nếu muốn xả hàng, muốn hủy đơn hàng hoặc không muốn nhận hàng thì đáp án là 7.'
         self.suffix_0 = ' Chọn 1 trong các nhãn trên. Các trường hợp khác hoặc không phân tích được thì đáp án là 0. Trả lời theo format: Đáp án. Giải thích ngắn.'
     
     
@@ -134,19 +134,51 @@ class MyDriver:
         # self.go_to(url_=self.current_url, wait_time_=2)
 
 
+    def problems_existed(self):
+        over = 0
+        cls_n = "//div[@class='flex flex-grow flex-col gap-3']"
+        many_requests_alert = self.driver.find_elements(By.XPATH, cls_n)
+        if len(many_requests_alert):
+            lastText = many_requests_alert[-1].text
+            _1st_alert = "Too many requests"
+            _2nd_alert = "Something went wrong"
+            _3rd_alert = "An error occurred"
+            _4th_alert = "Network error"
+            _5th_alert = "You've reached our limit"
+            _6th_alert = "The conversation is too long, please start a new one"
+            if _1st_alert in lastText or _2nd_alert in lastText or _3rd_alert in lastText or _4th_alert in lastText or _5th_alert in lastText:
+                over = 1
+            elif _6th_alert in lastText:
+                over = 2
+        return over
+
+
     def new_chat(self):
-        wait = WebDriverWait(self.driver, 60)
-        new_chat_btn = wait.until(EC.element_to_be_clickable((By.TAG_NAME, "a")))
-        new_chat_btn.click()
-        wait = WebDriverWait(self.driver, 120)
-        query = wait.until(
-                EC.presence_of_element_located((By.TAG_NAME, "textarea"))
-            )
-        query.send_keys("Hi there")
-        btnElements = self.driver.find_elements(By.TAG_NAME, "button")
-        btnElements[-1].click()
+        def try_send_hi_there():
+            wait = WebDriverWait(self.driver, 60)
+            new_chat_btn = wait.until(EC.element_to_be_clickable((By.TAG_NAME, "a")))
+            new_chat_btn.click()
+            wait = WebDriverWait(self.driver, 120)
+            query = wait.until(
+                    EC.presence_of_element_located((By.TAG_NAME, "textarea"))
+                )
+            query.send_keys("Hi there")
+            btnElements = self.driver.find_elements(By.TAG_NAME, "button")
+            btnElements[-1].click()
+
+        try_send_hi_there()
+        status = self.problems_existed()
+        while status != 0:
+            time_out = random.randint(3, 5)
+            message = self.name + ": Waiting for " + str(time_out) + " minutes!!!"
+            print(message)
+            time.sleep(time_out*60)
+            self.go_to(url_=self.current_url, wait_time_=3)
+            try_send_hi_there()
+            status = self.problems_existed()
+        print(self.name, "Hi there")
+
         self.go_to(url_=url, wait_time_=3)
-        
         new_chat_wait = WebDriverWait(self.driver, 10)
         new_chat_cln = "//div[@class='flex-1 text-ellipsis max-h-5 overflow-hidden break-all relative']"
         new_chat_wait.until(EC.element_to_be_clickable((By.XPATH, new_chat_cln)))
@@ -165,23 +197,6 @@ class MyDriver:
                 u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
                                 "]+", flags=re.UNICODE)
             return emoji_pattern.sub(r'', text)
-        
-        def problems_existed():
-            over = 0
-            cls_n = "//div[@class='flex flex-grow flex-col gap-3']"
-            many_requests_alert = self.driver.find_elements(By.XPATH, cls_n)
-            if len(many_requests_alert):
-                lastText = many_requests_alert[-1].text
-                _1st_alert = "Too many requests"
-                _2nd_alert = "Something went wrong"
-                _3rd_alert = "An error occurred"
-                _4th_alert = "Network error"
-                _5th_alert = "The conversation is too long, please start a new one"
-                if _1st_alert in lastText or _2nd_alert in lastText or _3rd_alert in lastText or _4th_alert in lastText:
-                    over = 1
-                elif _5th_alert in lastText:
-                    over = 2
-            return over
 
 
         def send_input(prompt, text):
@@ -204,13 +219,13 @@ class MyDriver:
             query.send_keys(prompt)
             btnElements = self.driver.find_elements(By.TAG_NAME, "button")
             btnElements[-1].click()
-            time.sleep(4)
+            time.sleep(5)
 
         def get_output(): 
             def filter_output(text):
                 res = 0
                 try:
-                    ind = [99, 99, 99, 99, 99, 99, 99, 99]
+                    ind = [99999] * 8
                     for i in range(7+1):
                         j = str(i)
                         if j in text:
@@ -235,16 +250,16 @@ class MyDriver:
         y_text = []
 
         self.suffix = self.suffix_1 + self.suffix_2 + self.suffix_3 + self.suffix_4 + self.suffix_5 + self.suffix_6 + self.suffix_7 + self.suffix_0
+        # self.suffix = self.suffix_1 + self.suffix_2 + self.suffix_3 + self.suffix_6 + self.suffix_0
         i_cache = 0
         num_samples_each_file = 100
         for i, text_category in enumerate(zip(contents, categories)):
             if i >= 0:
                 text, category = text_category
-                # content = filter_text(text).replace("\n", " ")
                 prompt = self.prefix_0 + category + self.prefix_1 + text + self.suffix
                 try:
                     send_input(prompt, text)
-                    status = problems_existed()
+                    status = self.problems_existed()
                     while status != 0:
                         if status == 2:
                             self.new_chat()
@@ -254,7 +269,7 @@ class MyDriver:
                         time.sleep(time_out*60)
                         self.go_to(url_=self.current_url, wait_time_=3)
                         send_input(prompt, text)
-                        status = problems_existed()
+                        status = self.problems_existed()
                     print(self.name, "Allowed to answer.")
 
                     kill_time = 0

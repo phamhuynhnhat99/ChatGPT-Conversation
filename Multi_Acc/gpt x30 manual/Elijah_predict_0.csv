@@ -1,0 +1,142 @@
+y_true,y_pred,y_text,content,category
+4,0,Hello! How can I assist you today?,Giá mẫu số  kí thông tin Dồn đơn trưa nay sẽ không dồn tiếp KHÔNG KIỂM HÀNG… Xem thêm,clothing
+4,3,"Đáp án: 3.
+Giải thích:
+Bình luận này là việc chọn thông số cho sản phẩm khi đặt hàng. Khách hàng yêu cầu đặt hàng bằng cách gửi tin nhắn với thông tin về mã màu, số kích thước và số điện thoại của mình trong cùng một tin nhắn. Điều này cho thấy khách hàng muốn chọn các thông số cụ thể cho sản phẩm mà họ đang quan tâm đến, do đó đáp án là 3.",Đặt hàng Mã Màu Số kí Số ĐTTrên cùng 1 tin nhắn,accessory
+4,7,"Đáp án: 7.
+Giải thích:
+Bình luận này cho thấy khách hàng muốn giải quyết vấn đề liên quan đến việc ship hàng và trừ tiền lộn từ shipper. Tuy nhiên, hệ thống của shop cho biết chưa có thông tin về việc trừ tiền này từ bên giao hàng. Do đó, có thể khách hàng đang muốn hủy đơn hàng hoặc không muốn nhận hàng. Vì vậy, đáp án là 7.",Hàng tới chị kêu shiper trừ tiền lộn ra nhưng hệ thống shop nói chưa có tin trừ gì bên thảo,clothing
+4,4,"Đáp án: 4.
+Giải thích:
+Bình luận này cho thấy khách hàng đã quyết định đặt hàng và cung cấp đầy đủ thông tin như mã màu, số lượng, số điện thoại để đặt hàng. Thêm vào đó, khách hàng còn tự chốt đơn bằng cách chia sẻ bài và để lại thông tin đặt hàng. Do đó, đáp án là 4 - đã chốt đơn.",Đặt Hàng Mã Màu số Ký số điện thoại chia sẻ bài Tự chốt Đơn,accessory
+4,3,"Đáp án: 3
+Giải thích: Bình luận này đang chỉ định yêu cầu khách hàng cung cấp các thông số cho sản phẩm, bao gồm mã, màu sắc, số điện thoại và yêu cầu chia sẻ bài viết 3 lần để nhận giá tốt. Do đó, đáp án 3 - chọn thông số cho sản phẩm - phù hợp nhất với bình luận này.",Đặt Hàng Mã Màu số điện thoại trên cùng tin nhắn chia sẻ bài 3 lần giá tốt 2,accessory
+4,1,"Đáp án: 1.
+Giải thích: Bình luận này chia sẻ thông tin về việc mua hàng giá sỉ và đặt hàng thông qua mã màu và số kí, đồng thời yêu cầu chia sẻ thông tin đặt hàng trên cùng một tin nhắn. Việc chia sẻ thông tin này nhằm mục đích giới thiệu sản phẩm và tăng khả năng tiếp cận đến nhiều khách hàng hơn, có thể gọi là một hình thức quảng cáo và marketing.",Chia sẽ mua hàng Giá sỉ Đặt hàng Mã Màu Số  Kí Số  điện thoại Trên cùng 1 tin nhắn,accessory
+4,4,"Đáp án: 4. Bình luận đã chốt đơn và yêu cầu giao hàng chung với đơn của chị, cụ thể là ""đi chung đơn của chị luôn"". Ngoài ra, trong bình luận cũng có địa chỉ giao hàng được cung cấp.",Jumb đen lúc chiều nếu có thì đi chung đơn của chị luôn không cần gọi ship luôn em nhé Địa chỉ ship hàng Số 43 đường số 7 Khu dân cư Bình Đăng … Xem thêm,others
+4,6,"Đáp án: 6. Người viết bình luận cho biết rằng chị tặng người viết một khoản tiền là 30tr1, cho thấy sự thích thú của người viết đối với sản phẩm được bán trong livestream.",Chị tặng em 30tr1,fnb
+4,3,"Đáp án: 3.
+Giải thích: Bình luận này yêu cầu chọn thông số cho sản phẩm bằng cách đặt hàng bằng mã số điện thoại trên cùng một tin nhắn. Do đó, đây là một yêu cầu về thông số của sản phẩm và thuộc vào nhóm đáp án 3.",Đặt hàng mã sdt trên cùng một tin nhắn 2,accessory
+4,4,"Đáp án: 4. Bình luận đã ghi nhận việc chốt đơn hàng của khách mới, bao gồm thông tin mã số đơn hàng và số điện thoại liên hệ. Do đó, đáp án là 4.",Chốt hàng: Khách mới - Mã + SĐTHotline:0967.673.671… Xem thêm2,clothing
+4,4,Đáp án: 4. Bình luận này cho thấy khách hàng đã chốt đơn hàng và yêu cầu gửi sản phẩm về quận 4 qua shipper.,Gửi chiếc nhẫn đó về quận 4 qua shipper nhé,accessory
+4,3,"Đáp án: 3. Chọn thông số cho sản phẩm.
+Giải thích: Bình luận này là chọn màu sắc của sản phẩm, vì vậy đây là hành động chọn thông số sản phẩm, nên đáp án là 3.",Chị chọn cái đồng hồ màu đen nhé,accessory
+4,4,"Đáp án: 4. Bình luận này là để chốt đơn hàng. Khách hàng đã yêu cầu đặt hàng bằng cách gửi các thông tin như Mã, Màu, Số kí, Số ĐT trên cùng một tin nhắn. Các thông tin này sẽ giúp người bán có đủ thông tin để xác nhận và đặt hàng cho khách hàng.",Đặt hàng Mã  Màu Số kí Số ĐT trên cùng 1 Tin nhắn 5,accessory
+4,3,"Đáp án: 3.
+Giải thích: Bình luận này đang chỉ định một thông số cụ thể cho sản phẩm, đó là kích thước của thảm là 1m6 với giá là 135k. Do đó, đây là một ví dụ của việc chọn thông số cho sản phẩm.",Thảm 1m6 135k,grocery
+4,1,"Đáp án: 1. Bình luận này có chứa việc chia sẻ bài livestream mua hàng giá sỉ và đề cập đến cách đặt hàng với các thông tin cụ thể như Mã, Màu, Số kí, Số ĐT trên cùng 1 tin nhắn, cho nên đây là một bình luận chia sẻ bài viết.",Chia sẽ livestream mua hàng giá sỉ Đặt hàng Mã Màu Số Kí Số ĐTTrên cùng 1 tin nhắn,accessory
+4,4,"Đáp án: 4. Bình luận này cho thấy người dùng đã chốt đơn hàng bằng cách đặt hàng và gửi mã sản phẩm, số điện thoại và các thông tin khác trên cùng một tin nhắn.",Đặt hàng Mã Số ĐT Trên cùng 1 tin nhắn nhé,accessory
+4,3,Đáp án là 3. Bình luận này đang chọn thông số cho sản phẩm bằng cách yêu cầu đặt hàng với thông tin Mã Màu và Số Điện Thoại trên cùng 1 tin nhắn.,Đặt hàng Mã Màu Số ĐT Trên cùng 1 tin nhắn,accessory
+4,1,"Đáp án: 1. Bình luận này là để đặt hàng và chia sẻ thông tin về chương trình giảm giá. Ngoài việc đặt hàng (Đặt Hàng Mã Màu SDT cùng 1 tin nhắn), người bình luận còn chia sẻ thông tin về 3 nhóm giảm giá, cho nên đây được xem là một bình luận tag tên riêng hoặc chia sẻ bài.",Đặt Hàng  Mã  Màu  SDT cùng 1 tin nhắn Chia sẻ 3 nhóm giảm giá,accessory
+4,3,"Đáp án là 3. Bình luận này đang chọn thông số cho sản phẩm, yêu cầu mua một váy ngắn size S và cung cấp số điện thoại để đặt hàng.",Váy ngắn size S nha chị số điện thoại 0559696696,clothing
+4,0,"Đáp án: 0. Bình luận ""Thảm"" không cung cấp đủ thông tin để phân tích được ý định của người bình luận.",Thảm,grocery
+4,4,"Đáp án: 4.
+Giải thích: Bình luận này có chứa từ ""đơn"", cho thấy rằng khách hàng đã chốt đơn hàng.",Mă 1 soàn dồn đơn trưa,accessory
+4,4,"Đáp án: 4.
+Giải thích: Bình luận này cho thấy người dùng đã chốt đơn hàng với số lượng sản phẩm là 25, do đó đây là một bình luận về việc đã chốt đơn hàng.",Chốt đơn X25 nha shop,accessory
+4,3,"Đáp án: 3.
+Giải thích: Bình luận này yêu cầu chia sẻ thông tin về đặt hàng bao gồm mã số sản phẩm, số lượng và số kí trọng lượng trên cùng một tin nhắn. Điều này cho thấy người bình luận đang chọn thông số cho sản phẩm.",Chia sẽ mua hàng giá sỉ Đặt hàng MãSô ĐT Số kí trên cùng 1 tin nhắn,accessory
+4,3,"Đáp án: 3. Bình luận này đang chọn thông số cho sản phẩm, trong trường hợp này là bộ vest đen size M.",Bộ vest đen size M đi chị,grocery
+4,4,Đáp án: 4. Bình luận này cho thấy người dùng đã chốt đơn hàng và đặt mua sản phẩm thông qua việc gửi mã số điện thoại của mình trong cùng một tin nhắn.,ĐẶT HÀNG MÃ SỐ ĐIỆN THOẠI TRÊN CÙNG 1 TIN NHẮN,accessory
+4,1,"Đáp án: 1. Bình luận này có chứa yêu cầu chia sẻ thông tin về việc mua hàng giá sỉ và đặt hàng thông qua mã màu, số kích cỡ và số điện thoại trên cùng một tin nhắn. Do đó, đây là một bình luận yêu cầu chia sẻ bài viết.",Chia sẽ mua hàng giá sỉ ĐẶT HÀNG MÃ MÀU SỐ KÍ SỐ ĐT TRÊN CÙNG 1 TIN NHẮN 5,accessory
+4,3,"Đáp án: 3.
+Giải thích: Bình luận này đang chọn thông số cho sản phẩm, cụ thể là size L cho một chiếc váy da. Do đó, đáp án sẽ là 3 - Chọn thông số cho sản phẩm.",Váy da size L,others
+4,4,"Đáp án: 4. Bình luận này đề cập đến việc khách hàng đã cung cấp đầy đủ thông tin địa chỉ và số điện thoại để shop thuận tiện chốt đơn, cho thấy rằng khách hàng đã xác nhận đơn hàng và cung cấp thông tin cần thiết cho việc giao hàng. Do đó, đáp án là 4 - đã chốt đơn.",Khách mới lên đủ thông tin  địa chỉ  sđt  để shop thuận tiện chốt đơn nh aKHÔNG KIỂM HÀNG KHÔNG GỌI CHỐT… Xem thêm,clothing
+4,3,"Đáp án: 3.
+Giải thích: Bình luận ""1 Màu đen 73ki899"" có thể là khách hàng đang chọn thông số cho sản phẩm bằng cách chỉ ra số lượng và màu sắc của sản phẩm.",1 Màu đen 73ki899,accessory
+4,2,"Đáp án: 2. Bình luận này đang đặt câu hỏi hoặc thắc mắc về sản phẩm. Khách hàng muốn đặt mua một sợi dây chuyền, tuy nhiên chưa cung cấp đầy đủ thông tin về sản phẩm như loại, màu sắc, kích thước, v.v. để shop có thể phục vụ khách hàng tốt nhất.",Em đặt sợi dây chuyền ạ,accessory
+5,2,Đáp án: 2. Bình luận này đang đặt câu hỏi hoặc thắc mắc về việc đơn hàng của người bình luận đã được xử lý hay chưa sau 3 ngày kể từ khi đặt hàng.,chị ơi đơn em 3 ngày rồi chưa thấy nè,clothing
+5,0,Error occurred,Em ơi chiều trưa nhận hàng rồi nhưng nước giặt đóng kiểu gì đổ hết của chị,grocery
+5,2,"Đáp án: 2.
+Giải thích: Bình luận ""Đầm trắng hơi ôm"" không đặt câu hỏi, không chọn thông số cho sản phẩm, không chốt đơn, không thể biết được người đó thích hay không thích sản phẩm, cũng không có yêu cầu xả hàng, hủy đơn hàng hoặc không nhận hàng. Do đó, đáp án phù hợp nhất là 2, người đó đang thể hiện cảm nhận về sản phẩm.",Đầm trắng hơi ôm,others
+5,2,"Đáp án: 2.
+Giải thích: Bình luận ""Ôi máy sấy chị mới dùng đã cháy không rồi e"" là một câu hỏi hoặc thắc mắc về việc sản phẩm bị cháy khi mới sử dụng. Người viết bình luận đang muốn biết nguyên nhân và cách giải quyết vấn đề này, do đó, đáp án phù hợp nhất là 2.",Ôi máy sấy chị mới dùng đã cháy không rồi e,grocery
+5,6,"Đáp án: 6.
+Giải thích: Bình luận ""Hàng ngon không hà"" là một cảm nhận tích cực về sản phẩm. Người viết bình luận thể hiện sự thích thú và hài lòng với sản phẩm, do đó, đáp án phù hợp nhất là 6.",Hàng ngon không hà,fnb
+5,5,Đáp án: 5. Bình luận này cho thấy người dùng không thích sản phẩm bánh tráng trộn cay vì quá cay.,Bánh tráng trộn cay quá nha,fnb
+5,4,"Đáp án: 4. Bình luận này cho thấy người dùng đã chốt đơn hàng trước đó nhưng chưa nhận được sản phẩm. Vì vậy, đáp án là 4 - đã chốt đơn.",em thì hôm chốt rồi mà không thấy nhận nè,clothing
+5,2,"Đáp án: 2. Bình luận này đang đặt câu hỏi và thắc mắc về việc đặt hàng từ livestream bán hàng clothing, trong đó khách hàng đã đọc và nhắn tin địa chỉ cho người bán nhiều lần nhưng vẫn chưa nhận được hàng.",Đặt hàng bên em thấy đọc chốt rồi nhắn tin địa chỉ mà không thấy gửi hàng mấy lần rồi không phải 1 lần,clothing
+5,5,"Đáp án: 5.
+Giải thích: Bình luận cho thấy người dùng đã nhận được hàng từ nhà bán hàng, tuy nhiên do thời gian gửi hàng quá chậm, họ đã cảm thấy không hài lòng với dịch vụ và có ý định không mua hàng nữa. Chính vì vậy, đáp án thích hợp nhất là 5 - nếu không thích sản phẩm.",Nhà chị gửi hàng chậm lắm Em mãi không nhận được hàng Em sắp đổi ý không mua nữa rồi,clothing
+5,4,"Đáp án là 4. Bình luận cho thấy người dùng quan tâm đến việc có chốt đơn hay không, tức là đã hoàn tất việc đặt hàng hay chưa.",Đẹp nhưng mà đặt có chốt đơn đâu,fnb
+5,2,Đáp án: 2. Bình luận này là yêu cầu được giải quyết vấn đề về sản phẩm. Người bình luận đang yêu cầu người bán kiểm tra hộp thư đến để giúp cô ấy giải quyết vấn đề về sản phẩm bị dính mực.,Check inbox giúp chị hàng lỗi dính mực Cám ơn,others
+5,5,"Đáp án: 5.
+Giải thích: Bình luận này không liên quan đến việc mua bán sản phẩm trên livestream, mà chỉ đưa ra ý kiến về trải nghiệm ăn uống của người viết. Do đó, đây là một bình luận không hữu ích cho việc quảng bá hay bán hàng trên livestream.",Đã ăn cơm với ba khía nhà anh ngon tuyệt,fnb
+5,2,"Đáp án: 2. Bình luận này đặt câu hỏi hoặc đang thắc mắc về sản phẩm. Người viết muốn hỏi về bình sữa cho bé 12 tháng, có núm mềm nhưng bé không chịu bú bình. Có thể người viết đang cần tư vấn hoặc mong muốn giải đáp vấn đề để sử dụng sản phẩm tốt hơn cho bé.","Bình sữa cho bé 12 tháng, bình núm mềm, bé không chịu bú bình",clothing
+5,5,Đáp án: 5. Bình luận cho thấy người viết không thích sản phẩm bởi vì sản phẩm đắt và phí vận chuyển cũng tốn kém.,Kem sức thơm thiệt nhưng mắc hơn ngoài còn tốn tiền ship,clothing
+5,2,"Đáp án: 2.
+Giải thích: Bình luận này đang đặt câu hỏi hoặc thắc mắc về sản phẩm kem. Người viết không chắc chắn sản phẩm của người bán có độ bền nước như sản phẩm của chị Mẹ em hay không.",Em chịu kem bên chị Mẹ em bã mua bên chị T sức lên đụng nước nó trôi hết trơn,others
+5,2,Đáp án: 2. Người viết đang đặt câu hỏi hoặc đang thắc mắc về việc shop không trả lời tin nhắn của mình về việc đặt mua đôi giày ck34 và ship hàng.,Chị nhắn ship chị đôi ck34 mà không thấy shop trả lời,clothing
+5,5,"Đáp án: 5.
+Giải thích: Bình luận này cho thấy người viết không thích sản phẩm của shop. Từ ""chán ghê"" cho thấy họ cảm thấy sản phẩm không hấp dẫn hoặc không đáng để mua.",Shop làm ăn chán ghê Thà đừng gọi chốt,clothing
+5,2,Đáp án: 2. Người viết đang đặt câu hỏi hoặc thắc mắc về việc shop có gửi DHA cho họ không. Câu hỏi này có thể liên quan đến việc chất lượng sản phẩm hoặc chính sách giao hàng của shop.,Không gửi DHA cho em à,clothing
+5,5,Đáp án: 5. Bình luận này cho thấy người dùng không hài lòng về sản phẩm đã nhận được và cảm thấy rằng sản phẩm không phù hợp với kích thước của bé gái 17kg của mình.,Em nhận đồ rồi chị mà bộ thu đông bé gái 17kg mặc chật chị ơi,clothing
+5,3,"Đáp án: 3. Bình luận này có ý muốn cho biết rằng sản phẩm đang bán chỉ có các size bé, do đó nếu khách hàng cần các size lớn hơn thì có thể không phù hợp. Chọn đáp án 3 vì bình luận này liên quan đến việc chọn thông số cho sản phẩm.",Toàn size bé,others
+5,3,"Đáp án: 3. Người bình luận đang yêu cầu cho người bán kiếm sản phẩm có kiểu dáng hoặc kiểu may phù hợp với người mặc, tránh gây khó chịu cho bao tử.",Kiếm anh ít bao tử nhé,others
+5,5,"Đáp án: 5.
+Giải thích: Bình luận này là ý kiến của người dùng về sản phẩm của shop, nó không phải là câu hỏi hoặc yêu cầu chọn thông số sản phẩm, cũng không phải là ý kiến tích cực về sản phẩm. Người dùng đang so sánh sản phẩm của shop với sản phẩm của một shop khác, và cho rằng sản phẩm của shop khác tuy giống nhưng chất lượng không tốt bằng sản phẩm của shop này. Do đó, đáp án là 5 - không thích sản phẩm.",Mã này có một shop nhái mẫu nhà em hương nhưng chất nhìn không đẹp bằng nhà em hương,clothing
+5,3,"Đáp án: 3.
+Giải thích: Bình luận này đang chọn thông số cho sản phẩm bằng cách phản hồi rằng sản phẩm đẹp nhưng size quá nhỏ. Bằng cách này, khách hàng muốn người bán cập nhật thông tin về kích thước để đáp ứng nhu cầu của khách hàng.",Đẹp mà size nhỏ quá,clothing
+5,7,Đáp án: 7. Người bình luận có yêu cầu muốn hủy đơn hàng hoặc không muốn nhận hàng vì đã mua 4 áo nhưng vẫn chưa nhận được hàng.,Chị mua em 4 áo mà chưa nhận được hàng luôn,clothing
+5,5,"Đáp án: 5.
+Giải thích: Bình luận này cho thấy người dùng không thích sản phẩm và cho rằng sản phẩm không có hiệu quả tốt.",xài kem này chỉ banh xác không có tiền mua thuốc,others
+5,6,Đáp án: 6. Bình luận này cho thấy người dùng đã mua sản phẩm và cảm thấy rất hài lòng với sản phẩm đó khi nhận được nhiều lời khen về việc mặc đẹp.,Mình mua màu vàng rồi Mặc đẹp ai cũng khen,clothing
+5,5,"Đáp án: 5.
+Giải thích: Bình luận này không liên quan đến sản phẩm hoặc quá trình bán hàng, chỉ đơn giản là một lời khen về ngoại hình của một đứa trẻ. Do đó, đáp án là 5 - không thích sản phẩm.",Đẹp quá mà bé,others
+5,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách phản hồi rằng ""Size nhỏ quá"".",Size nhỏ quá,others
+5,5,"Đáp án: 5. Bình luận cho thấy người dùng không hài lòng với sản phẩm đã mua, trong trường hợp này là nước giặt đóng kiểu gì đổ hết. Tuy nhiên, bình luận không yêu cầu xử lý đơn hàng, hủy đơn hàng hoặc xả hàng nên không thuộc vào đáp án 7.",Chiều chị nhận hàng rồi nhưng nước giặt đóng kiểu gì đổ hết của ch mua hàng rồi nhưng lần này thất vọng quá,grocery
+5,2,"Đáp án: 2.
+Giải thích: Bình luận này đang đặt câu hỏi và thắc mắc về việc chốt đơn lâu và chưa nhận được hàng, do đó đáp án là 2 - đặt câu hỏi hoặc đang thắc mắc.",kiểm tra giúp mình sao đơn chốt lâu rồi mà chưa nhận được vậy ạ 0918947276,clothing
+6,6,Đáp án: 6. Bình luận này có tính chất khen và đánh giá tích cực về sản phẩm.,Đẹp qua,others
+6,6,"Đáp án: 6. Bình luận này là một phản hồi tích cực về sản phẩm, đánh giá rất cao về hương vị và chất lượng của phần ăn đã được đặt.",Bữa bạn e có đặt phần ăn rồi đúng ngon luôn vị quá OK tôm còn tươi có gạch ở trên đầu nữa,fnb
+6,6,"Đáp án: 6.
+Giải thích: Bình luận ""Ngon quá"" cho thấy người dùng thích sản phẩm và có xu hướng mua lại trong tương lai.",Ngon quá,fnb
+6,6,"Đáp án: 6. Bình luận này thể hiện người dùng thích sản phẩm và cho rằng bộ quần áo này mặc đẹp cực kỳ, có thể gợi cảm hứng cho những người khác muốn mua sản phẩm này.",Set kẻ này mặc đẹp cực luôn,clothing
+6,6,Đáp án: 6. Bình luận này cho thấy người dùng thích sản phẩm và đánh giá nó đẹp khi được mặc.,Chị nhận đồ bộ rồi em đẹp lắm,accessory
+6,6,Đáp án: 6. Bình luận này thể hiện sự thích thú và hài lòng của khách hàng với sản phẩm nón mà họ đã nhận được từ livestream bán hàng clothing. Khách hàng cho biết rằng con của họ thích mang nón này và nón rất đẹp.,Nón em nhận được rồi nón đẹp lắm bé nhà em thích mang hoài,clothing
+6,0,Error occurred,Em nhận tất nhà chị nha hôm qua rồi Chất lắm chị nè,grocery
+6,6,"Đáp án: 6.
+Giải thích: Bình luận ""Hàng đẹp quá"" là một phản hồi tích cực và khẳng định rằng sản phẩm được trưng bày trong livestream bán hàng clothing là đẹp. Do đó, đáp án 6 là phù hợp, thể hiện người bình luận thích sản phẩm.",Hàng đẹp quá,clothing
+6,5,"Đáp án: 5.
+Giải thích: Bình luận ""Dùng viên phụ khoa nhà chị thích lắm"" liên quan đến một sản phẩm phụ khoa, có thể gây khó khăn cho người xem khi xử lý. Do đó, đáp án 5 là phù hợp, thể hiện người bình luận không thích sản phẩm.",Dùng viên phụ khoa nhà chị thích lắm,grocery
+6,6,"Đáp án: 6.
+Giải thích: Bình luận ""Em nhận được ba khía anh ơi chị em ăn khen quá trời rồi thấy hình anh nói của diễn viên làm là ngon rồi kkk"" chứa đựng những phản hồi tích cực và khen ngợi sản phẩm. Do đó, đáp án 6 là phù hợp, thể hiện người bình luận thích sản phẩm và đánh giá sản phẩm tốt.",Em nhận được ba khía anh ơi  chị em ăn khen quá trời rồi thấy hình anh nói của diễn viên làm là ngon rồi kkk,fnb
+6,6,"Đáp án: 6. Bình luận này thể hiện sự thích thú của khách hàng về sản phẩm. Khách hàng đã chia sẻ rằng màu vàng của sản phẩm rất đẹp, điều này cho thấy họ thích sản phẩm và có ý định mua hoặc đã mua sản phẩm.",Màu vàng của em bán đẹp quá,accessory
+6,6,"Đáp án: 6.
+Giải thích: Bình luận ""Em thích mẫu nhỏ nhỏ á chị"" là một phản hồi tích cực và cho thấy rằng người dùng thích sản phẩm. Vì vậy, đáp án phù hợp nhất là 6 - Thích sản phẩm.",Em thích mẫu nhỏ nhỏ á chị,accessory
+6,0,"Đáp án: 0.
+Giải thích: Bình luận ""Chị mới nhận đồng hồ nè em"" không liên quan đến sản phẩm được bán trong livestream bán hàng grocery, vì vậy không thể phân tích được theo các nhãn đã đưa ra.",Chị mới nhận đồng hồ nè em,grocery
+6,1,"Đáp án: 1.
+Giải thích: Bình luận ""Túi xách bữa trước chị nhận được rồi đẹp lắm"" đề cập đến một sản phẩm đã nhận được trước đó và đánh giá tích cực về sản phẩm. Người dùng có thể đang chia sẻ trải nghiệm của mình về sản phẩm hoặc đề xuất cho người bán hàng rằng sản phẩm này rất tốt. Vì vậy, đáp án phù hợp nhất là 1 - Chia sẻ bài hoặc tag tên riêng.",Túi xách bữa trước chị nhận được rồi đẹp lắm,clothing
+6,6,"Đáp án: 6.
+Giải thích: Bình luận ""Mẫu đó đẹp quá"" cho thấy người dùng thích sản phẩm. Do đó, đáp án là 6 - ""Nếu thích sản phẩm"".",Mẫu đó đẹp quá,others
+6,6,"Đáp án: 6. Bình luận chỉ đơn giản là thích sản phẩm, không có yêu cầu gì khác.",Đồ đẹp quá,fnb
+6,6,"Đáp án: 6. Bình luận cho thấy người đó đã nhận được mẫu sản phẩm và đánh giá rất đẹp, cho thấy họ thích sản phẩm đó.",Mình nhận được mẫu này rồi Rất đẹp,clothing
+6,5,"Đáp án: 5. Bình luận chỉ nói rằng sản phẩm đẹp nhưng không cụ thể là đẹp về mặt gì, không có yếu tố thể hiện sự hứng thú hoặc mong muốn mua sản phẩm, nên có thể đánh giá là bình luận không thích sản phẩm.",Đẹp quá,grocery
+6,6,Đáp án: 6. Bình luận này thể hiện sự thích thú với sản phẩm và tán dương chất lượng của sản phẩm.,Không biết bao giờ nhà mình mới đi hết giày và xài hết đồ của nhà em NA bán nữa Hihiiii Toàn hàng chất Chất lừ Kakaa,grocery
+6,6,"Đáp án: 6. Bình luận cho thấy người viết thích sản phẩm đang được bán - là nửa ký da cá hồi. Cụ thể, bình luận của người viết nói về việc họ đã nhận được sản phẩm này và cảm thấy rất hài lòng về việc nhận được sản phẩm nhanh chóng.",Chị mới vừa nhận được nửa ký da cá hồi nè em lẹ ghê hihi,fnb
+6,6,"Đáp án là 6. Bình luận này là biểu hiện của việc thích sản phẩm được giới thiệu trong livestream bán hàng others, cụ thể là túi.",Hôm nay túi đẹp quá,others
+6,6,Đáp án: 6. Bình luận cho thấy người dùng thích sản phẩm giày được giới thiệu trong livestream bán hàng accessory.,giày đẹp lắm em,accessory
+6,6,"Đáp án: 6. Bình luận này thể hiện sự thích thú của khách hàng với sản phẩm và không có yếu tố đặc biệt để đưa ra câu hỏi, chọn thông số hoặc muốn xả hàng. Do đó, đáp án phù hợp là 6 - nếu thích sản phẩm.",Toàn hàng đẹp không thôi xem cũng ghiền luôn,others
+6,6,"Đáp án: 6. Bình luận này thể hiện sự thích thú của người dùng với sản phẩm túi xách mà họ đã nhận được và muốn chia sẻ với người bán hàng và cộng đồng khác. ""Đẹp lắm"" cũng cho thấy họ đánh giá cao về chất lượng và thiết kế của sản phẩm.",Mình nhận được túi xách rồi nhé Đẹp lắm,grocery
+6,6,"Đáp án: 6.
+Giải thích: Bình luận này là một lời khen về sản phẩm, cho thấy người dùng thích đầm và đã mua nó. Do đó, đáp án là 6 - ""Nếu thích sản phẩm"".",Đầm này đẹp lắm chị mua rồi,clothing
+6,0,"Đáp án: 0.
+Giải thích: Bình luận này không liên quan đến sản phẩm hay dịch vụ của livestream bán hàng FNB nên không thể phân tích được theo các nhãn đã cho.",Mấy bé trên dễ thương quá,fnb
+6,4,"Đáp án: 4. Bình luận cho thấy rằng người mua đã nhận được đồ và cảm ơn cho người bán hàng đã gửi đồ đến. Do đó, đây có thể được coi là một bình luận sau khi đã chốt đơn hàng.",Em ơi chị nhận được đồ rồi đẹp lắm chị cảm ơn em,others
+6,2,"Đáp án: 2. Bình luận này đang đặt câu hỏi hoặc thắc mắc về việc hàng hôm nay được giảm giá nhưng vẫn có người buồn, có thể là vì không mở được đơn hàng của e Mi.",hôm nay hàng đẹp bán rẻ mà ai mở hàng e Mi buồn thế,others
+6,6,Đáp án: 6. Bình luận này thể hiện sự thích thú về sản phẩm chăn và người bình luận muốn bày tỏ điều đó với người bán hàng và cộng đồng xem livestream.,Chăn của em quá đẹp,grocery
+6,6,Đáp án: 6. Người viết bình luận cho biết họ thích bộ đồ được giới thiệu trong livestream bán hàng.,Bộ đồ mặc đẹp quá,others
+7,2,Đáp án: 2. Bình luận này đang đặt câu hỏi hoặc yêu cầu sự giúp đỡ của chị xã Jum.,Chị xã Jum giùm e,others
+7,7,"Đáp án: 7.
+Giải thích: Bình luận ""Xả giùm chị nhé"" cho thấy người dùng muốn mua sản phẩm với giá giảm hoặc muốn mua sản phẩm trong chương trình xả hàng, do đó đáp án là 7 - muốn xả hàng, muốn hủy đơn hàng hoặc không muốn nhận hàng.",Xả giùm chị nhé,clothing
+7,7,"Đáp án: 7.
+Bình luận yêu cầu huỷ B40 có thể đề cập đến việc muốn xả hàng, hủy đơn hàng hoặc không muốn nhận hàng.",Huỷ B40,others
+7,7,"Đáp án: 7. Bình luận yêu cầu huỷ đơn hàng và cho biết lý do là sản phẩm quá rộng đối với người mặc.
+Giải thích: Bình luận yêu cầu huỷ đơn hàng và cụ thể yêu cầu hủy sản phẩm ""váy đen size XS"" vì sợ sản phẩm sẽ quá rộng với người mặc có cân nặng 40kg.",Cho tớ hủy váy đen xs nhé tớ 40kg sợ rộng,clothing
+7,7,"Đáp án: 7. Người này muốn mua sản phẩm trong túi hàng xả, có thể là để nhận giảm giá hoặc muốn sản phẩm giá rẻ hơn.",Cho em xả túi ra nha chị,others
+7,7,"Đáp án: 7. Người bình luận muốn hủy đơn hàng có mã đơn là ""77"".",Hủy xã 77,others
+7,5,Đáp án: 5. Bình luận này thể hiện sự không thích sản phẩm được giới thiệu trong livestream bán hàng.,Hàng hiệu phi công bỏ cái phi công trước nha,others
+7,2,Đáp án: 2. Bình luận này đang đặt câu hỏi hoặc thắc mắc về sản phẩm. Khách hàng đang yêu cầu xã giúp cho chị một chiếc jum hở lưng vì chị không thể mặc được.,"Jum hở lưng, chị ko mặc được, xã dùm chị nha",others
+7,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách yêu cầu xã jum màu xanh để được phục vụ và mua sản phẩm.,Xã jum xanh dùm chị nha,others
+7,6,Đáp án: 6. Bình luận này biểu thị sự thích thú và ấn tượng tích cực của người bình luận đối với sản phẩm được giới thiệu trong livestream bán hàng.,Trời ơi đẹp quá,others

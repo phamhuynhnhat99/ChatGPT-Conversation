@@ -1,0 +1,134 @@
+y_true,y_pred,y_text,content,category
+3,0,Hello! How can I assist you today?,Mã 36,others
+2,2,"Đáp án: 2.
+Giải thích:
+Bình luận ""33 còn k c"" có vẻ như là một câu hỏi về số lượng sản phẩm còn lại trong kho. Người viết bình luận có thể quan tâm đến việc mua sản phẩm và muốn biết liệu có còn đủ số lượng hay không. Do đó, đáp án cho bình luận này là 2.",33 còn k c,others
+2,2,"Đáp án: 2.
+Giải thích:
+Bình luận ""35 còn k ạ"" có vẻ như là một câu hỏi về số lượng sản phẩm còn lại trong kho. Người viết bình luận có thể đang quan tâm đến việc mua sản phẩm và muốn biết liệu có còn đủ số lượng hay không. Do đó, đáp án cho bình luận này là 2.",35 còn k ạ,others
+3,3,"Đáp án: 3.
+Giải thích:
+Bình luận ""M35"" có vẻ như là một thông tin về thông số sản phẩm, có thể là mã sản phẩm hoặc kích cỡ sản phẩm. Do đó, đáp án cho bình luận này là 3.",M35,others
+2,2,"Đáp án: 2.
+Giải thích:
+Bình luận ""Check tn dùm chứ nt 2 tuần chả ai check tn"" có vẻ như là một câu hỏi yêu cầu người bán hàng kiểm tra thông tin đơn hàng (hoặc trạng thái của sản phẩm) và cập nhật cho khách hàng. Do đó, đáp án cho bình luận này là 2.",Check tn dùm chứ nt 2 tuần chả ai check tn,others
+0,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm và chỉ ra rằng size 37 là màu ái tím.,37 là ái tím mà,others
+0,0,"Đáp án: 0. Bình luận chỉ có một ký tự ""T"" và không có bất kỳ thông tin hay ngữ cảnh nào để phân tích được ý nghĩa của bình luận này.",T,others
+0,2,"Đáp án: 2. Bình luận này đang đặt câu hỏi về việc mua hàng, yêu cầu chủ shop check giúp đơn hàng với lý do là trời mưa nên không thể đến lấy hàng.",6 g chị qa lấy đồ nha Hqa mưa quá k qa đc,others
+3,3,"Đáp án: 3. Người bình luận đưa ra giá sản phẩm là 39.0, đây là việc chọn thông số cho sản phẩm.",39.0,others
+3,3,"Đáp án: 3. Người bình luận đưa ra giá sản phẩm là 39.0, đây là việc chọn thông số cho sản phẩm.",Mã 39,others
+1,0,Error occurred,Tối nay có live k e,others
+3,0,Error occurred,40.0,others
+3,0,Error occurred,Mã 40,others
+2,0,Error occurred,Túi hồng sau lưng còn k c th,others
+3,0,Error occurred,41.0,others
+3,0,Error occurred,Ma 41 225k,others
+3,0,Error occurred,Lấy e 1 sét ạ,others
+2,0,Error occurred,Chi có chốt dc mã 39 k e,others
+2,0,"Người bình luận đang bày tỏ sự thích thú với sản phẩm túi màu hồng và có ý muốn mua nó. Từ ""c thương"" trong câu bình luận cho thấy họ đang cảm thấy hứng thú và có ý định mua sản phẩm.",Túi hồng bn c thương,others
+2,0,"Người bình luận cho biết họ đã chốt đơn hàng bằng cách sử dụng từ ""chốt dc"". Điều này cho thấy rằng họ đã quyết định mua sản phẩm và đang có ý định thanh toán để hoàn tất đơn hàng. ""39 k rm"" có thể là giá tiền của sản phẩm.",Chi có chốt dc ma 39 k rm,others
+2,0,"Câu bình luận không cung cấp đủ thông tin để phân tích ý nghĩa. ""Chốt dc"" có thể ám chỉ người bình luận đã đặt hàng và thanh toán hoặc chỉ đơn giản là muốn chốt giá. ""39 k e"" có thể là giá tiền của sản phẩm, nhưng không rõ là người bình luận đang hỏi giá hay bày tỏ ý định mua sản phẩm.",Chi có chốt dc ma 39 k e,others
+3,3,"Đáp án: 3. Người bình luận đang chọn và chia sẻ giá của sản phẩm là 43.0. Do đó, đây là trường hợp chọn thông số cho sản phẩm.",43.0,others
+2,5,"Đáp án: 5. Bình luận này thể hiện người viết không thích sản phẩm, cụ thể là túi hồng. Tuy nhiên, bình luận không có yêu cầu hủy đơn hoặc không muốn nhận sản phẩm, do đó không phải là đáp án 7.",Túi hồng bn thương ơi,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""ma 43"" có thể được hiểu là đề cập đến thông số kích cỡ của sản phẩm, với ""ma"" có thể là từ viết tắt của ""size"" trong tiếng Anh. Và số ""43"" thể hiện kích cỡ của sản phẩm. Vì vậy, đây là bình luận để chọn thông số cho sản phẩm.",ma 43,others
+0,4,"Đáp án: 4. Người bình luận đang hỏi xem liệu họ có thể chốt đơn hàng với kích cỡ là ma 39 hay không. ""Ma 39"" ở đây có thể là kích cỡ của sản phẩm. Cụm từ ""chốt đơn"" cho thấy rằng họ đang cân nhắc việc mua sản phẩm và muốn biết liệu có thể chọn kích cỡ này hay không.",Em ơi chi có chốt dc ma 39 k,others
+3,3,"Đáp án: 3. Bình luận này đang chọn thông số cho sản phẩm bán trên livestream, đó là kích cỡ 44.0.",44.0,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận này có thể liên quan đến việc chọn thông số cho sản phẩm ""set thể thao"" như kích cỡ, màu sắc, chất liệu, hoặc các thông tin khác liên quan đến sản phẩm. Do đó, đáp án phù hợp nhất là 3.",set thể thao,others
+2,2,"Đáp án: 2.
+Giải thích: Bình luận này là một câu hỏi yêu cầu báo giá cho sản phẩm túi hồng. Người bình luận muốn biết giá của sản phẩm để quyết định có mua hay không.",Túi hồng bn thương ơi báo giá e với,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""47.0"" có thể là người xem đang yêu cầu chủ livestream cung cấp thông số về sản phẩm đang được bán, chẳng hạn như giá bán của sản phẩm đó là 47.0 đồng. Do đó, đáp án phù hợp nhất là chọn 3 - chọn thông số cho sản phẩm.",47.0,others
+3,0,"Đáp án: 0. Bình luận ""Tt"" không có đủ thông tin để phân tích ý nghĩa của nó.",Tt,others
+3,3,"Đáp án: 3. Bình luận này có chứa thông số 47, có thể là kích thước hoặc giá của sản phẩm. Người bình luận có thể đang muốn biết thông tin chi tiết về sản phẩm và yêu cầu báo giá.",47 dồn,others
+3,3,"Đáp án: 3. Bình luận ""46.0"" có vẻ như là người bình luận đang chọn thông số cho sản phẩm, có thể là giá của sản phẩm hoặc kích cỡ, mà số ""46.0"" đại diện cho thông số đó.",46.0,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, có thể là kích cỡ hay màu sắc sản phẩm. ""ma 48"" có thể chỉ đến một size của sản phẩm được bán trong livestream.",ma 48,others
+3,4,"Đáp án: 4. Người bình luận đang xác nhận rằng họ đã chốt đơn hàng và sẵn sàng thanh toán. Từ ""dồn"" có thể hiểu là họ đang chuẩn bị để thanh toán toàn bộ giá trị đơn hàng.",48dồn,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""M47"" có thể là người dùng đang chọn kích thước hoặc thông số của sản phẩm, trong trường hợp này là kích thước M với mã sản phẩm là 47.",M47,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, trong trường hợp này là kích cỡ 49.",ma 49,others
+6,5,"Đáp án: 5. Người bình luận cho biết đã nhận được hàng của nhà Thương ưng, nhưng không cho ý kiến về chất lượng sản phẩm, chỉ nhấn mạnh vào nhà cung cấp. Do đó, đây được xem là một ý kiến về không thích sản phẩm.",Nhận được hàng của nhà Thương ưng hết sức ln,others
+1,1,"Đáp án: 1. Bình luận này nhắc tên riêng ""Mai Ngô"" và ""Mai Hoa"" nên nó thuộc vào nhãn 1.",47 Mai Ngô hay Mai Hoa e,others
+0,0,"Đáp án: 0. Bình luận này không liên quan đến sản phẩm bán hàng hoặc các hoạt động mua bán, mà chỉ là một lời bình luận cá nhân về việc đọc sai tên.",E đọc lộn Mai Ngô hở,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Hi c"" không mang ý nghĩa rõ ràng hoặc liên quan đến sản phẩm, do đó không thể phân tích được theo các nhãn đã đề ra.",Hi c,others
+2,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, cụ thể là giá tiền và kích cỡ mặt vòng đeo tay. ""49k"" có nghĩa là giá tiền của sản phẩm, ""mat vua"" và ""mã 49"" có thể là kích cỡ của sản phẩm.",49k mat vua mã 49 ko,others
+0,6,"Đáp án: 6.
+Giải thích: Bình luận ""Hi c iu"" có chứa từ ""iu"" - viết tắt của ""yêu"" - thể hiện sự thích thú và hài lòng với sản phẩm được bán trong livestream. Vì vậy, đáp án phù hợp nhất là 6 - Nếu thích sản phẩm.",Hi c iu,others
+0,4,Đáp án: 4. Người bình luận có thể đã chốt đơn hàng và đang xác nhận với người bán về việc đơn hàng đã được ghi nhận và được xử lý.,Ok e,others
+2,3,"Đáp án: 3. Người bình luận đang hỏi về màu sắc của sản phẩm túi hồng và hỏi xem nếu có thêm màu hồng cánh xen vào không. Bằng cách này, người bình luận muốn chọn thông số cho sản phẩm.",Túi hồng đó có màu hồng cánh xen nữa k c ơi,others
+0,1,"Đáp án: 1. Người bình luận nhắc tên riêng (hoặc nickname) ""Tthao"".",Tthao,others
+3,4,"Đáp án: 4. Bình luận này cho thấy người dùng đã chốt đơn hàng và đang đợi sản phẩm được giao đến. ""52 dồn đơn"" có thể là mã đơn hàng hoặc số lượng sản phẩm đã đặt.",52 dồn đơn,others
+0,0,"Đáp án: 0. Bình luận ""Bbb"" không mang đúng nội dung để phân tích ý nghĩa hoặc mục đích của người bình luận.",Bbb,others
+1,1,"Đáp án: 1.
+Giải thích: Bình Lê là tên riêng của người bình luận, do đó đây là một trường hợp nhắc tên riêng.",Bình Lê,others
+3,3,"Đáp án: 3. Bình luận này có chứa số liệu 53.0, có thể là thông số kích cỡ, độ dài, trọng lượng hoặc giá tiền của sản phẩm. Vì vậy, đây là một bình luận liên quan đến thông số sản phẩm.",53.0,others
+3,3,"Đáp án: 3. Người bình luận đang chọn mã sản phẩm có số là 53, đây là việc chọn thông số cho sản phẩm.",Mã 53,others
+1,1,"Đáp án: 1. Bình luận này đề cập tới tên riêng ""Thơm Nguyễn"", do đó nó thuộc vào nhãn 1 - nhắc tên riêng hoặc muốn chia sẻ.",Thơm Nguyễn,others
+5,5,"Đáp án: 5.
+Giải thích: Bình luận này thể hiện người dùng không thích sản phẩm và đang so sánh việc sử dụng sản phẩm này với việc bán xác để có tiền mua thuốc.",xài kem này chỉ banh xác k có tiền mua thuốc,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""hi c"" không cung cấp đủ thông tin để phân tích được ý nghĩa của nó. Không rõ người bình luận muốn nói gì về sản phẩm hoặc chia sẻ thông tin gì với người bán.",hi c,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""m"" là rất ngắn và không có nội dung cụ thể để phân tích.",m,others
+0,1,"Đáp án: 1. Bình luận này có chứa từ ""chi"" được nhắc tới, có thể đây là tên của người bán hoặc một người khác trong cuộc trò chuyện.",Hi chi,others
+0,1,Đáp án: 1. Người bình luận muốn chào hỏi chủ livestream bằng cách gọi tên riêng và muốn tương tác với chủ livestream.,Hé lô chị VIP xì líp,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận không thuộc vào bất kỳ một trường hợp phân tích nào trong danh sách. Người bình luận chỉ chia sẻ cảm nhận của mình khi thấy chủ livestream like bài viết của mình, không đặt câu hỏi, không chọn thông số sản phẩm, không chốt đơn hàng, không nói về sở thích sản phẩm, không muốn hủy đơn hàng hoặc không muốn nhận sản phẩm.",Thấy chị like vô xem liền,others
+0,5,"Đáp án: 5. Người bình luận cho biết không thích sản phẩm với cụm từ ""bã trắng dã mannn lun á troi"".",Bã trắng dã mannn lun á troi,others
+2,4,Đáp án: 4. Bình luận này cho thấy người bình luận đã chốt đơn hàng và yêu cầu xác nhận từ người bán hàng.,Chi yeu e dat hang hoi chua thay dien e chot don,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Hello"" không mang ý nghĩa gì liên quan đến việc mua bán sản phẩm, hỏi đáp, hoặc phản hồi về sản phẩm nên không thuộc vào bất kỳ loại nhãn phân tích nào.",Hello,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận này không liên quan đến sản phẩm hoặc livestream bán hàng, mà chỉ là một phản hồi cá nhân về việc bận rộn và nhớ lại giọng của người bán hàng trước đó.",Mấy bữa nay bận hok coi c live nhớ giọng c ghê,others
+0,5,"Đáp án: 5. Người bình luận cho biết họ đã chửi lộn với mấy đứa bán kem giả, cho thấy họ không hài lòng về sản phẩm của những người bán kem đó.",Hồi tối mình chửi lộn với mấy đứa bán kem giả quá trời luôn,others
+3,3,Đáp án: 3. Người bình luận yêu cầu chọn loại sản phẩm cụ thể là đặc huyết thanh.,Chị ơi em muốn đặc huyết thanh,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận này không liên quan đến sản phẩm bán hàng và không có nhu cầu liên quan đến việc mua hay không mua sản phẩm. Bình luận này chỉ nói về trạng thái thời tiết và tình trạng của người bình luận trong thời tiết đó.",Trời mưa tầm tả e vẫn đổ mồ hôi nek,others
+0,2,"Đáp án: 2.
+Giải thích: Người bình luận đang đặt câu hỏi về cách sử dụng sản phẩm xịt mọc tóc, liệu có đau không khi xịt trực tiếp lên da hay chỉ cần xịt lên tóc là được.",Xịt mọc tóc vô da đau luôn hay xịt đại vô thôi e,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận này không liên quan đến sản phẩm hay đặt câu hỏi, chỉ là ý kiến của người bình luận về cách thái độ của người bán trong lúc livestream.",Đầu live chọc chửi nửa,others
+6,6,"Đáp án: 6. Bình luận này có ý nghĩa là người bình luận đã nhận sản phẩm và sử dụng sản phẩm kem rồi và rất hài lòng với sản phẩm. ""OK lắm"" ở đây có nghĩa là rất tốt, rất hài lòng. Từ ""E"" trong câu có thể hiểu là ""em"" hoặc ""tôi"" nếu người bình luận là nữ giới.",E nhận kem rồi OK lắm chị,others
+2,4,"Đáp án: 4. Người bình luận đã đặt hàng 5 ngày trước đó và chưa nhận được sản phẩm. Vì vậy, ông ta muốn hỏi về tình trạng của đơn hàng đã chốt của mình.",Chị Tuyền ơi e đặt 5 ngày rồi chưa có kem,others
+2,5,"Đáp án: 5. Người bình luận không thích sản phẩm.
+Giải thích: Bình luận ""Kem suc dẹp làm chị oi"" có chứa từ ""suc dẹp"", có thể đề cập đến chất lượng sản phẩm không tốt, khiến người bình luận không thích sản phẩm.",Kem suc dẹp làm chị oi,others
+0,3,"Đáp án: 3. Người bình luận đang chọn thông số để mua sản phẩm, cụ thể là ủ mặt và lên tone trong vòng 4 ngày.",E ủ 4 ngày lên tone nè c iu,others
+0,2,"Đáp án: 2. Bình luận này đặt câu hỏi về sản phẩm, người bình luận muốn hỏi thông tin về việc đặt mua sản phẩm muốn được tư vấn thêm về cách thức đặt hàng.",Hỏi cái muốn dọng dô bản họng hen,others
+0,5,Đáp án: 5. Bình luận này có ý nghĩa là người viết không thích sản phẩm do sản phẩm gây ra tình trạng đổ mồ hôi khi mặc quần đùi.,E mặc quần đùi cũng đổ mồ hôi nè,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận không liên quan đến sản phẩm hoặc quá trừu tượng nên không thể phân loại vào các nhóm trên.",Ma oi an kem gi vay troi lanh hay troi nong Ma oi,others
+0,6,Đáp án: 6. Bình luận này có ý nghĩa là người bình luận đánh giá sản phẩm đẹp và thích sản phẩm đó.,Chi dep,others
+6,6,"Đáp án: 6.
+Giải thích: Bình luận này có ý nghĩa là người bình luận đã sử dụng sản phẩm kem được giới thiệu trong livestream và cảm thấy hài lòng với sản phẩm đó. Người bình luận muốn chia sẻ với chủ livestream rằng sản phẩm của chị rất tốt và đã sử dụng được. Do đó, đáp án là 6 - nếu người bình luận thích sản phẩm.",Chị ơi e sài kem chị rồi tốt lắm,others
+5,5,"Đáp án: 5. Người bình luận không thích sản phẩm.
+Giải thích: Bình luận ""Sài bi dị ứng Giờ em trả hàng lại"" cho thấy người bình luận gặp vấn đề về da khi sử dụng sản phẩm và muốn trả hàng lại. Từ ""bi dị ứng"" cho thấy người bình luận có phản ứng tiêu cực với sản phẩm, do đó đáp án là 5 - không thích sản phẩm.",Sài bi dị ứng Giờ em trả hàng lại,others
+2,3,Đáp án: 3. Người bình luận đang muốn tìm hiểu thông tin về sản phẩm và yêu cầu đặc kèm từ thứ 6.,Đặc kèm từ thứ 6ma chưa có chi oi,others
+0,1,"Đáp án: 1. Người bình luận nhắc tới tên riêng ""Tuyền"" để chúc mừng và hỏi thăm sức khỏe của người đó.",Mẹ về nhà khoẻ hả Tuyền,others
+2,4,"Đáp án: 4. Người bình luận đã đặt đơn hàng và chưa nhận được liên hệ từ người bán để xác nhận đơn hàng. Do đó, bình luận này có nội dung yêu cầu người bán kiểm tra lại trạng thái của đơn hàng đã được chốt hay chưa và liên hệ lại với người mua để xác nhận đơn hàng.",E đật đơn hàng chưa thấy ai điện zay chị,others
+0,0,Đáp án: 0. Bình luận này không rõ ràng về ý nghĩa và không liên quan đến sản phẩm hay các thông tin trong livestream bán hàng.,Kkk nghe bon vô liền,others
+0,0,"Đáp án: 0. Bình luận này không rõ ràng là muốn chia sẻ gì cả, chỉ đơn giản là mô tả cảm giác của người bình luận khi tay mình vừa vất vả với sản phẩm bán hàng.",E vừa sức cái tay xong là cái mặt của e nó ra mồ hôi ầm ầm,others
+0,1,"Đáp án: 1. Bình luận này muốn chia sẻ với những người khác rằng người viết đã thành công khi được tham gia vào nhóm của livestream bán hàng. Bình luận này không đặt câu hỏi, không chọn thông số sản phẩm, không nói về đơn hàng, không nói về việc thích hay không thích sản phẩm, cũng không muốn hủy đơn hàng hoặc không nhận sản phẩm.",Mừng quá em vô dc nhóm rồi,others
+2,4,Đáp án: 4. Người bình luận đang hỏi về tình trạng đơn hàng mà mình đã chốt vào ngày hôm trước và hỏi liệu đơn hàng đã được gửi chưa.,Chốt đơn hôm qua gửi chưa chị oi,others
+6,4,Đáp án: 4. Bình luận này cho thấy người dùng đã chốt đơn hàng và đã nhận được sản phẩm từ người bán.,E nhận được kem của chị rồi đó,others
+6,6,"Đáp án: 6.
+Giải thích: Bình luận này thể hiện sự thích sản phẩm khi nhận được kem màu xanh, và kết luận là ""ok lắm"", cho thấy người bình luận đã thấy hài lòng với sản phẩm mà mình đã nhận được.",E mới nhận được kem roi ok lắm hủ màu xanh đã lắm,others
+6,6,"Đáp án: 6. Người bình luận đang thể hiện sự hài lòng về sản phẩm khi nói ""Vip em sức đẹp lắm"".",Vip em sức đẹp lắm,others
+2,2,"Đáp án: 2. Bình luận này là câu hỏi về việc nhận được sản phẩm kem của chị trong bao lâu, cho thấy người bình luận quan tâm đến việc nhận hàng và muốn biết thời gian chờ đợi của mình.",Hóng kem chị quá 4 ngày rồi,others
+2,2,Đáp án: 2. Bình luận này đang đặt câu hỏi về đơn hàng mà người bình luận đã đặt 3 ngày trước đó nhưng vẫn chưa nhận được sản phẩm kem.,Chi e dat kem 3 ngay chua co,others
+0,5,"Đáp án: 5. Người bình luận không thích sản phẩm.
+Giải thích: Bình luận ""Chị ơi kệ đi đừng giận nữa"" thể hiện sự không hài lòng về sản phẩm hoặc dịch vụ của người bán. Từ ngữ ""kệ đi"" và ""đừng giận nữa"" cho thấy người bình luận đang cảm thấy bực tức và khó chịu. Do đó, đáp án là 5 - không thích sản phẩm.",Chị ơi kệ đi đừng giận nữa,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận này không liên quan đến sản phẩm hoặc việc mua bán, mà chỉ là một lời bình luận châm biếm hoặc đùa cợt với người bán hàng. Không phân loại được vào bất kỳ một nhóm nào trong các nhãn đã cho.",Em làm biến sức kem đợi chị live mới sức,others
+6,6,"Đáp án: 6.
+Giải thích: Bình luận này thể hiện sự thích thú của người bình luận về sản phẩm khi cho biết họ đã trắng sau khi sử dụng sản phẩm này và hy vọng người bán hàng sẽ tiếp tục đăng livestream để họ có thể xem và mua sản phẩm tiếp. Từ ""chấn động"" có thể hiểu là sản phẩm đã gây ấn tượng tốt với người bình luận và họ cảm thấy rất hài lòng với kết quả.",Bửa nay e trắng chấn động chị ơi,others
+6,3,"Đáp án: 3. Bình luận này đang chọn thông số cho sản phẩm, nói về tính năng làm trắng da của sản phẩm ""bộ cốt bạch trộn huyết thanh"". Người bình luận so sánh sản phẩm này với sản phẩm ""cốt hồng E"" mà người bình luận đã dùng mới được 2 ngày nhưng đã thấy hiệu quả là trắng da rõ rệt hơn.",Bộ cốt bạch trộn huyết thanh vô xài đã ghê luôn ctrắng hơn cốt hồng E xài mới 2 ngày mà trắng thấy rõ luôn,others
+6,3,"Đáp án: 3. Bình luận này đang chọn thông số cho sản phẩm, nói về tính năng làm trắng da của sản phẩm ""bộ cốt bạch trộn huyết thanh"". Người bình luận so sánh sản phẩm này với sản phẩm ""cốt hồng E"" mà người bình luận đã dùng mới được 2 ngày nhưng đã thấy hiệu quả là trắng da rõ rệt hơn.",Em mới nhận được kem chất kem đã lắm luôn còn tắm trắng thơm phức luôn,others
+6,0,Error occurred,Cám em nha chi nhận hàng rồi,others
+1,0,Error occurred,Thanh Hương Phan Thị chúc mừngbạn nghe,others
+0,0,Error occurred,Nay chi tuyen dep qua troi,others
+2,0,Error occurred,Chị vừa sứt vừa uống thuốc của em có trắng kg,others
+0,0,Error occurred,Bà Tèn chửi nhỏ đó quá hay luôn,others
+0,0,Error occurred,Chim em đen sức chánh được không chị,others
+6,0,Error occurred,E sai kem của chị trắng lắm luôn đó chị,others

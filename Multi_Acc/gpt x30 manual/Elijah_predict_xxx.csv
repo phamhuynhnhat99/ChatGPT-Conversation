@@ -1,0 +1,31 @@
+y_true,y_pred,y_text,content,category
+7,0,Hello! How can I assist you today?,"Xả rum cho chị, chị sợ 60kg chật nhé",others
+7,7,"Đáp án: 7. Người viết bình luận này muốn huỷ đơn hàng hoặc không muốn nhận hàng nữa.
+Giải thích:
+Bình luận ""Thôi chị huỷ luôn nhé"" cho thấy người viết đã quyết định huỷ đơn hàng hoặc không muốn nhận hàng nữa. Từ ""thôi"" và ""luôn"" cũng cho thấy người viết đã nghĩ suy về quyết định này từ trước. Cụm từ ""chị huỷ luôn"" cũng có thể cho thấy người viết đang muốn nhắc nhở người bán hàng để giải quyết vấn đề này ngay lập tức. Vì vậy, đáp án là 7 - muốn huỷ đơn hàng hoặc không muốn nhận hàng nữa.",Thôi chị huỷ luôn nhé,others
+7,7,"Đáp án: 7. Người viết bình luận này muốn huỷ đơn hàng hoặc không muốn nhận hàng nữa.
+Giải thích:
+Bình luận ""Huỷ 33"" không cung cấp đủ thông tin để phân tích chi tiết về nội dung của nó. Tuy nhiên, nó cho thấy rằng người viết muốn huỷ đơn hàng hoặc không muốn nhận hàng nữa với cụm từ ""Huỷ"". Số ""33"" có thể là số đơn hàng hoặc chỉ số lượng sản phẩm trong đơn hàng, nhưng không ảnh hưởng đến đáp án của câu hỏi. Vì vậy, đáp án là 7 - muốn huỷ đơn hàng hoặc không muốn nhận hàng nữa.",Huỷ 33,others
+7,7,"Đáp án: 7. Người viết bình luận muốn mua sản phẩm ""b21"" với giá xả.
+Giải thích:
+Bình luận ""Chị xả b21 nha em"" cho thấy người viết muốn mua sản phẩm ""b21"" với giá xả (giá giảm giá). Từ ""xả"" trong câu có thể hiểu là chủ shop muốn giảm giá sản phẩm để bán nhanh hoặc xả hàng để chuẩn bị cho một sản phẩm khác. Chủ shop có thể sẽ chấp nhận yêu cầu của khách hàng hoặc từ chối nếu không thể xả được sản phẩm hoặc không muốn bán với giá giảm giá. Do đó, đáp án của câu hỏi này là 7 - người viết muốn mua sản phẩm ""b21"" với giá xả.",Chị xả b21 nha em,others
+7,7,"Đáp án: 7. Bình luận này cho thấy người viết muốn xả hàng Jum (một sản phẩm) cho chị Linh vì chị Linh đã giúp cô ấy trước đó. Ngoài ra, cô ấy còn nói rằng ""phía sau hở chị mặc không được"", có thể đề cập đến việc sản phẩm không phù hợp với chị Linh hoặc chị Linh không thích sản phẩm đó. Tuy nhiên, cô ấy vẫn muốn xả hàng đó cho chị Linh.","Xả Jum hồi nãy dùm chị nha Linh, phía sau hở chị mặc không được.",others
+7,7,Đáp án: 7. Bình luận cho thấy khách hàng muốn hủy đơn hàng của sản phẩm B40.,Huỷ B40,others
+7,3,"Đáp án: 3. Bình luận yêu cầu ""Xã jum xanh"" là việc chọn thông số cho sản phẩm.
+Giải thích: ""Xã jum xanh"" có thể hiểu là yêu cầu chọn sản phẩm Jum (tên của sản phẩm) màu xanh. Vì vậy, đây là một yêu cầu chọn thông số cho sản phẩm, và đáp án là 3.",Xã jum xanh dùm chị nha,others
+7,3,"Đáp án: 3. Người bình luận đang yêu cầu bên bán hàng xác nhận và gói đồ vào túi cho sản phẩm mà mình đã mua. Từ ""Xã"" có thể hiểu là yêu cầu hoặc đề nghị. Từ ""dum"" có thể hiểu là hãy làm giúp tôi. Từ ""túi"" là một sản phẩm bên bán hàng đang bán, do đó có thể đây là câu hỏi về thông số sản phẩm.",Xã túi dum em nhé c,others
+7,7,"Đáp án: 7. Bình luận này cho thấy người dùng muốn xả hàng, hủy đơn hoặc không muốn nhận hàng khi yêu cầu xả quần dài.",Thôi xả jum quần dài nha,others
+7,5,Đáp án: 5. Bình luận này cho thấy người viết không thích sản phẩm. Bình luận đề cập đến việc xả quần và đưa ra thông tin về cân nặng để cho thấy sản phẩm không phù hợp với người viết.,Chị xả quần em nhé. Chị 56 cân không vừa,others
+7,5,Đáp án: 5. Bình luận này cho thấy người viết không thích sản phẩm vì cho rằng vải quá mỏng.,Chị không lấy đầm nhé em vãi hơi mỏng,others
+7,7,"Đáp án: 7. Khách hàng yêu cầu huỷ đơn giày và chuyển sang mua ở cửa hàng khác.
+Giải thích: Khách hàng đã yêu cầu huỷ đơn giày và thông báo rằng họ đã đặt mua sản phẩm tương tự ở một cửa hàng khác. Do đó, đây là trường hợp muốn huỷ đơn hàng và không muốn nhận hàng nữa.",Chị huỷ đơn giày e nha. Chị đặt bên shop khác rùi,others
+7,7,Đáp án: 7. Người viết bình luận yêu cầu bán hàng giúp họ xả sản phẩm jum vì họ sợ sản phẩm sẽ chật khi mặc. Việc yêu cầu xả hàng và hủy đơn hàng đều liên quan đến việc không muốn nhận sản phẩm này nữa.,Xả giúp chị cái jum . Chị sợ chật ... sorry,others
+7,0,"Đáp án: 0.
+Giải thích: Bình luận này không cung cấp đủ thông tin để phân tích ý định của người viết.",Vậy em xã chị nha sorry em,others
+7,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách yêu cầu người bán đổi màu và thiết kế để phù hợp với sở thích và nhu cầu của mình.,"Chị xã dùm L màu xanh nha, hở lưng chị không mặc được nè, cảm ơn em",others
+7,7,"Đáp án: 7. Bình luận yêu cầu hủy đơn hàng Tuyet Linh, cho nên đáp án là 7 - muốn hủy đơn hàng.",Em gái ơi hủy Tuyet Linh dùm chị nha Chị nghe tên đọc rồi,others
+7,3,"Đáp án: 3.
+Giải thích: Bình luận yêu cầu xã sét váy nhung, cho thấy người viết đang muốn lựa chọn một thông số cụ thể cho sản phẩm. Cụ thể hơn, họ muốn xã sét và váy nhung. Do đó, đáp án là 3 - Chọn thông số cho sản phẩm.",xã sét váy nhung chị nhé,others
+7,4,Đáp án: 4. Đây là một yêu cầu hủy đơn hàng của khách hàng. Khách hàng đang yêu cầu người bán hủy đơn hàng của mình và chuyển sang cho người khác chốt đơn.,Ui. Vậy chốt cho bạn khác giúp mình nhé.,clothing
+7,7,"Đáp án: 7. Bình luận yêu cầu huỷ bbr, cho thấy người bình luận muốn hủy đơn hàng hoặc không muốn nhận hàng.",chị huỷ bbr nha,others
+7,7,"Đáp án: 7. Người bình luận muốn hủy mã D1, có thể là do không muốn mua sản phẩm hoặc có lý do khác.",Hủy mã D1,others

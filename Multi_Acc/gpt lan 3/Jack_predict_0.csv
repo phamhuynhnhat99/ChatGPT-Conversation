@@ -1,0 +1,134 @@
+y_true,y_pred,y_text,content,category
+2,0,Hello! How can I assist you today?,Cv đang mặc có k chị,others
+1,6,"Đáp án: 6.
+Giải thích:
+Bình luận ""Bé Bu"" không đặt câu hỏi, không nhắc tên riêng, không chọn thông số cho sản phẩm, không đã chốt đơn, không muốn hủy đơn hàng hoặc không muốn nhận sản phẩm. Tuy nhiên, bình luận này có chứa từ ""thích"", cho thấy người bình luận đang có hứng thú và thích sản phẩm. Do đó, đáp án là 6.",Bé Bu,others
+2,2,"Đáp án: 2.
+Giải thích:
+Bình luận ""Có bán giày k?"" là một câu hỏi về sản phẩm, hỏi xem liệu có bán giày hay không. Do đó, đáp án là 2.",Có bán giày k ci,others
+2,2,"Đáp án: 2.
+Giải thích:
+Bình luận ""Cv chị đang mặc có k chị"" là một câu hỏi về sản phẩm, hỏi xem có sản phẩm mà chị đang mặc không. Tuy nhiên, không rõ bình luận này muốn hỏi về sản phẩm cụ thể nào, do đó không thể chọn được đáp án 3. Vì không có thông tin về việc chị đang chốt đơn, không thích hoặc thích sản phẩm, không muốn hủy đơn hàng hoặc không muốn nhận sản phẩm, nên đáp án 4, 5, 6, 7 không phù hợp. Do đó, đáp án là 2.",Cv chị đang mặc có k chị,others
+1,1,Đáp án: 1. Người bình luận đang nhắc tên riêng người mẫu hoặc chủ livestream (Nguyễn Quỳnh Trâm) và chia sẻ rằng cô ấy đẹp.,Nguyễn Quỳnh Trâm đẹp nè,others
+3,3,"Đáp án: 3. Bình luận này có thể đang yêu cầu hoặc đề xuất thông số cho sản phẩm, có thể là màu sắc ""xanh"" của sản phẩm đang được bán.",xanh,others
+2,2,Đáp án: 2. Bình luận này là một câu hỏi về sản phẩm mà người bán đang giới thiệu. Người bình luận muốn biết sản phẩm có quần bên trong không.,Có quần bên trong k t,others
+2,2,"Đáp án: 2.
+Bình luận này đặt câu hỏi về việc sản phẩm có phù hợp với công việc của người bình luận không. ""Cv"" có thể viết tắt của ""công việc"", và ""chị"" có thể là tên riêng của người bình luận hoặc chỉ danh xưng đối với người bán hàng. Tuy nhiên, câu hỏi không rõ ràng và cần thêm thông tin để người bán hàng có thể trả lời được.",Cv chị mặc có k ạ,others
+2,5,Đáp án: 5. Người bình luận không thích sản phẩm và đề nghị không bán chân váy này nữa.,may chân váy này bán k đi c,others
+3,3,"Đáp án: 3. Người bình luận đang muốn đặt hàng sản phẩm màu xanh và yêu cầu người bán dồn đơn hàng của mình vào đơn hàng đang được chốt. Từ ""xanh"" là thông số mô tả cho màu sắc sản phẩm và ""dồn đơn"" có nghĩa là thêm sản phẩm vào đơn hàng. Do đó, đáp án 3 - Chọn thông số cho sản phẩm - là đáp án phù hợp nhất với bình luận này.",xanh dồn đơn,others
+2,2,"Đáp án: 2. Bình luận này là câu hỏi về sản phẩm, đặc biệt là về việc liệu sản phẩm ""Túi"" có bán hay không.",Túi có bán k c,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""xanh đen"" có thể được hiểu là người bình luận đang chọn màu sắc cho sản phẩm. Vì vậy, đây là một trường hợp chọn thông số cho sản phẩm (nhãn 3).",xanh đen,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số sản phẩm là màu trắng và chỉ lấy 1 cái.,Của chị lấy 1 trắng thôi nhA,others
+2,5,Đáp án: 5. Người bình luận cho biết rằng sản phẩm áo khoác da bò đã hết hàng hoặc không còn sẵn có để bán.,Áo khoác da bò còn k chị,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số màu sắc cho sản phẩm bán hàng Others là áo màu trắng.,Em xả màu trắng ạ,others
+2,7,"Đáp án: 7. Người bình luận muốn hủy đơn hàng hoặc không muốn nhận sản phẩm.
+Giải thích: Bình luận cho thấy người đó muốn hủy đơn hàng hoặc không muốn nhận sản phẩm ""Túi c"" khi nó được giao đến.",Túi c về lại k c,others
+2,3,"Đáp án: 3.
+Giải thích: Bình luận ""Túi bn c ơi"" có khả năng là yêu cầu thông số của sản phẩm túi đang được bán trên livestream. ""bn c"" có thể hiểu là ""bạn có"" và ""ơi"" thường được sử dụng trong tiếng Việt để kết thúc một câu yêu cầu hoặc thông báo. Vì vậy, người bình luận có thể đang muốn hỏi thông số của sản phẩm túi để đưa ra quyết định mua hàng.",Túi bn c ơi,others
+2,2,"Đáp án: 2. Người bình luận đặt câu hỏi về sản phẩm khi họ muốn biết thông tin về túi mà người bán đang giới thiệu. ""Túi bn chế ơi"" có thể hiểu là ""Túi này của bạn là gì vậy?"" hoặc ""Bạn có thể cho tôi biết thông tin về túi này không?""",Túi bn chế ơi,others
+3,3,"Đáp án: 3. Bình luận ""trắng"" có thể là người dùng đang muốn chọn thông số màu sắc cho sản phẩm, trong trường hợp này là màu trắng.",trắng,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm khi sử dụng thuật ngữ ""Trang du bi"". Cụ thể, ""Trang"" có thể ám chỉ màu sắc sản phẩm, và ""du bi"" có thể đề cập đến kích thước hoặc kiểu dáng. Tuy nhiên, do bình luận không cung cấp đầy đủ thông tin về sản phẩm nên chính xác hơn là không thể xác định được thông số sản phẩm cụ thể.",Trang du bi,others
+0,6,Đáp án: 6. Người bình luận thích sản phẩm và đang khuyến khích chủ livestream nên kiếm cho mình một cái túi nhỏ xinh dễ thương.,Ráng kiếm chị cái túi xíu xíu dễ thương đi bé iu,others
+2,2,Đáp án: 2. Bình luận này là một câu hỏi về sản phẩm đầm đen có còn trong cửa hàng hay không. Người viết có thể đang quan tâm và muốn mua sản phẩm này nếu cửa hàng còn có sẵn.,Còn đầm đen k shop,others
+2,2,"Đáp án: 2. Người bình luận đặt câu hỏi về giá sản phẩm khi họ viết ""Bao nhiêu 1 cái ạ"".",Bao nhiêu 1 cái ạ,others
+2,2,Đáp án: 2. Bình luận này là một câu hỏi về khả năng gửi sản phẩm đến Đà Nẵng.,Chị gửi Đà Nẵng ko,others
+2,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, cụ thể là yêu cầu bán sơ mi trắng.",Sơ mi trắng e,others
+3,3,"Đáp án: 3. Bình luận ""Đầm đen"" có thể là việc chọn một thông số cho sản phẩm được giới thiệu trong livestream. Bình luận này không đặt câu hỏi, không chốt đơn, không thể phán đoán được sở thích của người bình luận, không yêu cầu hủy đơn hàng hoặc không muốn nhận sản phẩm. Cũng không có thông tin đủ để nhắc tên riêng hoặc muốn chia sẻ.",Đầm đen,others
+3,3,Đáp án: 3. Bình luận này đang chọn thông số cho sản phẩm bằng cách yêu cầu đổi chỗ đầm nữ màu đen.,Đoi ch dam nu mau đen nhe,others
+2,2,"Đáp án: 2.
+Bình luận ""Nhiêu vậy ạ"" là câu hỏi về giá hoặc số lượng sản phẩm được bán trong livestream.",Nhiêu vậy ạ,others
+3,3,"Đáp án: 3.
+Giải thích: Người bình luận đưa ra thông số của sản phẩm bằng cách chỉ ra màu sắc và loại sản phẩm, trong trường hợp này là ""Body den"". Do đó, đây là một trường hợp chọn thông số cho sản phẩm.",Body den,others
+2,2,"Đáp án: 2.
+Người bình luận đang đặt câu hỏi về trạng thái hiện tại của sản phẩm, tức là đang hỏi xem sản phẩm váy đang được mặc bởi người bán hàng hay không.",Váy đang mac bn e,others
+2,3,Đáp án: 3. Người bình luận đang chọn thông số về việc mua hàng và giao hàng bằng dịch vụ ship đến Đồng Nai trước ngày Chủ nhật.,E oi nay mua ship ve dong nai truoc chu nhat k e iu,others
+2,2,"Đáp án: 2. Người bình luận đặt câu hỏi về giá của sản phẩm, cụ thể là giá của túi.",Túi bao nhiêu vậy e,others
+0,0,Đáp án: 0. Bình luận không rõ nghĩa hoặc không có ý nghĩa gì cả.,Xvvxxb,others
+6,6,"Đáp án: 6. Bình luận này thể hiện sự thích thú và yêu thích sản phẩm. Người bình luận cho biết rằng đồ rất đẹp và cực kỳ hấp dẫn, thậm chí đã ghiền và muốn mua ngay.",Đồ đẹp quá chừng àhthức ghiền luôn,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Cám ơn e"" không rõ ràng thể hiện ý kiến hay câu hỏi gì liên quan đến sản phẩm hoặc chương trình livestream bán hàng, do đó không thể phân tích được và đáp án là 0.",Cám ơn e,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Set"" có thể được hiểu là người bình luận đang muốn chọn thông số cho sản phẩm, có thể là muốn mua một bộ sản phẩm gồm nhiều món đồ, và cần chọn các thông số như màu sắc, size, kiểu dáng,... để có thể đặt mua được sản phẩm đúng ý muốn.",Set,others
+3,3,"Đáp án: 3. Người bình luận muốn chọn thông số cho sản phẩm. Từ ""SET"" có thể ám chỉ đến việc chọn set sản phẩm, ví dụ như set quần áo gồm nhiều món hoặc set phụ kiện đi kèm với sản phẩm.",SET,others
+2,3,"Đáp án: 3. Bình luận này có chứa thông số sản phẩm, cụ thể là loại túi (túi bn) và hỏi xem sản phẩm có phù hợp với người bình luận không (zay e).",Túi bn zay e,others
+3,3,"Đáp án: 3. Bình luận này đang chọn thông số cho sản phẩm ""Set dồn"". ""Set"" có thể chỉ đến một bộ sản phẩm gồm nhiều món, và ""dồn"" có thể ám chỉ việc sản phẩm này có nhiều lớp hoặc nhiều chi tiết. Do đó, người bình luận có thể đang muốn xác định thông số của sản phẩm để quyết định mua hay không.",Set dồn,others
+2,3,"Đáp án: 3. Người bình luận đang yêu cầu chủ của livestream cung cấp thông tin về túi đựng sản phẩm, có thể là thông tin về kích thước, chất liệu, màu sắc hoặc các tính năng khác của sản phẩm.",Túi bn e,others
+2,2,"Đáp án: 2. Người bình luận đang đặt câu hỏi về cách liên hệ để cung cấp địa chỉ giao hàng, hoặc để xác nhận rằng liệu việc gọi điện để chốt đơn có phải là phương thức duy nhất để cung cấp địa chỉ hay không.",E inbox dia chi hay bên chị gọi chốt đơn vậy ạ,others
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách đặt mua 2 set sản phẩm.,2 set,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Set 190"" đề cập đến thông số của sản phẩm, với việc chỉ ra giá tiền hoặc loại set mặc định cho sản phẩm, vì vậy đây là một trường hợp chọn thông số cho sản phẩm.",Set 190,others
+3,3,"Đáp án: 3. Bình luận này đang chọn thông số cho sản phẩm, cụ thể là mô tả set hàng bằng cụm từ ""hiền hồ"".",Set hiền hồ,others
+0,6,"Đáp án: 6. Người bình luận thể hiện sự thích thú với sản phẩm bằng cách nói ""Mẫu xinh quá"".",Mẫu xinh quá,others
+6,6,"Đáp án: 6. Bình luận này thể hiện sự thích thú của người bình luận đối với sản phẩm, do đó đáp án là 6 - ""Nếu thích sản phẩm"".",Đẹp quá em ơi,others
+2,3,Đáp án: 3. Người bình luận đang chọn thông số kích thước cho sản phẩm mà họ đang xem trên livestream bằng cách cho biết họ đang mặc size 56 nhưng cao chỉ vừa đến 1m62.,Set e dag mac 56 ky vua k 1 m62,others
+3,5,"Đáp án: 5.
+Giải thích: Bình luận ""Sét hiền hồ"" không đưa ra câu hỏi, không chọn thông số sản phẩm, không đề cập đến việc chốt đơn hay hủy đơn. Không có đề cập rõ ràng về việc thích hay không thích sản phẩm. Tuy nhiên, từ ""hiền hồ"" có thể được hiểu là bình luận này không phải là một phản hồi tích cực về sản phẩm, vì vậy đáp án phù hợp là 5.",Sét hiền hồ,others
+3,5,"Đáp án: 5.
+Giải thích: Bình luận ""Sét hiền hồ"" không đưa ra câu hỏi, không chọn thông số sản phẩm, không đề cập đến việc chốt đơn hay hủy đơn. Không có đề cập rõ ràng về việc thích hay không thích sản phẩm. Tuy nhiên, từ ""hiền hồ"" có thể được hiểu là bình luận này không phải là một phản hồi tích cực về sản phẩm, vì vậy đáp án phù hợp là 5.",Set hien ho,others
+3,0,Error occurred,Set hiền hồ dồn,others
+0,0,Error occurred,Em thương đẹp hơn Ngọc Trinh luôn,others
+3,0,Error occurred,Set hiền hồ dồn đơn,others
+2,0,Error occurred,Lấy quần kg có kg,others
+6,0,Error occurred,Đẹp quá,others
+6,6,"Đáp án: 6.
+Giải thích: Bình luận ""Đồ đẹp quá chừng àh"" là một phản hồi tích cực và có ý nghĩa là người bình luận thích sản phẩm. Từ ""quá chừng"" cho thấy người bình luận cảm thấy sản phẩm rất đẹp và ấn tượng. Do đó, đáp án là 6 - người bình luận thích sản phẩm.",Đồ đẹp quá chừng àh,others
+2,2,"Đáp án: 2.
+Giải thích: Bình luận ""Bn ạ"" có thể là viết tắt của ""Bạn ạ"", có nghĩa là người bình luận đang đặt câu hỏi hoặc muốn tìm hiểu thêm về sản phẩm hoặc thông tin liên quan đến sản phẩm. Do đó, đáp án là 2 - người bình luận đang đặt câu hỏi.",Bn ạ,others
+3,4,"Đáp án: 4.
+Giải thích: Bình luận ""Set hien hô dồn đơn"" có thể hiểu là người bình luận đã quyết định mua hàng và muốn chốt đơn hàng. Từ ""dồn đơn"" có thể cho thấy người bình luận đã chọn nhiều sản phẩm hoặc muốn mua hàng lớn. Do đó, đáp án là 4 - người bình luận đã chốt đơn hàng.",Set hien hô dồn đơn,others
+2,5,"Đáp án: 5. Bình luận này cho thấy người viết không thích sản phẩm. Cụm từ ""hông chữ về lại"" có thể liên quan đến việc sản phẩm không phù hợp hoặc không đáp ứng được nhu cầu của người viết. ""k thương iu"" là cách viết tắt của ""không thương tiếc"" hoặc ""không yêu thích"", cho thấy sự không hài lòng của người viết về sản phẩm.",Set hông chữ về lại k thương iu,others
+0,0,"Đáp án: 0. Bình luận ""Zzzz"" không cung cấp đủ thông tin để phân tích ý nghĩa của nó trong ngữ cảnh livestream bán hàng others.",Zzzz,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Zzz"" là một cách viết tắt của ""zzz"" hoặc ""zzzz"", thường được sử dụng để biểu thị sự buồn ngủ hoặc mệt mỏi. Không có đủ thông tin để xác định ý nghĩa cụ thể của bình luận này đối với sản phẩm hoặc bán hàng.",Zzz,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Nu"" không có nội dung cụ thể hoặc liên quan đến sản phẩm, không đủ để phân tích ý nghĩa.",Nu,others
+2,0,"Đáp án: 0.
+Bình luận này không cung cấp thông tin đủ để xác định được mục đích hoặc ý kiến của người bình luận.",Quai về sau hử c,others
+2,3,"Đáp án: 3. Bình luận này đang hỏi về số lượng màu sắc mà shop cung cấp cho sản phẩm, do đó đây là trường hợp chọn thông số cho sản phẩm.",Có mấy màu shop,others
+3,3,"Đáp án: 3. Người bình luận đang yêu cầu shop chọn một set trang phục để mặc. Cụ thể hơn, họ muốn chọn một bộ quần áo hoặc phối đồ được bán trong shop.",Set thuong mac,others
+0,0,"Đáp án: 0. Bình luận ""Zhzh"" không rõ ràng ý nghĩa và không thể phân tích được ý định của người bình luận, do đó không thể gán nhãn vào bất kỳ danh mục nào trong các lựa chọn đã cho.",Zhzh,others
+0,5,"Đáp án: 5. Bình luận ""Quay sau lưng hả c"" có thể thể hiện sự không hài lòng hoặc phản đối đối với sản phẩm hoặc dịch vụ của người bán. Tuy nhiên, cũng có thể là một phát biểu mang tính chất trêu đùa hoặc đùa cợt, vì vậy đôi khi không thể chắc chắn ý nghĩa chính xác của bình luận này mà cần phải xem xét thêm ngữ cảnh.",Quay sau lưng hả c,others
+3,3,"Đáp án: 3. Bình luận ""Set nude"" là việc chọn thông số cho sản phẩm, có thể là một bộ trang phục màu nude hoặc một sản phẩm khác có liên quan đến màu sắc này. Bình luận này không nhắc tên riêng, không đặt câu hỏi, không chốt đơn hàng, không thể hiện ý thích hoặc không thích sản phẩm, cũng không muốn hủy đơn hoặc không nhận sản phẩm.",Set nude,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm khi yêu cầu ""2mau"".",2mau,others
+3,3,"Đáp án: 3. Người bình luận đang yêu cầu thay đổi màu sắc sản phẩm từ màu C sang màu đen, vì vậy đây là việc chọn thông số cho sản phẩm.",C đổi đen,others
+0,2,"Đáp án: 2. Bình luận này là một câu hỏi, có nội dung yêu cầu người bán hàng xem phía sau sản phẩm để xác nhận thông tin cho người mua hàng.",Em xem phía sau vs ạ,others
+0,6,"Đáp án: 6. Bình luận này cho thấy người viết rất thích sản phẩm, cụ thể là cho rằng sản phẩm rất xinh đẹp. Do đó, đáp án là 6 - Thích sản phẩm.",Xinh qua,others
+2,3,"Đáp án: 3. Bình luận này có ý định chọn thông số sản phẩm bằng cách đưa ra thông tin về số đo cơ thể của người bình luận, bao gồm chiều cao và cân nặng, để tương đối so sánh với thông số sản phẩm mà người bán cung cấp.",1m6 nặng 56kg vừa không,others
+3,3,"Đáp án: 3. Người bình luận đang muốn mua một bộ quần áo dành cho nữ. ""set nu"" có nghĩa là ""bộ trang phục cho nữ"", do đó đây là việc chọn thông số sản phẩm.",set nu,others
+3,0,"Không phân tích được. Bình luận ""ste nu"" không có đủ thông tin để phân tích ý nghĩa.",ste nu,others
+3,3,"Đáp án: 3. Người bình luận đang muốn chọn thông số cho sản phẩm khi viết ""Sét nu"". Tuy nhiên, cần lưu ý rằng đây là một cách viết sai chính tả của ""set nữ"", có thể dẫn đến sự hiểu nhầm hoặc khó hiểu cho người đọc/biết.",Sét nu,others
+3,5,"Đáp án: 5.
+Giải thích: ""Nude"" là từ chỉ màu sắc, không phải câu hỏi hay ý kiến về sản phẩm, cũng không liên quan đến việc chốt đơn hay muốn hủy đơn. Bình luận này chỉ có ý nghĩa là người viết không thích màu sắc của sản phẩm.",Nude,others
+3,4,"Đáp án: 4. Bình luận này đề cập đến việc ""dồn đơn"", tức là đã hoàn tất quá trình chọn sản phẩm và đặt hàng. Do đó, đây là một bình luận liên quan đến việc đã chốt đơn hàng.",Set nu dồn đơn,others
+3,3,"Đáp án: 3. Người bình luận đang chọn màu sắc cho sản phẩm bằng cách chỉ ra màu ""Đen"".",Đen,others
+3,3,"Đáp án: 3. Người bình luận đang chọn màu sản phẩm là ""Đen"" (bằng tiếng Việt có dấu). Bình luận này không nhắc tên riêng, không đặt câu hỏi, không chốt đơn, không thể biết được người bình luận có thích hay không thích sản phẩm, không yêu cầu hủy đơn hoặc không muốn nhận sản phẩm.",Den,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách chỉ ra màu sắc của sản phẩm là ""Đen"".",Sét Đen,others
+1,0,"Đáp án: 0.
+Giải thích: Bình luận ""Mèo Xynh"" không liên quan đến sản phẩm hoặc bất kỳ vấn đề nào liên quan đến việc mua bán, do đó không thể phân loại vào bất kỳ nhóm nào trên.",Mèo Xynh,others
+3,0,Đáp án: 0. Bình luận không rõ ràng và không thể phân tích được ý nghĩa cụ thể.,Nede,others
+3,4,Đáp án: 4. Người bình luận đã đặt mua sản phẩm và bày tỏ sự hài lòng khi sản phẩm đã được đặt chốt đơn.,Sét Nu dồn đơn,others
+2,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm bằng cách hỏi về tính năng có mút ngực hay không.,Này có mút ngực k e,others
+1,1,"Đáp án: 1. Bình luận ""Tâm Mon"" là việc nhắc đến tên riêng của một người nào đó.",Tâm Mon,others
+2,2,Đáp án: 2. Bình luận này đặt câu hỏi về giá sản phẩm.,Giá nhiu c ơi,others
+3,5,"Đáp án: 5.
+Giải thích: Bình luận ""Nu 0"" không cho thấy một yêu cầu hay câu hỏi cụ thể về sản phẩm. Tuy nhiên, với từ ""Nu 0"" có thể hiểu là người bình luận không hài lòng về sản phẩm hoặc không muốn mua sản phẩm. Vì vậy, đáp án phù hợp là 5 - Nếu không thích sản phẩm.",Nu 0,others
+3,3,Đáp án: 3. Người bình luận đang yêu cầu chủ livestream chọn set đồ màu đen cho sản phẩm.,set đen,others
+2,2,"Đáp án: 2.
+Giải thích: Bình luận hỏi về thông số sản phẩm của livestream bán hàng Others là có bán mặt hàng màu nude hay không.",E có nude k ạh,others
+3,3,"Đáp án: 3. Người bình luận đang chỉ định màu sắc cho sản phẩm, cụ thể là màu đen. Do đó, đây có thể được coi là việc chọn thông số cho sản phẩm.",đen,others
+0,0,"Đáp án: 0. Bình luận ""J"" không cung cấp đủ thông tin để phân tích ý nghĩa hoặc mục đích của người bình luận.",J,others
+0,0,"Đáp án: 0. Bình luận chỉ có một ký tự là ""Z"" mà không có bất kỳ ngữ cảnh hoặc thông tin nào khác để phân tích ý nghĩa, do đó không thể xác định được mục đích hoặc ý định của người bình luận.",Z,others
+1,1,"Đáp án: 1. Bình luận nhắc tên riêng ""Trâm Phương"" cho thấy người bình luận đang muốn chia sẻ ý kiến hoặc gửi lời chào đến một người có tên là Trâm Phương.",Trâm Phương,others
+0,0,"Đáp án: 0. Không phân tích được.
+Giải thích: Bình luận ""V"" không cung cấp đủ thông tin để phân tích theo các tiêu chí đã đề ra.",V,others
+1,1,"Đáp án: 1.
+Giải thích: Bình luận ""Gia Linh"" có nhắc tới một cá nhân riêng biệt nên thuộc vào nhãn 1 - Nhắc tên riêng hoặc muốn chia sẻ.",Gia Linh,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Sét đen"" là việc chọn thông số cho sản phẩm, chắc chắn đang đề cập đến sản phẩm có tên ""Sét đen"".",Sét đen,others
+3,5,"Đáp án: 5.
+Giải thích: Bình luận ""Xả nu e c"" không có nghĩa rõ ràng và không liên quan đến sản phẩm hoặc bất kỳ thông tin cụ thể nào về đơn hàng. Do đó, không thể phân loại bình luận này vào bất kỳ nhóm nào trong các đáp án trên.",Xả nu e c,others
+6,6,"Đáp án: 6.
+Giải thích: Bình luận này là một phản hồi tích cực về sản phẩm được giới thiệu trong livestream bán hàng. Người bình luận cho biết họ thích sản phẩm và sử dụng từ ""cưng xiu ln"" để miêu tả sản phẩm, thể hiện sự yêu thích của họ. Do đó, đáp án là 6 - ""Nếu thích sản phẩm"".",Set cưng xiu ln mà,others
+0,0,"Đáp án: 0. Bình luận chỉ là từ ""Hi"" không có nội dung để phân tích.",Hi,others
+0,2,Đáp án: 2. Bình luận này đặt câu hỏi về việc lấy sản phẩm trong thời gian gần nhất và đề cập đến một lịch trình đi lại của người bình luận vào ngày mai.,Em ơi tí nữa chị chạy qua lấy luôn nhe vì mai chị đi cần thơ rồi,others

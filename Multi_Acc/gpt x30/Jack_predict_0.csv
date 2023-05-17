@@ -1,0 +1,138 @@
+y_true,y_pred,y_text,content,category
+0,0,Hello! How can I assist you today?,O,accessory
+0,0,"Xin lỗi, tôi không thể phân tích được bình luận của một cuộc livestream bán hàng cụ thể mà không có thông tin cụ thể về nội dung của bình luận đó. Nếu bạn cung cấp thêm thông tin chi tiết, tôi sẽ cố gắng giúp bạn phân tích.",Cybmofx,others
+2,2,"Đáp án là 2.
+Bình luận ""Chị chưa đc nè"" không đề cập đến việc tag tên riêng hoặc chia sẻ bài, cũng không chọn thông số sản phẩm, không đã chốt đơn, không biểu thị sự thích hay không thích sản phẩm, cũng như không đề cập đến việc muốn xả hàng, hủy đơn hàng hoặc không muốn nhận hàng.
+Thay vào đó, bình luận này có thể là một câu hỏi hoặc đang thắc mắc về một vấn đề nào đó liên quan đến sản phẩm hoặc quy trình bán hàng. Tuy nhiên, không có đủ thông tin để chắc chắn về mục đích cụ thể của bình luận này.",Chị chưa đc nè,others
+0,0,"Đáp án là 0.
+Bình luận ""mm"" không đưa ra đủ thông tin để phân tích mục đích của bình luận trong cuộc livestream bán hàng. Bình luận này có thể chỉ là một biểu hiện sự đồng ý hoặc sự đánh giá tích cực một cách ngắn gọn từ người dùng. Tuy nhiên, không có đủ thông tin để xác định được mục đích cụ thể của bình luận này trong khuôn khổ của cuộc livestream bán hàng.",mm,others
+0,0,"Đáp án: 0.
+Bình luận ""Chị lai dể thương quá"" không liên quan đến sản phẩm hoặc quá trình bán hàng mà chỉ là một lời nhận xét về ngoại hình của chị bán hàng. Do đó, không thể phân loại bình luận này vào bất kỳ nhãn nào trong danh sách đã cho.",Chị lai dể thương quá,accessory
+0,1,"Đáp án: 1. Bình luận này chúc mừng sinh nhật và mong muốn may mắn cho người đăng livestream, không liên quan đến sản phẩm hoặc bán hàng, không đặt câu hỏi, chọn thông số hay liên quan đến đơn hàng.",Chúc Ngọc Anh sinh nhật vui vẻ luôn buôn may bán đắt,grocery
+0,0,"Đáp án: 0.
+Giải thích: Bình luận này không có liên quan đến sản phẩm hoặc dịch vụ nào cả, không thể phân loại vào các nhãn đã cho.",Chửi cũng có duyên,fnb
+0,2,"Đáp án: 2.
+Giải thích: Bình luận ""Alo"" không có ý nghĩa gì cả và không thể phân loại vào các nhãn đã đề ra. Tuy nhiên, nó có thể được hiểu là một cuộc gọi hoặc lời chào hỏi từ người xem đến người bán hàng trong livestream, và do đó có thể được xem như một câu hỏi hoặc lời chào hỏi.",Alo,grocery
+2,2,Đáp án: 2. Người viết bình luận đang đặt câu hỏi hoặc thắc mắc về tình trạng mạng bên kia có sự cố gì đó khiến cho họ không thể xem livestream bán hàng được.,mạng bên bị gì rôiđó nhàn,fnb
+2,2,"Đáp án: 2. Bình luận ""Mình có chưa"" thường được sử dụng để đặt câu hỏi hoặc xác nhận thông tin về sản phẩm, đơn hàng hoặc dịch vụ trong các livestream bán hàng. Có thể khách hàng đang hỏi về tình trạng hàng hóa, giá cả, cách thức đặt hàng, hoặc thông tin khác liên quan đến sản phẩm hoặc dịch vụ.",Mình có chưa,others
+0,0,"Đáp án: 0. Không phân tích được. Bình luận ""B bbbjbjj"" không rõ ý nghĩa và không liên quan đến sản phẩm bán hàng nên không thể phân loại vào bất kỳ nhãn nào trong danh sách.",B bbbjbjj,clothing
+0,0,"Đáp án: 0. Không phân tích được.
+Giải thích: Bình luận không mang ý nghĩa hoặc thông tin gì liên quan đến sản phẩm, do đó không thể phân tích được theo các nhãn đã đề cập.",ZzzzzzZzzz© x x xx x xx zxxxx X z X xx x X z   xX x AZ X,clothing
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Khoa nói hay thế e"" không liên quan đến sản phẩm hay quá trình bán hàng, không có đặc điểm của bất kỳ nhãn phân tích nào được đưa ra.",Khoa nói hay thế e,grocery
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""m"" không cung cấp đủ thông tin để phân tích ý nghĩa hoặc mục đích của người dùng, nên không thể xác định được đáp án phù hợp trong các lựa chọn đã cho.",m,clothing
+0,0,"Đáp án: 0. Bình luận ""Mmnnnnn"" không có đủ thông tin để phân tích ý nghĩa và mục đích của người dùng.",Mmnnnnn,others
+6,6,"Đáp án: 6. Bình luận ""Tang e voi"" có nghĩa là muốn tặng sản phẩm cho người khác, vì vậy đây là một bình luận thể hiện sự thích sản phẩm và có ý định mua sản phẩm để tặng người khác.",Tang e voi,others
+6,6,"Đáp án: 6. Bình luận này có tính chất khen ngợi, nói về sự hài lòng với sản phẩm hoặc dịch vụ. ""Bé Nhàn có tâm thiệt"" có thể hiểu là người bán hàng đặt tâm huyết vào sản phẩm hoặc dịch vụ của mình, và khách hàng đánh giá cao điều đó.",Bé nhàn có tâm thiệt,fnb
+0,6,"Đáp án: 6. Bình luận ""Xin lộc ông và cậu bé"" có thể hiểu là người bình luận thích sản phẩm hoặc muốn may mắn cho người bán hàng, chứ không đặt câu hỏi, chọn thông số hoặc thể hiện ý kiến không tốt về sản phẩm. Do đó, đáp án là 6 - Nếu thích sản phẩm.",Xin lộc ông và cậu bé,fnb
+0,0,"Đáp án: 0.
+Bình luận không cung cấp bất kỳ thông tin gì để phân tích theo các nhãn đã cho. Nó chỉ có dấu ba chấm thể hiện sự tiếp tục của một ý kiến hoặc suy nghĩ, mà không nói rõ về nội dung.",...,others
+0,3,"Đáp án là 3. Bình luận ""1tr"" có thể là người dùng đang yêu cầu thông số sản phẩm hoặc hỏi về giá sản phẩm. Tuy nhiên, không có đầy đủ thông tin để xác định rõ ràng nên đáp án có thể có sự khả nghi.",1tr,others
+0,0,"Đáp án: 0.
+Vì trong bình luận chỉ có dấu chấm (.) mà không có nội dung cụ thể nên không thể phân tích được ý nghĩa của bình luận này.",.,others
+0,0,"Đáp án: 0.
+Giải thích: Không thể phân tích được ý nghĩa của bình luận ""Kjg"" khi không có ngữ cảnh hoặc thông tin thêm về nội dung của livestream bán hàng grocery.",Kjg,grocery
+0,0,"Đáp án: 0. Bình luận này không liên quan đến sản phẩm hay bán hàng, mà là một lời nhận xét về độ tuổi của người nói.",Sinh 1971 như còn trẻ lắm,grocery
+0,1,"Đáp án: 1. Bình luận này cảm ơn 2 người là ""bé aikhai"" và ""ông"", đề cập đến 2 người cụ thể bằng cách ghi tên riêng của họ. Do đó, đây là trường hợp tag tên riêng hoặc chia sẻ bài.",Cảm ơn bé aikhai và ông nhiều,fnb
+2,2,"Đáp án: 2. Bình luận ""C nhìn thấy e không"" là một câu hỏi hoặc thắc mắc. Người viết có thể đang hỏi xem người được nhắc đến có nhìn thấy mình không.",C nhìn thấy e không,grocery
+6,6,"Đáp án: 6.
+Giải thích: Bình luận ""Tuyệt vời"" của khách hàng là một biểu hiện tích cực về sản phẩm. Khách hàng đang bày tỏ sự thích thú, hài lòng với sản phẩm và có thể sẽ khuyến khích người khác mua sản phẩm. Do đó, đây là một bình luận tích cực và thuận lợi cho nhà bán hàng.",Tuyet voi,fnb
+0,0,"Đáp án: 0.
+Giải thích: Không có thông tin cụ thể hoặc đủ để phân tích ý nghĩa của bình luận.",..,others
+0,6,"Đáp án: 6. Người viết bình luận có thể đang bày tỏ sự hài lòng và thích thú về sản phẩm được giới thiệu trong livestream. Tuy nhiên, cần lưu ý rằng đây chỉ là một suy đoán dựa trên nội dung bình luận, và không thể chắc chắn 100% mà không có ngữ cảnh thêm.",Mnmmmm,others
+0,0,"Đáp án: 0. Bình luận này không liên quan đến sản phẩm hay chương trình bán hàng. Nó không chứa thông tin về việc tag tên riêng, đặt câu hỏi, chọn thông số sản phẩm hay đặt đơn hàng. Nó chỉ là một bình luận không liên quan hoặc có thể là một bình luận không phù hợp với chủ đề của livestream.",ông dìm hsngf vợ vậy ông nhỏ,others
+0,0,"Đáp án: 0.
+Bình luận chỉ có dấu ""-"", không có thông tin để phân tích ý nghĩa hay mục đích của bình luận.",—,clothing
+1,0,"Đáp án: 0. Bình luận ""63dcs"" không có ý nghĩa hoặc thông tin gì để phân tích.",63dcs,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Tặng 2 50k 634"" có chứa thông tin về thông số sản phẩm, cụ thể là chương trình khuyến mại tặng 2 sản phẩm với giá trị 50k và mã sản phẩm là 634. Do đó, đây là một bình luận chọn thông số cho sản phẩm.",Tặng 2 50k 634,others
+0,6,"Đáp án: 6. Bình luận này có nội dung ""Quà"" đề cập tới quà tặng, có thể là món quà được tặng kèm sản phẩm bán hàng trong livestream. Do đó, đáp án là 6 - thể hiện người bình luận đang thích sản phẩm và có thể quan tâm đến quà tặng đi kèm.",Quà,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Tặng 507 xanh"" đang chọn thông số cho sản phẩm bán hàng clothing. Chắc chắn là một người đang quan tâm đến sản phẩm này và đang có ý định mua sản phẩm với màu xanh.",Tặng 507 xanh,clothing
+2,2,Đáp án: 2. Bình luận này là một câu hỏi hoặc thắc mắc về sản phẩm. Khách hàng có thể đang yêu cầu thông tin chi tiết về sản phẩm kem trộn cân tho.,Chuẩn kem trộn cân tho,others
+3,2,"Đáp án: 2. Bình luận ""Dk 44"" không cho thấy rõ ý kiến của người viết, chỉ là một chuỗi ký tự ngắn không liên quan đến sản phẩm hay nội dung livestream bán hàng. Không thể xác định được ý nghĩa của bình luận này, vì vậy đáp án là 0.",Dk 44,others
+1,1,"Đáp án: 1. Người dùng đang tag tên riêng ""Anh Nguyễn"" để gọi ai đó trong livestream.",Anh Nguyễn,others
+1,0,"Đáp án: 0.
+Bình luận ""Thannhan Minh"" không chứa bất kỳ thông tin nào về sản phẩm, đặt câu hỏi hoặc thể hiện ý kiến về sản phẩm. Nó cũng không liên quan đến chốt đơn hoặc việc muốn xả hàng, hủy đơn hàng hoặc không muốn nhận hàng. Do đó, không thể phân loại bình luận vào bất kỳ nhóm nào trong các đáp án được đưa ra.",Thannhan Minh,grocery
+3,3,"Đáp án: 3.
+Giải thích: ""Tặng 3886"" có vẻ như là một thông số hoặc một chương trình khuyến mãi cho sản phẩm. Bình luận này có thể đang giúp khách hàng chọn thông số cho sản phẩm mà họ muốn mua.",Tặng 3886,others
+0,0,"Đáp án: 0.
+Bình luận chỉ chứa dấu chấm và không có nội dung gì để phân tích.",.,clothing
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm và yêu cầu được tặng 50k và mã số 853.,Tặng3 50k 853,others
+0,0,"Đáp án: 0.
+Giải thích: Bình luận ""Chuẩn kém trộn sóc trăng"" không liên quan đến sản phẩm hay dịch vụ nào, không đặt câu hỏi, không chọn thông số sản phẩm, không chốt đơn, không thể phân loại là thích hoặc không thích sản phẩm, không yêu cầu xả hàng, hủy đơn hoặc không nhận hàng. Do đó, không thể phân loại bình luận này vào bất kỳ nhóm nào.",Chuẩn kém trộn sóc trăng,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm khi viết ""Tặng 3 50k 543"". Cụ thể, đây có thể là thông tin về một chương trình khuyến mại hoặc ưu đãi mà người bán đang áp dụng cho sản phẩm. Từ ""Tặng 3"" có thể người bán đang áp dụng chương trình mua 3 sản phẩm giảm 50k và mã code của chương trình có thể là ""543"".",Tặng 3 50k 543,others
+1,0,"Đáp án: 0.
+Giải thích: Bình luận ""lê Châu Pha Lê"" không có thông tin đủ để phân tích ý nghĩa hoặc mục đích của người dùng, do đó không thể chọn bất kỳ nhãn nào trong các tùy chọn đã cho.",lê Châu Pha Lê,others
+1,0,"Đáp án: 0. Bình luận ""thu hiền nguyễn"" không cung cấp đủ thông tin để phân tích ý nghĩa của nó trong livestream bán hàng grocery.",thu hiền nguyễn,grocery
+1,1,"Đáp án: 1. Người bình luận đang tag tên riêng ""Huỳnh Thị Kim Nga"", có thể để nhắc đến một người bạn hoặc người quen của họ trong livestream bán hàng grocery.",Huỳnh Thị Kim Nga,grocery
+1,0,Không thể phân tích được vì bình luận không cung cấp đủ thông tin để xác định hành động của người dùng.,Đỗ Thu Thuỷ,clothing
+3,0,"Đáp án: 0. Không phân tích được.
+Giải thích: Bình luận ""Tặng 543"" không đưa ra thông tin cụ thể về sản phẩm hoặc chương trình bán hàng, cũng không đặt câu hỏi hay yêu cầu gì cả. Do đó, không thể phân loại bình luận này vào bất kỳ nhóm nào trong các nhãn đã cho.",Tặng 543,clothing
+3,0,"Đáp án: 0. Không phân tích được ý nghĩa của bình luận ""Dk 83"" vì không có đủ thông tin hoặc văn bản không có nội dung cụ thể.",Dk 83,others
+1,0,"Đáp án: 0
+Giải thích: Bình luận ""Dcs"" không cung cấp đủ thông tin để phân tích được ý nghĩa hay mục đích của người viết, không thuộc vào bất kỳ nhóm nào trong các lựa chọn đã cho.",Dcs,clothing
+1,0,"Đáp án là 0. Bình luận ""Kim dung"" không cung cấp đủ thông tin để phân tích ý nghĩa hoặc mục đích của bình luận trong livestream bán hàng grocery.",Kim dung,grocery
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Sz10"" có thể đang yêu cầu hoặc lựa chọn kích thước sản phẩm. ""Sz10"" có thể là viết tắt của ""size 10"", đề cập đến kích thước sản phẩm cần mua. Do đó, đáp án là 3 - chọn thông số cho sản phẩm.",Sz10,others
+3,6,"Đáp án: 6.
+Bình luận ""Tặng 687"" có ý nghĩa là người dùng thích sản phẩm và muốn mua nó với giá tặng là 687.",Tặng 687,clothing
+2,2,Đáp án: 2. Bình luận này đang đặt câu hỏi hoặc thắc mắc về việc được tặng sản phẩm hay không.,Tặng e hả,others
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm, có thể là kích cỡ giày, quần áo hoặc các thông số khác liên quan đến sản phẩm được giới thiệu trong livestream.",10.0,others
+0,2,"Đáp án: 2. Đây là một bình luận không rõ ràng nên không thể phân tích thành các nhãn được đưa ra. ""Dca"" không có nghĩa lý do vậy ta không thể suy ra ý kiến của người viết.",Dca,clothing
+1,1,"Đáp án: 1. Bình luận ""Đa chia se"" có nghĩa là nhiều người đã chia sẻ bài đăng, do đó đây là một bình luận liên quan đến việc chia sẻ bài đăng của livestream bán hàng.",Đa chia se,accessory
+1,1,"Đáp án: 1. Bình luận ""Thuy Nguyen"" là việc tag tên riêng của một người, có thể là người quen hoặc người đang quan tâm đến sản phẩm.",Thuy Nguyen,clothing
+0,0,Không phân tích được. Bình luận này không có đủ thông tin để phân tích được mục đích hay ý định của người viết.,Qoà không đồng,others
+0,0,Đáp án: 0. Không có thông tin trong bình luận để phân tích.,...,others
+2,2,"Đáp án: 2. Đang thắc mắc về sản phẩm.
+Giải thích: Bình luận này có chứa yếu tố thử nghiệm sản phẩm khi sử dụng từ ""thử"" và ""quần"" là một sản phẩm của loại clothing, tuy nhiên nó không đưa ra đánh giá cụ thể về sản phẩm. Do đó, đây có thể được coi là một câu hỏi hoặc một yêu cầu để xem xét thêm về sản phẩm.",Thử quần nha c,clothing
+3,5,Đáp án: 5. Người viết không thích sản phẩm và gợi ý người khác nên không nên mặc bộ đồ ngắn.,Lên bộ ngắn đi c,clothing
+2,2,"Đáp án: 2. Bình luận này là một câu hỏi về thông số sản phẩm, cụ thể là khả năng mặc của sản phẩm đối với người có cân nặng 57 kg.",57 kg mac đuoc ko,clothing
+2,2,"Đáp án: 2. Bình luận này là câu hỏi hoặc thắc mắc về việc giao hàng, xác nhận liệu việc giao hàng có thể thực hiện qua bưu điện hay không.",Chi co gui hang qua buu dien ko,clothing
+2,2,Đáp án: 2. Bình luận này đang đặt câu hỏi về giá của sản phẩm bàn chải đánh răng trong livestream bán hàng grocery.,Bàn chải đánh răng bao nhiêu ạ,grocery
+2,3,"Đáp án: 3. Bình luận yêu cầu chọn thông số cho sản phẩm là ""Lên đầm liền k c"". Bình luận này đang hỏi về thông số của sản phẩm và khả năng mặc liền không có cắt, do đó đáp án là 3 - chọn thông số cho sản phẩm.",Lên đầm liền k c,clothing
+2,2,Đáp án: 2. Người bình luận đang đặt câu hỏi và thắc mắc về số lượng màu sắc và giá cả của sản phẩm.,Màu nay có mấy màu váy Và gia bn đó shop,others
+2,2,Đáp án: 2. Bình luận này là một câu hỏi hoặc thắc mắc về sản phẩm. Người dùng muốn tìm hiểu về sản phẩm dầu nóng hàn có còn hàng hay không.,còn dầu nóng hàn k c,grocery
+2,2,Đáp án: 2. Bình luận này là một câu hỏi hoặc thắc mắc của khách hàng về việc mặc màu vàng phù hợp với họ không.,Mac mau vang di e,clothing
+2,2,"Đáp án: 2. Bình luận ""Giày đi e"" không có đủ thông tin để chọn thông số cho sản phẩm, không đặt câu hỏi, không thể tag tên riêng hay chia sẻ bài. Tuy nhiên, nó có thể được hiểu như một câu hỏi hoặc yêu cầu khác, nhưng không rõ ràng và cần thêm thông tin để hiểu rõ ý của người bình luận.",Giày đi e,grocery
+2,2,Đáp án: 2. Bình luận này đang đặt câu hỏi về kích cỡ của sản phẩm. Khách hàng đang hỏi xem sản phẩm này có size L không.,Sz lớn có k chị,clothing
+2,2,"Đáp án là 2. Bình luận ""đầm bao nhiêu E"" là một câu hỏi, người bình luận đang thắc mắc về giá cả của sản phẩm và mong muốn được cung cấp thông tin về giá của đầm.",đầm bao nhiêu E,clothing
+2,2,"Đáp án: 2. Bình luận này là một câu hỏi hoặc đang thắc mắc về sản phẩm. Người bình luận đang hỏi xem sản phẩm có đai nhỏ hơn kích thước ""e"" không.",Có đai nhỏ hơn k e,clothing
+2,3,"Đáp án: 3. Chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""E ơi còn hạt hướng dương không vậy"" cho thấy khách hàng đang hỏi về tính năng hoặc thông số của sản phẩm, nói cụ thể là việc sản phẩm này có chứa hạt hướng dương hay không. Vì vậy, đây là một câu hỏi về thông số của sản phẩm.",E ơi còn hạt hướng dương khg vậy,grocery
+2,2,"Đáp án: 2. Đặt câu hỏi hoặc đang thắc mắc.
+Giải thích: Bình luận ""Có dầu gội k chị"" cho thấy khách hàng đang hỏi xem sản phẩm có chứa dầu gội hay không. Đây là một câu hỏi hoặc thắc mắc về sản phẩm, chứ không phải chọn thông số cho sản phẩm hoặc đặt hàng. Vì vậy, đáp án 2 là phù hợp nhất.",Có dầu gội k chị,grocery
+2,3,"Đáp án: 3. Chọn thông số cho sản phẩm.
+Giải thích: Bình luận ""Màu ghi sz gì"" cho thấy khách hàng đang hỏi về thông số của sản phẩm, nói cụ thể là kích cỡ (size) và màu sắc (màu ghi) của sản phẩm. Vì vậy, đây là một câu hỏi về thông số của sản phẩm, và đáp án 3 là phù hợp nhất.",Màu ghi sz gì,clothing
+2,2,Đáp án: 2. Bình luận này là một câu hỏi hoặc đang thắc mắc. Người dùng muốn biết liệu chiếc váy mẫu mà người bán đang mặc có phải là dạng váy rời (loose dress) hay liền (bodycon dress).,Váy bạn mẫu đang mặc là rời hay liền ạ,clothing
+2,2,Đáp án: 2. Đây là một câu hỏi hoặc đang thắc mắc về sản phẩm hoặc về cách sử dụng sản phẩm. Bình luận này không thể được phân loại vào các đáp án khác.,Bằng gì dậy chị,accessory
+2,2,"Đáp án: 2.
+Giải thích: Bình luận này đang đặt câu hỏi hoặc thắc mắc về thông tin sản phẩm, cụ thể là màu sắc của chiếc đầm xanh.",Đầm xanh sai mấy,clothing
+2,2,Đáp án: 2. Bình luận này đang đặt câu hỏi để biết thông tin về size sản phẩm.,Em hỏi để biết size,clothing
+2,5,"Đáp án: 5.
+Giải thích: Bình luận ""Trụ vàng 19kg vừa k shop"" không liên quan đến sản phẩm bán hàng là quần áo, mà thay vào đó là một chủ đề hoàn toàn khác về trang sức. Bình luận này không phản ánh sự quan tâm đến sản phẩm hoặc đặt câu hỏi về sản phẩm nên không phù hợp với bất kỳ câu trả lời nào trong danh sách.",Trụ vàng 19kg vừa k shop,clothing
+2,2,Đáp án: 2. Bình luận này là một câu hỏi hoặc thắc mắc về số lượng xoài. Người dùng muốn biết số lượng xoài có sẵn để quyết định mua hay không.,Xoài nhiu vậy a,fnb
+2,2,"Đáp án: 2.
+Giải thích: Bình luận này là một câu hỏi hoặc thắc mắc về việc có sđt, mã và địa chỉ trong cùng một tin nhắn. Không có đủ thông tin để xác định việc chọn thông số sản phẩm, chốt đơn, không thích sản phẩm hay thích sản phẩm, muốn xả hàng hay hủy đơn hàng.",sđt  mã  địa chỉ trong cùng một tin nhắn,accessory
+2,2,"Đáp án: 2.
+Giải thích: Bình luận ""Hướng dẫn sử dụng đi e"" có vẻ như là một câu hỏi hoặc yêu cầu hướng dẫn sử dụng sản phẩm nào đó. Khách hàng muốn được giải đáp thắc mắc hoặc được hướng dẫn thêm về cách sử dụng sản phẩm.",Hướng dẫn sử dụng đi e,grocery
+3,2,"Đáp án: 2.
+Giải thích: Bình luận ""Lên ao khoác len đi chi"" có thể được hiểu là một câu hỏi hoặc một thắc mắc về cách sử dụng sản phẩm.",Lên ao khoác len đi chi,others
+2,2,"Đáp án: 2.
+Giải thích: Bình luận ""Bô xe máy dán ok k e"" không thể được phân loại vào các nhóm đã cho, vì nó không đặt câu hỏi về sản phẩm, cũng không chọn thông số sản phẩm, không thể chốt đơn hàng và không biểu thị sự thích hay không thích sản phẩm. Tuy nhiên, bình luận này có thể đang thắc mắc hoặc muốn biết thông tin về việc dán bô xe máy, vì vậy đáp án là 2.",Bô xe máy dán ok k e,grocery
+2,2,"Đáp án: 2. Bình luận này đặt câu hỏi về khả năng nhận in áo số lượng lớn, cho thấy người đăng có nhu cầu tìm hiểu về dịch vụ in áo.",chị có nhận in áo số lượng lớn không ạ,clothing
+2,2,Đáp án: 2. Người bình luận đang đặt câu hỏi về việc sản phẩm nước tây đã được bán chưa.,Nước tây tranh về chưa chị,grocery
+2,2,"Đáp án: 2. Bình luận này đang đặt câu hỏi về giá và kích thước của sản phẩm ""elsa"" và ""cond"". Có thể đây là tên nhãn hiệu của sản phẩm hoặc mô tả cho kiểu dáng sản phẩm, tuy nhiên không có đủ thông tin để chắc chắn.",elsa cond mấy đôi c,clothing
+2,2,Đáp án: 2. Bình luận này là một câu hỏi đang thắc mắc về giá của sản phẩm (váy b mặc mã bao nhiêu).,Váy b mặc mã bao nhiêu thế,fnb
+3,3,Đáp án: 3. Người bình luận đang chọn thông số cho sản phẩm là quần chíp nữ và giá của nó là 88k.,Quần chíp nữ xã 88k,grocery
+3,2,"Đáp án: 2. Đây là một câu hỏi hoặc thắc mắc về sản phẩm ""Set len"". Không có đủ thông tin để phân tích chi tiết hơn về loại sản phẩm này.",Set len,others
+3,3,Đáp án: 3. Người dùng đang chọn thông số sản phẩm khi chỉ ra rằng họ muốn mua 2 chiếc áo.,2ao,others
+3,3,"Đáp án: 3.
+Giải thích: Bình luận ""Size L"" có ý nghĩa chọn thông số cho sản phẩm, tức là khách hàng đang tìm kiếm sản phẩm có kích thước size L.",Size L,clothing
+3,3,"Đáp án: 3. Bình luận ""28.0"" có thể là việc chọn thông số kích thước sản phẩm, có thể là kích thước vòng eo, chiều cao, hoặc kích thước khác liên quan đến sản phẩm.",28.0,clothing
+3,3,"Đáp án: 3. Người dùng đang chọn thông số cho sản phẩm, đó là dép bông dồn trong danh mục hàng tạp hóa.",Dép bông dồn,grocery
+3,3,"Đáp án: 3. Người bình luận đang chọn thông số kích cỡ ""L"" cho sản phẩm được bán trong livestream bán hàng others.",L,others
+3,6,"Đáp án: 6. Bình luận ""chị lấy cả bộ"" có nghĩa là người bình luận thích sản phẩm và muốn mua cả bộ sản phẩm mà livestream đang bán hàng.",chị lấy cả bộ,clothing
+3,3,"Đáp án: 3. Người dùng đang chọn thông số cho sản phẩm ""Phích giữ nhiệt"" và gợi ý người bán ""Dồn đơn"" để mua sản phẩm đó.",Phích giữ nhiệt Dồn đơn,grocery
+3,3,"Đáp án: 3. Khách hàng đang yêu cầu vét sọc cho sản phẩm, là việc chọn thông số cho sản phẩm.",Vét sọc,others
