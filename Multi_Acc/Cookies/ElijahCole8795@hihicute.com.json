@@ -1,0 +1,49 @@
+[
+    {
+        "domain": "chat.openai.com",
+        "httpOnly": true,
+        "name": "__Secure-next-auth.callback-url",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "https%3A%2F%2Fchat.openai.com"
+    },
+    {
+        "domain": ".chat.openai.com",
+        "expiry": 1684141405,
+        "httpOnly": true,
+        "name": "__cf_bm",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "i7gSW1UUIvHWepEGuQctkjfScL5HpmI3SMwcJ40jjS0-1684139605-0-ASXH+5U064L38JLOazQZFwDM3AneKC9whw60TN9EqHzPSeLB/x54MzcxMet8y3ZPVTTbWjWOge26rHb7Tp5k7/xCtGpr33uEAOfXEQxN+PdSk41j0mUaZkG4JxO+5EN/r6n/P5AOxZJ/13NfsOrEr6g="
+    },
+    {
+        "domain": "chat.openai.com",
+        "httpOnly": true,
+        "name": "__Host-next-auth.csrf-token",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "fe2eb1947b0ce439d9a429571fc2c8d3cf1430b36b7bba3dda89fbe6c8f1cfb1%7Cf65903341f775fd451ab34c2896ce90b4d2f8907b3ac6911e151bfd3246c2515"
+    },
+    {
+        "domain": "chat.openai.com",
+        "expiry": 1686731624,
+        "httpOnly": true,
+        "name": "__Secure-next-auth.session-token",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..z0Z5k5X6DQLjd9yA.S5mhI3fcDlYWnrrHjErgZpWRwuX0NQ7AK_DV7M6-kg8bAGBJ8G2VAgcSGAiFxp5eOoFHy3kDJWSpBoNnvXXnNGY_ZCyh-aPpHlds4iI2TnJUXPR_2jzlbNGvrWkOiKMUX-45O5JNMmJ3nGzWjgtcB8EYQsfjN08NGWFlPpRcAUv6ArFaQ3ii4B7kHaUCwpP_Fa-cEyxlEEogcnEjuk-J4I1Ma1q8DIOju_VfTAEzgIvw6cMuHx4IIAzExlG--BGRbxdQ_j2CBNcu-fQ_o_n3fwJP2LAQc3fOWh_7UVdn6yr2i0sNeq3h89KxWHSKc1RWrs_nNzLvduxzsmb8r_7Sf_K7bPERPYPw_NrzhASg-i7AWk3Rvn83Ao0aRs4_V6aYEu3WVmZrcJrO3cnLq_rMOPwSbDqiFlC6g84qhuaxxKFny-LV94660yTKekCLSORLFuEirS45UR7wxTxQYSpgXDxN0oVFEvOnZU3tp4gN2YQSaMR_k8l43jZ0h3oGoOYfDuMGlmmA0mXl5bF0mVZVluBBDA5Pc7WxDfBR9JLiGVi3fH0OS32agOMPu1iYCDr9hjFLuIqOlY1j_l1jPMlZgu9TcJSYS8VRM-BzcsLSKbrsTbbSmv7sKHG1wme3ZbJ1FtS_tqtX8LN-9JDZI2aDZVqo51ZYCfy_DFhWA9rP2C5BsMfF8zZ2bPujN7LzmYwhMe3r7d2ICj_-0o3zEW_nxwa9zAaCJldc-gF4qR_SgWmQQS4q6qUA73zQtty1Ae6M8JdvVr6oOkjbeskf4FYddMJ58AcHnGtppQRH8pFyeufdYlxwZPiUL2M_LAeKeS0ClqG3uemEDx71p39q-ErgiLyUdJRJ_ujqj2XWkd0xBMgBxBFOebTnYbdGJspmVbDlN5QBhtSNtRc2f4eyiHj3rdJ_MzMJ6LuOWRaqfDUtjMRtc26zITl_3-4b-tlXPOoHwn0w_Z-tBBMtsAUnZfgwwbgWpBEYKf7taV0dFDOaSzdQSSe_pmIVYG0JEbPnV7pdzlhlzEthjKsIgzLF40GyUM7TnoG2NMJR13ECJ-5UrLM0Nk9Jb3SIi4Mm-xyO-mKFbIhvUNdrcJx6td3PPtUksfEpRBptI-MpVApa2BRBzwD69V6zNSF1zXqjm3VzBfrQAOJ5-5Tqgq4JK0wIAawQp--vO3sBgHfLh0NyLTzbAw8iY5C7FjkKAkKhyqwNTLH8SLr0SmMWAMQ8Ssb1CI47nZSGMr64JdiWGkGA_urq8DnXig_LDYasVj0--hK3mPTfZ_gjvPQf9oAaeidOU02ash3E9rPXZd897quZJz8PQzFdqnNinCFAlGw1jvvBemZnOk0eh9srdOG1N_kwP6X6wUiiBiM5DJ-R5ZeUnLJyFitnPe0MWDWUM6GuzmTKsc054hKxV5HCrDCJt49ZwGWZGbQKq5m0f9gKlxJwXtR2ztgC6ndkaV4XR9TkJJ8T_HlXT9hZKVvi4VbJv-39SepGTDqz-BPDm83LlepzXfsTS6i3U2MV35psEvRo9RpQX8a6v8WYH3Qn88NKDPIhwEjha15HaOsrFL97Igl-FCQgNh7C19yqUlQHbUne_kpt9pyLaI1DwoTD0qN4lizQq8-_PCZAJF2eifOw58y23r8oU49q6B88ssMNLLKCjCKT1GpEw8lVM5pBbBm3d9fEUY3zT3mDy86Hvb4TNEjB2Z49gJvSKCSJfMuWzn2UyUbS_UoUhFAdcZLL9ol59_psN_SbV-VM0-ctYzN5RFFNGwPAhDmLSNGBI4WH3x2LfmRw2iiR4ComepRhOYo79XUCmaIa8xj8Jy3Gj7UTZpv3O9BruI81x8H6VHp9ojLusJ2lx7j7GGZim1JehyHruFOueRtfTtroOOj4YYjMP5T6Bho4_y_kCwMLBsQLllmJp0a9owQ8142BxnatgBFTpiDbN10EoSzH7kXIGGN1rMrMHBr2ledO2JmonwJoOWJXssYx985nvBdoeS8llf2-4ymB9leJjJR6FhX7m0FkRJjfvXhekL9y0YPGPRpUks0z3KHH4rXmUi8E6eYXpG-1O4nvWsaXWh33Aga3WnDyhz-mO0CnmgiViuMQGXvQgq3tKJYW8h0as8r-zvvOqWY9ilOgiBM2SEzfKnYs8Cocu8zxNXjG77At3FEEnwWOAONk-JEHBiw0oBq-wgXa67ER8vEHlhFcpKUt0BAjzVmOYWVEOK5mD1aR0VSC784CKo2BBBsY9lyIygnRGLuzpMfE7Cv07pkePEDJ7lTTCAcx_Bi3dk7TNrMbHhVrNNhDumRyPgGM2nT8f-1G7_yZymWPxwJ3ey-kHLaUrzF8Ao_z3T3qLCjlMmdehheOcVMxneCUdzV83_O-HLWxJ5yeShiENVHgiZyQCurajGm_tWnkqk3YnkmlaNGcJe20sQuoQ_Nk_HYJcwC6blSNLW1eERfl2s2Qi9pATc1mX00HHg4DgKtn4A2TOYV1cHqWN1O9Cq_DDoJyaU9oGdV3xDTAFdW2iuqBoQjc3Bvy7toOFl36OMrSzF9UlmpjHXmO1TdRGgxdpgxot99pmaWh9Tee4vonFXzNC4rYbzPFoP-NfATX-GF3RCHblgP1VudqY_FrWuWiNVv-pQcNrUAFNkrpegT1Ff_gSZJyY4l_dbt1qQxEMFXilSrtqiBiRro9RklA0qGW3-ZdE8rbGLyAOT-tAeE8j8n1SGrLplNzR_ycaKST9XglpqI3KYR5_-DqTS51Hvl2NCKB0-gF1PnpW_xwfaA5R9wCA8Qp3SvK74BHY0iVJng5w9sMNsPp9yeXb5dLSq1wb_NZtfAoAh8jl1AMym6VCdDMTF8YfV66scic4pVX8CxVfp1fdronRHsTgJVfbo14.44UmR5RuChJOuWKJpkF9FQ"
+    },
+    {
+        "domain": ".chat.openai.com",
+        "httpOnly": true,
+        "name": "_cfuvid",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "_EuZsajAIqqFrXNXUhGUa2c0oRTdZp9y.hrD0tXjBqo-1684139604215-0-604800000"
+    }
+]
