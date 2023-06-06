@@ -39,12 +39,12 @@ def create_new_browser(acc_i, name, email, passw, cookies):
     busied[acc_i] = False
 
 
-def get_available_browser():
-    for acc_i, driver_ in browsers.items():
+def get_available_browser_index():
+    for acc_i in busied.keys():
         if not busied[acc_i]:
             busied[acc_i] = True
-            return driver_, acc_i
-    return None, -1
+            return acc_i
+    return -1
 
 
 def start():
@@ -80,12 +80,12 @@ def labelling():
     data = request.form
     prompt = data["prompt"]
 
-    browser, ind = get_available_browser()
+    ind = get_available_browser_index()
     if ind == -1:
-        return {"message": "All browsers are currently busy"}
+        return {"message": "All browsers are currently busy"}, 200
 
     print(ind, "--> busy")
-    output = {"output": browser.new_chat(prompt)}
+    output = {"output": browsers[ind].new_chat(prompt)}
     busied[ind] = False
     print(ind, "--> free")
     return output, 200

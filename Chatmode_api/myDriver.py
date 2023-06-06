@@ -23,7 +23,7 @@ class MyDriver:
         self.current_url = basic_url
         self.name = name
         chrome_options = Options()
-        # chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--headless")
         self.driver = uc.Chrome(options=chrome_options)
 
 
@@ -162,8 +162,8 @@ class MyDriver:
                 btnText = self.driver.find_elements(By.XPATH, stop_generate_btn_class)
                 if len(btnText) and btnText[0].text == "Regenerate response":
                     break
-                time.sleep(3)
-                kill_time += 3
+                time.sleep(2)
+                kill_time += 2
 
             outputElements_class_name = "//div[@class='markdown prose w-full break-words dark:prose-invert light']"
             outputElements = self.driver.find_elements(By.XPATH, outputElements_class_name)
@@ -173,6 +173,7 @@ class MyDriver:
 
         create_new_chat()
         send_prompt()
+        print(self.name, ": Sent.")
         status = problems_existed()
         while status != 0:
             if status == 2:
@@ -182,6 +183,7 @@ class MyDriver:
             print(message)
             time.sleep(time_out*60)
             self.go_to(url_=self.current_url, wait_time_=3)
+            create_new_chat()
             send_prompt()
             status = self.problems_existed()
         print(self.name, ": Allowed to answer.")
