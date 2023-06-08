@@ -174,18 +174,10 @@ class MyDriver:
         create_new_chat()
         send_prompt()
         print(self.name, ": Sent.")
+        time.sleep(7) # fixed
         status = problems_existed()
-        while status != 0:
-            if status == 2:
-                self.new_chat()
-            time_out = random.randint(3, 5)
-            message = self.name + ": Waiting for " + str(time_out) + " minutes!!!"
-            print(message)
-            time.sleep(time_out*60)
-            self.go_to(url_=self.current_url, wait_time_=3)
-            create_new_chat()
-            send_prompt()
-            status = self.problems_existed()
-        print(self.name, ": Allowed to answer.")
-        output = get_output()
+        if status != 0:
+            output = None
+        else:
+            output = get_output()
         return output

@@ -16,8 +16,7 @@ with open("accounts.json") as acc_json:
     acc_list = json.load(acc_json)["accounts"]
     acc_json.close()
 
-browsers = dict()
-busied = dict()
+freeDrivers = [] # queue
 
 def update_accounts_json():
     res = dict()
@@ -34,20 +33,11 @@ def create_new_browser(acc_i, name, email, passw, cookies):
     if res_cookies and res_cookies != "Needless":
         acc_list[acc_i]["cookies"] = res_cookies
     myDriver.skip_popups()
-
-    browsers[acc_i] = myDriver
-    busied[acc_i] = False
-
-
-def get_available_browser_index():
-    for acc_i in busied.keys():
-        if not busied[acc_i]:
-            busied[acc_i] = True
-            return acc_i
-    return -1
+    freeDrivers.append(myDriver)
 
 
 def start():
+    print("Loading ...")
     try:
         thr_list = []
         for acc_i, acc in enumerate(acc_list):
@@ -64,38 +54,70 @@ def start():
     except Exception as e:
         print(e)
     update_accounts_json()
-    print(len(browsers), "browsers are currently available.")
+    print(len(freeDrivers), "browsers are currently available.")
 
 
 @app.route('/', methods=['POST'])
 def home():
     output = {
-        "message": "Just do it."
+        "output": "Just do it."
+    }
+    return output, 200
+
+@app.route('/kill', methods=['POST'])
+def kill():
+    for driver in freeDrivers:
+        driver.turn_off()
+    output = {
+        "output": "Goodbye."
     }
     return output, 200
 
 
 @app.route('/labelling', methods=['POST'])
 def labelling():
+    
+    def get_available_driver():
+        if len(freeDrivers) == 0:
+            return None
+        freeDriver = freeDrivers[0]
+        freeDrivers.pop(0)
+        return freeDriver
+    
+    def try_it(prompt, num_time):
+        if num_time == len(freeDrivers):
+            return "All browsers are currently busy", None
+        
+        freeDriver = get_available_driver()
+        num_time += 1
+        
+        if not freeDriver:
+            freeDrivers.append(freeDriver)
+            return "All browsers are currently busy", None
+        print(freeDriver.name, "--> busy")
+        try:
+            gpt_response = freeDriver.new_chat(prompt)
+            freeDriver_clone = freeDriver
+        except Exception as e:
+            print(freeDriver.name, ": Error occuring while request")
+            gpt_response = e
+        if gpt_response is None: # over
+            freeDrivers.append(freeDriver)
+            print("try do it with another.")
+            return try_it(prompt, num_time)
+        return gpt_response, freeDriver_clone
+        
     data = request.form
     prompt = data["prompt"]
 
-    ind = get_available_browser_index()
-    if ind == -1:
-        return {"message": "All browsers are currently busy"}, 200
-
-    print(ind, "--> busy")
-    output = {"output": browsers[ind].new_chat(prompt)}
-    busied[ind] = False
-    print(ind, "--> free")
+    num_time = 0
+    gpt_response, freeDriver_clone = try_it(prompt, num_time)
+      
+    output = {"output": gpt_response}
+    if freeDriver_clone is not None:
+        freeDrivers.append(freeDriver_clone)
+        print(freeDriver_clone.name, "--> free")
     return output, 200
-
-
-@app.route('/kill', methods=['POST'])
-def kill():
-    for browser in browsers.values():
-        browser.turn_off()
-    return {"message": "Goodbye."}, 200
 
 
 if __name__ == '__main__':
