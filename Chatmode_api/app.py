@@ -74,8 +74,8 @@ def kill():
     return output, 200
 
 
-@app.route('/labelling', methods=['POST'])
-def labelling():
+@app.route('/labeling', methods=['POST'])
+def labeling():
     
     def get_available_driver():
         if len(freeDrivers) == 0:
